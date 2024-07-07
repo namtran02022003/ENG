@@ -1,0 +1,3948 @@
+{
+  "day1": [
+    {
+      "id": 1,
+      "vn": "một",
+      "en": "A, An"
+    },
+    {
+      "id": 2,
+      "vn": "Giới thiệu",
+      "en": "About"
+    },
+    {
+      "id": 3,
+      "vn": "phía trên",
+      "en": "Above"
+    },
+    {
+      "id": 4,
+      "vn": "sang",
+      "en": "Across"
+    },
+    {
+      "id": 5,
+      "vn": "hành động",
+      "en": "Action"
+    },
+    {
+      "id": 6,
+      "vn": "hoạt động",
+      "en": "Activity"
+    },
+    {
+      "id": 7,
+      "vn": "diễn viên nam",
+      "en": "Actor"
+    },
+    {
+      "id": 8,
+      "vn": "diễn viên nữ",
+      "en": "Actress"
+    },
+    {
+      "id": 9,
+      "vn": "thêm",
+      "en": "Add"
+    },
+    {
+      "id": 10,
+      "vn": "địa chỉ",
+      "en": "Address"
+    },
+    {
+      "id": 11,
+      "vn": "trưởng thành",
+      "en": "Adult"
+    },
+    {
+      "id": 12,
+      "vn": "lời luyên",
+      "en": "Advice"
+    },
+    {
+      "id": 13,
+      "vn": "sợ",
+      "en": "Afraid"
+    },
+    {
+      "id": 14,
+      "vn": "sau",
+      "en": "After"
+    },
+    {
+      "id": 15,
+      "vn": "buổi trưa",
+      "en": "Afternoon"
+    },
+    {
+      "id": 16,
+      "vn": "lại",
+      "en": "Again"
+    },
+    {
+      "id": 17,
+      "vn": "tuổi",
+      "en": "Age"
+    },
+    {
+      "id": 18,
+      "vn": "trước",
+      "en": "Ago"
+    },
+    {
+      "id": 19,
+      "vn": "đồng ý",
+      "en": "Agree"
+    },
+    {
+      "id": 20,
+      "vn": "không khí",
+      "en": "Air"
+    },
+    {
+      "id": 21,
+      "vn": "sân bay",
+      "en": "Airport"
+    },
+    {
+      "id": 22,
+      "vn": "tất cả",
+      "en": "All"
+    },
+    {
+      "id": 23,
+      "vn": "macjwc dù",
+      "en": "Also"
+    },
+    {
+      "id": 24,
+      "vn": "luôn luôn",
+      "en": "Always"
+    },
+    {
+      "id": 25,
+      "vn": "tuyệt vời",
+      "en": "Amazing"
+    },
+    {
+      "id": 26,
+      "vn": "và ",
+      "en": "And"
+    },
+    {
+      "id": 27,
+      "vn": "tức giận",
+      "en": "Angry"
+    },
+    {
+      "id": 28,
+      "vn": "động vật",
+      "en": "Animal"
+    },
+    {
+      "id": 29,
+      "vn": "Khác",
+      "en": "Another"
+    },
+    {
+      "id": 30,
+      "vn": "trả lời",
+      "en": "Answer"
+    },
+    {
+      "id": 31,
+      "vn": "Bất kỳ",
+      "en": "Any"
+    },
+    {
+      "id": 32,
+      "vn": "bất kỳ ai",
+      "en": "Anyone"
+    },
+    {
+      "id": 33,
+      "vn": "mọi thứ",
+      "en": "Anything"
+    },
+    {
+      "id": 34,
+      "vn": "căn hộ",
+      "en": "Apartment"
+    },
+    {
+      "id": 35,
+      "vn": "quả táo",
+      "en": "Apple"
+    },
+    {
+      "id": 36,
+      "vn": "tháng 4",
+      "en": "April"
+    },
+    {
+      "id": 37,
+      "vn": "khu vực",
+      "en": "Area"
+    },
+    {
+      "id": 38,
+      "vn": "cánh tay",
+      "en": "Arm"
+    },
+    {
+      "id": 39,
+      "vn": "xung quanh",
+      "en": "Around"
+    },
+    {
+      "id": 40,
+      "vn": "đến",
+      "en": "Arrive"
+    },
+    {
+      "id": 41,
+      "vn": "nghệ thuật",
+      "en": "Art"
+    },
+    {
+      "id": 42,
+      "vn": "bài báo",
+      "en": "Article"
+    },
+    {
+      "id": 43,
+      "vn": "nghệ sỹ",
+      "en": "Artist"
+    },
+    {
+      "id": 44,
+      "vn": "bằng",
+      "en": "As"
+    },
+    {
+      "id": 45,
+      "vn": "hỏi",
+      "en": "Ask"
+    },
+    {
+      "id": 46,
+      "vn": "tại",
+      "en": "At"
+    },
+    {
+      "id": 47,
+      "vn": "tháng 8",
+      "en": "August"
+    },
+    {
+      "id": 48,
+      "vn": "dì, chú",
+      "en": "Aunt"
+    },
+    {
+      "id": 49,
+      "vn": "xa",
+      "en": "Away"
+    },
+    {
+      "id": 50,
+      "vn": "tuyệt vời",
+      "en": "Awesome"
+    },
+    {
+      "id": 51,
+      "vn": "trẻ",
+      "en": "Baby"
+    },
+    {
+      "id": 52,
+      "vn": "trở  lại",
+      "en": "Back"
+    },
+    {
+      "id": 53,
+      "vn": "tồi tệ",
+      "en": "Bad"
+    },
+    {
+      "id": 54,
+      "vn": "túi",
+      "en": "Bag"
+    },
+    {
+      "id": 55,
+      "vn": "quả bóng",
+      "en": "Ball"
+    },
+    {
+      "id": 56,
+      "vn": "quả chuối",
+      "en": "Banana"
+    },
+    {
+      "id": 57,
+      "vn": "ban nhạc",
+      "en": "Band"
+    },
+    {
+      "id": 58,
+      "vn": "ngân hàng",
+      "en": "Bank (Money)"
+    },
+    {
+      "id": 59,
+      "vn": "bar",
+      "en": "Bar"
+    },
+    {
+      "id": 60,
+      "vn": "Bóng chày",
+      "en": "Baseball"
+    },
+    {
+      "id": 61,
+      "vn": "bóng rổ",
+      "en": "Basketball"
+    },
+    {
+      "id": 62,
+      "vn": "Bồn tắm",
+      "en": "Bath"
+    },
+    {
+      "id": 63,
+      "vn": "phòng tắm",
+      "en": "Bathroom"
+    },
+    {
+      "id": 64,
+      "vn": "là",
+      "en": "Be"
+    },
+    {
+      "id": 65,
+      "vn": "bãi biển",
+      "en": "Beach"
+    },
+    {
+      "id": 66,
+      "vn": "xinh đẹp",
+      "en": "Beautiful"
+    },
+    {
+      "id": 67,
+      "vn": "bời vì",
+      "en": "Because"
+    },
+    {
+      "id": 68,
+      "vn": "trở thành",
+      "en": "Become"
+    },
+    {
+      "id": 69,
+      "vn": "ngủ",
+      "en": "Bed"
+    },
+    {
+      "id": 70,
+      "vn": "phòng ngủ",
+      "en": "Bedroom"
+    },
+    {
+      "id": 71,
+      "vn": "bia",
+      "en": "Beer"
+    },
+    {
+      "id": 72,
+      "vn": "trước đó",
+      "en": "Before"
+    },
+    {
+      "id": 73,
+      "vn": "bắt đầu",
+      "en": "Begin"
+    },
+    {
+      "id": 74,
+      "vn": "Bắt đầu",
+      "en": "Beginning"
+    },
+    {
+      "id": 75,
+      "vn": "phía sau",
+      "en": "Behind"
+    },
+    {
+      "id": 76,
+      "vn": "tin tưởng",
+      "en": "Believe"
+    },
+    {
+      "id": 77,
+      "vn": "",
+      "en": "Below"
+    },
+    {
+      "id": 78,
+      "vn": "tốt nhất",
+      "en": "Best"
+    },
+    {
+      "id": 79,
+      "vn": "tốt hơn",
+      "en": "Better"
+    },
+    {
+      "id": 80,
+      "vn": "giữa",
+      "en": "Between"
+    },
+    {
+      "id": 81,
+      "vn": "xe đạp",
+      "en": "Bicycle"
+    },
+    {
+      "id": 82,
+      "vn": "to",
+      "en": "Big"
+    },
+    {
+      "id": 83,
+      "vn": "xe đạp",
+      "en": "Bike"
+    },
+    {
+      "id": 84,
+      "vn": "hóa đơn",
+      "en": "Bill"
+    },
+    {
+      "id": 85,
+      "vn": "chim",
+      "en": "Bird"
+    },
+    {
+      "id": 86,
+      "vn": "sinh nhật",
+      "en": "Birthday"
+    },
+    {
+      "id": 87,
+      "vn": "màu đen",
+      "en": "Black"
+    },
+    {
+      "id": 88,
+      "vn": "blog",
+      "en": "Blog"
+    },
+    {
+      "id": 89,
+      "vn": "tóc vàng",
+      "en": "Blond"
+    },
+    {
+      "id": 90,
+      "vn": "xanh da trời",
+      "en": "Blue"
+    },
+    {
+      "id": 91,
+      "vn": "Thuyển",
+      "en": "Boat"
+    },
+    {
+      "id": 92,
+      "vn": "cơ thể",
+      "en": "Body"
+    },
+    {
+      "id": 93,
+      "vn": "sách",
+      "en": "Book"
+    },
+    {
+      "id": 94,
+      "vn": "khoởi động",
+      "en": "Boot"
+    },
+    {
+      "id": 95,
+      "vn": "chán",
+      "en": "Bored"
+    },
+    {
+      "id": 96,
+      "vn": "chán nản",
+      "en": "Boring"
+    },
+    {
+      "id": 97,
+      "vn": "sinh ra",
+      "en": "Born"
+    },
+    {
+      "id": 98,
+      "vn": "cả 2",
+      "en": "Both"
+    },
+    {
+      "id": 99,
+      "vn": "chai",
+      "en": "Bottle"
+    },
+    {
+      "id": 100,
+      "vn": "hộp",
+      "en": "Box"
+    },
+    {
+      "id": 101,
+      "vn": "con trai",
+      "en": "Boy"
+    },
+    {
+      "id": 102,
+      "vn": "ban trai",
+      "en": "Boyfriend"
+    },
+    {
+      "id": 103,
+      "vn": "bánh mỳ",
+      "en": "Bread"
+    },
+    {
+      "id": 104,
+      "vn": "tách, ngắt",
+      "en": "Break"
+    },
+    {
+      "id": 105,
+      "vn": "bữa sáng",
+      "en": "Breakfast"
+    },
+    {
+      "id": 106,
+      "vn": "mang",
+      "en": "Bring"
+    },
+    {
+      "id": 107,
+      "vn": "anh trai",
+      "en": "Brother"
+    },
+    {
+      "id": 108,
+      "vn": "màu nâu",
+      "en": "Brown"
+    },
+    {
+      "id": 109,
+      "vn": "xây",
+      "en": "Build"
+    },
+    {
+      "id": 110,
+      "vn": "Xây dựng",
+      "en": "Building"
+    },
+    {
+      "id": 111,
+      "vn": "xe bus",
+      "en": "Bus"
+    },
+    {
+      "id": 112,
+      "vn": "Kinh doanh",
+      "en": "Business"
+    },
+    {
+      "id": 113,
+      "vn": "bận",
+      "en": "Busy"
+    },
+    {
+      "id": 114,
+      "vn": "nhưng",
+      "en": "But"
+    },
+    {
+      "id": 115,
+      "vn": "Bơ",
+      "en": "Butter"
+    },
+    {
+      "id": 116,
+      "vn": "mua",
+      "en": "Buy"
+    },
+    {
+      "id": 117,
+      "vn": "qua/ bằng gì",
+      "en": "By"
+    },
+    {
+      "id": 118,
+      "vn": "tạm biệt",
+      "en": "Bye"
+    },
+    {
+      "id": 119,
+      "vn": "café",
+      "en": "Cafe"
+    },
+    {
+      "id": 120,
+      "vn": "bánh mỳ",
+      "en": "Cake"
+    },
+    {
+      "id": 121,
+      "vn": "gọi",
+      "en": "Call"
+    },
+    {
+      "id": 122,
+      "vn": "máy ảnh",
+      "en": "Camera"
+    },
+    {
+      "id": 123,
+      "vn": "coó thể",
+      "en": "Can"
+    },
+    {
+      "id": 124,
+      "vn": "không thể",
+      "en": "Cannot"
+    },
+    {
+      "id": 125,
+      "vn": "thuủ đô",
+      "en": "Capital"
+    },
+    {
+      "id": 126,
+      "vn": "ô tô",
+      "en": "Car"
+    },
+    {
+      "id": 127,
+      "vn": "thẻ",
+      "en": "Card"
+    },
+    {
+      "id": 128,
+      "vn": "sự nghiệp",
+      "en": "Career"
+    },
+    {
+      "id": 129,
+      "vn": "caà rốt",
+      "en": "Carrot"
+    },
+    {
+      "id": 130,
+      "vn": "mang",
+      "en": "Carry"
+    },
+    {
+      "id": 131,
+      "vn": "mèo",
+      "en": "Cat"
+    },
+    {
+      "id": 132,
+      "vn": "cd",
+      "en": "Cd"
+    },
+    {
+      "id": 133,
+      "vn": "Xu",
+      "en": "Cent"
+    },
+    {
+      "id": 134,
+      "vn": "ở giữa",
+      "en": "Center"
+    },
+    {
+      "id": 135,
+      "vn": "ghế",
+      "en": "Chair"
+    },
+    {
+      "id": 136,
+      "vn": "thay dổi",
+      "en": "Change"
+    },
+    {
+      "id": 137,
+      "vn": "biểu đồ",
+      "en": "Chart"
+    },
+    {
+      "id": 138,
+      "vn": "Rẻ",
+      "en": "Cheap"
+    },
+    {
+      "id": 139,
+      "vn": "kiểm tra",
+      "en": "Check"
+    },
+    {
+      "id": 140,
+      "vn": "phô mát",
+      "en": "Cheese"
+    },
+    {
+      "id": 141,
+      "vn": "gà",
+      "en": "Chicken"
+    },
+    {
+      "id": 142,
+      "vn": "trẻ em",
+      "en": "Child"
+    },
+    {
+      "id": 143,
+      "vn": "sô cô la",
+      "en": "Chocolate"
+    },
+    {
+      "id": 144,
+      "vn": "Chọn",
+      "en": "Choose"
+    },
+    {
+      "id": 145,
+      "vn": "thaành phố",
+      "en": "City"
+    },
+    {
+      "id": 146,
+      "vn": "lơpps",
+      "en": "Class"
+    },
+    {
+      "id": 147,
+      "vn": "lơớp học",
+      "en": "Classroom"
+    },
+    {
+      "id": 148,
+      "vn": "làm sạch",
+      "en": "Clean"
+    },
+    {
+      "id": 149,
+      "vn": "Leo",
+      "en": "Climb"
+    },
+    {
+      "id": 150,
+      "vn": "đồng hồ",
+      "en": "Clock"
+    },
+    {
+      "id": 151,
+      "vn": "đóng",
+      "en": "Close"
+    },
+    {
+      "id": 152,
+      "vn": "quaần áo",
+      "en": "Clothes"
+    },
+    {
+      "id": 153,
+      "vn": "câu lạc bộ",
+      "en": "Club"
+    },
+    {
+      "id": 154,
+      "vn": "Áo choàng",
+      "en": "Coat"
+    },
+    {
+      "id": 155,
+      "vn": "café",
+      "en": "Coffee"
+    },
+    {
+      "id": 156,
+      "vn": "lạnh",
+      "en": "Cold"
+    },
+    {
+      "id": 157,
+      "vn": "đại học",
+      "en": "College"
+    },
+    {
+      "id": 158,
+      "vn": "màu sắc",
+      "en": "Color"
+    },
+    {
+      "id": 159,
+      "vn": "đến",
+      "en": "Come"
+    },
+    {
+      "id": 160,
+      "vn": "chung",
+      "en": "Common"
+    },
+    {
+      "id": 161,
+      "vn": "công ty",
+      "en": "Company"
+    },
+    {
+      "id": 162,
+      "vn": "so sánh",
+      "en": "Compare"
+    },
+    {
+      "id": 163,
+      "vn": "hoàn thành",
+      "en": "Complete"
+    },
+    {
+      "id": 164,
+      "vn": "máy tính",
+      "en": "Computer"
+    },
+    {
+      "id": 165,
+      "vn": "buổi hòa nhạc",
+      "en": "Concert"
+    },
+    {
+      "id": 166,
+      "vn": "hội thoại",
+      "en": "Conversation"
+    },
+    {
+      "id": 167,
+      "vn": "nấu ăn",
+      "en": "Cook"
+    },
+    {
+      "id": 168,
+      "vn": "nấu ăn",
+      "en": "Cooking"
+    },
+    {
+      "id": 169,
+      "vn": "ngầu",
+      "en": "Cool"
+    },
+    {
+      "id": 170,
+      "vn": "chính xác",
+      "en": "Correct"
+    },
+    {
+      "id": 171,
+      "vn": "trị giá",
+      "en": "Cost"
+    },
+    {
+      "id": 172,
+      "vn": "có thể",
+      "en": "Could"
+    },
+    {
+      "id": 173,
+      "vn": "Quốc gia",
+      "en": "Country"
+    },
+    {
+      "id": 174,
+      "vn": "khóa học/ dĩ nhiên",
+      "en": "Course"
+    },
+    {
+      "id": 175,
+      "vn": "anh em họ",
+      "en": "Cousin"
+    },
+    {
+      "id": 176,
+      "vn": "con bò",
+      "en": "Cow"
+    },
+    {
+      "id": 177,
+      "vn": "kem",
+      "en": "Cream"
+    },
+    {
+      "id": 178,
+      "vn": "tạo",
+      "en": "Create"
+    },
+    {
+      "id": 179,
+      "vn": "văn hóa",
+      "en": "Culture"
+    },
+    {
+      "id": 180,
+      "vn": "Cốc",
+      "en": "Cup"
+    },
+    {
+      "id": 181,
+      "vn": "khách hàng",
+      "en": "Customer"
+    },
+    {
+      "id": 182,
+      "vn": "cắt",
+      "en": "Cut"
+    },
+    {
+      "id": 183,
+      "vn": "cha",
+      "en": "Dad"
+    },
+    {
+      "id": 184,
+      "vn": "nhảy",
+      "en": "Dance"
+    },
+    {
+      "id": 185,
+      "vn": "vũ công",
+      "en": "Dancer"
+    },
+    {
+      "id": 186,
+      "vn": "nhảy",
+      "en": "Dancing"
+    },
+    {
+      "id": 187,
+      "vn": "nguy hiểm",
+      "en": "Dangerous"
+    },
+    {
+      "id": 188,
+      "vn": "tối",
+      "en": "Dark"
+    },
+    {
+      "id": 189,
+      "vn": "ngày",
+      "en": "Date"
+    },
+    {
+      "id": 190,
+      "vn": "con gái",
+      "en": "Daughter"
+    },
+    {
+      "id": 191,
+      "vn": "ngày",
+      "en": "Day"
+    },
+    {
+      "id": 192,
+      "vn": "kiính gửi",
+      "en": "Dear"
+    },
+    {
+      "id": 193,
+      "vn": "tháng 12",
+      "en": "December"
+    },
+    {
+      "id": 194,
+      "vn": "quyết định",
+      "en": "Decide"
+    },
+    {
+      "id": 195,
+      "vn": "ngon",
+      "en": "Delicious"
+    },
+    {
+      "id": 196,
+      "vn": "mô tả",
+      "en": "Describe"
+    },
+    {
+      "id": 197,
+      "vn": "sự mô tả",
+      "en": "Description"
+    },
+    {
+      "id": 198,
+      "vn": "thiết kế",
+      "en": "Design"
+    },
+    {
+      "id": 199,
+      "vn": "cái bàn",
+      "en": "Desk"
+    },
+    {
+      "id": 200,
+      "vn": "chi tiết",
+      "en": "Detail"
+    },
+    {
+      "id": 201,
+      "vn": "hoội thoại",
+      "en": "Dialogue"
+    },
+    {
+      "id": 202,
+      "vn": "từ điển",
+      "en": "Dictionary"
+    },
+    {
+      "id": 203,
+      "vn": "chết",
+      "en": "Die"
+    },
+    {
+      "id": 204,
+      "vn": "Ăn kiêng",
+      "en": "Diet"
+    },
+    {
+      "id": 205,
+      "vn": "Sự khác nhau",
+      "en": "Difference"
+    },
+    {
+      "id": 206,
+      "vn": "khác nhau",
+      "en": "Different"
+    },
+    {
+      "id": 207,
+      "vn": "Khó",
+      "en": "Difficult"
+    },
+    {
+      "id": 208,
+      "vn": "bữa tối",
+      "en": "Dinner"
+    },
+    {
+      "id": 209,
+      "vn": "bụi bẩn",
+      "en": "Dirty"
+    },
+    {
+      "id": 210,
+      "vn": "thảo thuận",
+      "en": "Discuss"
+    },
+    {
+      "id": 211,
+      "vn": "Món ăn",
+      "en": "Dish"
+    },
+    {
+      "id": 212,
+      "vn": "làm sạch",
+      "en": "Do"
+    },
+    {
+      "id": 213,
+      "vn": "bác sỹ",
+      "en": "Doctor"
+    },
+    {
+      "id": 214,
+      "vn": "chó",
+      "en": "Dog"
+    },
+    {
+      "id": 215,
+      "vn": "dô la mỹ",
+      "en": "Dollar"
+    },
+    {
+      "id": 216,
+      "vn": "cửa sổ",
+      "en": "Door"
+    },
+    {
+      "id": 217,
+      "vn": "xuống",
+      "en": "Down"
+    },
+    {
+      "id": 218,
+      "vn": "Tầng dưới",
+      "en": "Downstairs"
+    },
+    {
+      "id": 219,
+      "vn": "vẽ",
+      "en": "Draw"
+    },
+    {
+      "id": 220,
+      "vn": "váy",
+      "en": "Dress"
+    },
+    {
+      "id": 221,
+      "vn": "uống",
+      "en": "Drink"
+    },
+    {
+      "id": 222,
+      "vn": "lái xe",
+      "en": "Drive"
+    },
+    {
+      "id": 223,
+      "vn": "tài xe",
+      "en": "Driver"
+    },
+    {
+      "id": 224,
+      "vn": "trong suốt",
+      "en": "During"
+    },
+    {
+      "id": 225,
+      "vn": "dvd",
+      "en": "Dvd"
+    },
+    {
+      "id": 226,
+      "vn": "mỗi",
+      "en": "Each"
+    },
+    {
+      "id": 227,
+      "vn": "tai",
+      "en": "Ear"
+    },
+    {
+      "id": 228,
+      "vn": "sớm",
+      "en": "Early"
+    },
+    {
+      "id": 229,
+      "vn": "Phía đông",
+      "en": "East"
+    },
+    {
+      "id": 230,
+      "vn": "dễ",
+      "en": "Easy"
+    }
+  ],
+  "day2": [
+    {
+      "id": 1,
+      "vn": "Ăn",
+      "en": "Eat"
+    },
+    {
+      "id": 2,
+      "vn": "Trứng",
+      "en": "Egg"
+    },
+    {
+      "id": 3,
+      "vn": "Tám",
+      "en": "Eight"
+    },
+    {
+      "id": 4,
+      "vn": "mười tám",
+      "en": "Eighteen"
+    },
+    {
+      "id": 5,
+      "vn": "Tám mươi",
+      "en": "Eighty"
+    },
+    {
+      "id": 6,
+      "vn": "Con voi",
+      "en": "Elephant"
+    },
+    {
+      "id": 7,
+      "vn": "mười một",
+      "en": "Eleven"
+    },
+    {
+      "id": 8,
+      "vn": "Khác",
+      "en": "Else"
+    },
+    {
+      "id": 9,
+      "vn": "E-mail",
+      "en": "Email"
+    },
+    {
+      "id": 10,
+      "vn": "Kết thúc",
+      "en": "End"
+    },
+    {
+      "id": 11,
+      "vn": "Thưởng thức",
+      "en": "Enjoy"
+    },
+    {
+      "id": 12,
+      "vn": "Đủ",
+      "en": "Enough"
+    },
+    {
+      "id": 13,
+      "vn": "Euro",
+      "en": "Euro"
+    },
+    {
+      "id": 14,
+      "vn": "Thậm chí",
+      "en": "Even"
+    },
+    {
+      "id": 15,
+      "vn": "Buổi tối",
+      "en": "Evening"
+    },
+    {
+      "id": 16,
+      "vn": "Sự kiện",
+      "en": "Event"
+    },
+    {
+      "id": 17,
+      "vn": "Bao giờ",
+      "en": "Ever"
+    },
+    {
+      "id": 18,
+      "vn": "Mọi",
+      "en": "Every"
+    },
+    {
+      "id": 19,
+      "vn": "Mọi người",
+      "en": "Everybody"
+    },
+    {
+      "id": 20,
+      "vn": "Mọi người",
+      "en": "Everyone"
+    },
+    {
+      "id": 21,
+      "vn": "Mọi thứ",
+      "en": "Everything"
+    },
+    {
+      "id": 22,
+      "vn": "Bài thi",
+      "en": "Exam"
+    },
+    {
+      "id": 23,
+      "vn": "Ví dụ",
+      "en": "Example"
+    },
+    {
+      "id": 24,
+      "vn": "Hào hứng",
+      "en": "Excited"
+    },
+    {
+      "id": 25,
+      "vn": "Thú vị",
+      "en": "Exciting"
+    },
+    {
+      "id": 26,
+      "vn": "Bài tập",
+      "en": "Exercise"
+    },
+    {
+      "id": 27,
+      "vn": "Đắt",
+      "en": "Expensive"
+    },
+    {
+      "id": 28,
+      "vn": "Giải thích",
+      "en": "Explain"
+    },
+    {
+      "id": 29,
+      "vn": "Thêm",
+      "en": "Extra"
+    },
+    {
+      "id": 30,
+      "vn": "Mắt",
+      "en": "Eye"
+    },
+    {
+      "id": 31,
+      "vn": "Khuôn mặt",
+      "en": "Face"
+    },
+    {
+      "id": 32,
+      "vn": "Sự thật",
+      "en": "Fact"
+    },
+    {
+      "id": 33,
+      "vn": "Ngã",
+      "en": "Fall"
+    },
+    {
+      "id": 34,
+      "vn": "SAI",
+      "en": "False"
+    },
+    {
+      "id": 35,
+      "vn": "Gia đình",
+      "en": "Family"
+    },
+    {
+      "id": 36,
+      "vn": "Nổi tiếng",
+      "en": "Famous"
+    },
+    {
+      "id": 37,
+      "vn": "Tuyệt vời",
+      "en": "Fantastic"
+    },
+    {
+      "id": 38,
+      "vn": "Xa",
+      "en": "Far"
+    },
+    {
+      "id": 39,
+      "vn": "Nông trại",
+      "en": "Farm"
+    },
+    {
+      "id": 40,
+      "vn": "Nông dân",
+      "en": "Farmer"
+    },
+    {
+      "id": 41,
+      "vn": "Nhanh",
+      "en": "Fast"
+    },
+    {
+      "id": 42,
+      "vn": "Mập",
+      "en": "Fat"
+    },
+    {
+      "id": 43,
+      "vn": "Bố",
+      "en": "Father"
+    },
+    {
+      "id": 44,
+      "vn": "Yêu thích",
+      "en": "Favorite"
+    },
+    {
+      "id": 45,
+      "vn": "Tháng hai",
+      "en": "February"
+    },
+    {
+      "id": 46,
+      "vn": "Cảm thấy",
+      "en": "Feel"
+    },
+    {
+      "id": 47,
+      "vn": "Cảm giác",
+      "en": "Feeling"
+    },
+    {
+      "id": 48,
+      "vn": "Lễ hội",
+      "en": "Festival"
+    },
+    {
+      "id": 49,
+      "vn": "Một vài",
+      "en": "Few"
+    },
+    {
+      "id": 50,
+      "vn": "Mười lăm",
+      "en": "Fifteen"
+    },
+    {
+      "id": 51,
+      "vn": "Thứ năm",
+      "en": "Fifth"
+    },
+    {
+      "id": 52,
+      "vn": "Năm mươi",
+      "en": "Fifty"
+    },
+    {
+      "id": 53,
+      "vn": "Đổ đầy",
+      "en": "Fill"
+    },
+    {
+      "id": 54,
+      "vn": "Cuối cùng",
+      "en": "Final"
+    },
+    {
+      "id": 55,
+      "vn": "Tìm thấy",
+      "en": "Find"
+    },
+    {
+      "id": 56,
+      "vn": "Khỏe",
+      "en": "Fine"
+    },
+    {
+      "id": 57,
+      "vn": "Hoàn thành",
+      "en": "Finish"
+    },
+    {
+      "id": 58,
+      "vn": "Ngọn lửa",
+      "en": "Fire"
+    },
+    {
+      "id": 59,
+      "vn": "Đầu tiên",
+      "en": "First"
+    },
+    {
+      "id": 60,
+      "vn": "Cá",
+      "en": "Fish"
+    },
+    {
+      "id": 61,
+      "vn": "Năm",
+      "en": "Five"
+    },
+    {
+      "id": 62,
+      "vn": "Chuyến bay",
+      "en": "Flight"
+    },
+    {
+      "id": 63,
+      "vn": "Sàn nhà",
+      "en": "Floor"
+    },
+    {
+      "id": 64,
+      "vn": "Hoa",
+      "en": "Flower"
+    },
+    {
+      "id": 65,
+      "vn": "Bay",
+      "en": "Fly"
+    },
+    {
+      "id": 66,
+      "vn": "Theo",
+      "en": "Follow"
+    },
+    {
+      "id": 67,
+      "vn": "Đồ ăn",
+      "en": "Food"
+    },
+    {
+      "id": 68,
+      "vn": "Chân",
+      "en": "Foot"
+    },
+    {
+      "id": 69,
+      "vn": "Bóng đá",
+      "en": "Football"
+    },
+    {
+      "id": 70,
+      "vn": "Vì",
+      "en": "For"
+    },
+    {
+      "id": 71,
+      "vn": "Quên",
+      "en": "Forget"
+    },
+    {
+      "id": 72,
+      "vn": "Hình thức",
+      "en": "Form"
+    },
+    {
+      "id": 73,
+      "vn": "Bốn mươi",
+      "en": "Forty"
+    },
+    {
+      "id": 74,
+      "vn": "bốn",
+      "en": "Four"
+    },
+    {
+      "id": 75,
+      "vn": "Mười bốn",
+      "en": "Fourteen"
+    },
+    {
+      "id": 76,
+      "vn": "thứ tư",
+      "en": "Fourth"
+    },
+    {
+      "id": 77,
+      "vn": "Miễn phí",
+      "en": "Free"
+    },
+    {
+      "id": 78,
+      "vn": "Thứ sáu",
+      "en": "Friday"
+    },
+    {
+      "id": 79,
+      "vn": "Bạn bè",
+      "en": "Friend"
+    },
+    {
+      "id": 80,
+      "vn": "Thân thiện",
+      "en": "Friendly"
+    },
+    {
+      "id": 81,
+      "vn": "Từ",
+      "en": "From"
+    },
+    {
+      "id": 82,
+      "vn": "Đằng trước",
+      "en": "Front"
+    },
+    {
+      "id": 83,
+      "vn": "Hoa quả",
+      "en": "Fruit"
+    },
+    {
+      "id": 84,
+      "vn": "Đầy",
+      "en": "Full"
+    },
+    {
+      "id": 85,
+      "vn": "Vui vẻ",
+      "en": "Fun"
+    },
+    {
+      "id": 86,
+      "vn": "Buồn cười",
+      "en": "Funny"
+    },
+    {
+      "id": 87,
+      "vn": "Tương lai",
+      "en": "Future"
+    },
+    {
+      "id": 88,
+      "vn": "Trò chơi",
+      "en": "Game"
+    },
+    {
+      "id": 89,
+      "vn": "Vườn",
+      "en": "Garden"
+    },
+    {
+      "id": 90,
+      "vn": "Địa lý",
+      "en": "Geography"
+    },
+    {
+      "id": 91,
+      "vn": "Lấy",
+      "en": "Get"
+    },
+    {
+      "id": 92,
+      "vn": "Con gái",
+      "en": "Girl"
+    },
+    {
+      "id": 93,
+      "vn": "Bạn gái",
+      "en": "Girlfriend"
+    },
+    {
+      "id": 94,
+      "vn": "Đưa cho",
+      "en": "Give"
+    },
+    {
+      "id": 95,
+      "vn": "Thủy tinh",
+      "en": "Glass"
+    },
+    {
+      "id": 96,
+      "vn": "Đi",
+      "en": "Go"
+    },
+    {
+      "id": 97,
+      "vn": "Tốt",
+      "en": "Good"
+    },
+    {
+      "id": 98,
+      "vn": "Tạm biệt",
+      "en": "Goodbye"
+    },
+    {
+      "id": 99,
+      "vn": "Ông nội",
+      "en": "Grandfather"
+    },
+    {
+      "id": 100,
+      "vn": "Bà ngoại",
+      "en": "Grandmother"
+    },
+    {
+      "id": 101,
+      "vn": "Ông bà",
+      "en": "Grandparent"
+    },
+    {
+      "id": 102,
+      "vn": "Xám",
+      "en": "Gray"
+    },
+    {
+      "id": 103,
+      "vn": "Tuyệt",
+      "en": "Great"
+    },
+    {
+      "id": 104,
+      "vn": "Màu xanh lá",
+      "en": "Green"
+    },
+    {
+      "id": 105,
+      "vn": "Nhóm",
+      "en": "Group"
+    },
+    {
+      "id": 106,
+      "vn": "Phát triển",
+      "en": "Grow"
+    },
+    {
+      "id": 107,
+      "vn": "Đoán",
+      "en": "Guess"
+    },
+    {
+      "id": 108,
+      "vn": "Đàn ghi ta",
+      "en": "Guitar"
+    },
+    {
+      "id": 109,
+      "vn": "Phòng thể dục",
+      "en": "Gym"
+    },
+    {
+      "id": 110,
+      "vn": "Tóc",
+      "en": "Hair"
+    },
+    {
+      "id": 111,
+      "vn": "Một nửa",
+      "en": "Half"
+    },
+    {
+      "id": 112,
+      "vn": "Tay",
+      "en": "Hand"
+    },
+    {
+      "id": 113,
+      "vn": "Xảy ra",
+      "en": "Happen"
+    },
+    {
+      "id": 114,
+      "vn": "Vui mừng",
+      "en": "Happy"
+    },
+    {
+      "id": 115,
+      "vn": "Cứng",
+      "en": "Hard"
+    },
+    {
+      "id": 116,
+      "vn": "Mũ",
+      "en": "Hat"
+    },
+    {
+      "id": 117,
+      "vn": "Ghét",
+      "en": "Hate"
+    },
+    {
+      "id": 118,
+      "vn": "Có",
+      "en": "Have"
+    },
+    {
+      "id": 119,
+      "vn": "Có",
+      "en": "Have"
+    },
+    {
+      "id": 120,
+      "vn": "Anh ta",
+      "en": "He"
+    },
+    {
+      "id": 121,
+      "vn": "Cái đầu",
+      "en": "Head"
+    },
+    {
+      "id": 122,
+      "vn": "Sức khỏe",
+      "en": "Health"
+    },
+    {
+      "id": 123,
+      "vn": "Khỏe mạnh",
+      "en": "Healthy"
+    },
+    {
+      "id": 124,
+      "vn": "Nghe",
+      "en": "Hear"
+    },
+    {
+      "id": 125,
+      "vn": "Xin chào",
+      "en": "Hello"
+    },
+    {
+      "id": 126,
+      "vn": "Giúp đỡ",
+      "en": "Help"
+    },
+    {
+      "id": 127,
+      "vn": "Cô ấy",
+      "en": "Her"
+    },
+    {
+      "id": 128,
+      "vn": "Đây",
+      "en": "Here"
+    },
+    {
+      "id": 129,
+      "vn": "Chào",
+      "en": "Hey"
+    },
+    {
+      "id": 130,
+      "vn": "CHÀO",
+      "en": "Hi"
+    },
+    {
+      "id": 131,
+      "vn": "Cao",
+      "en": "High"
+    },
+    {
+      "id": 132,
+      "vn": "Anh ta",
+      "en": "Him"
+    },
+    {
+      "id": 133,
+      "vn": "Của anh ấy",
+      "en": "His"
+    },
+    {
+      "id": 134,
+      "vn": "Lịch sử",
+      "en": "History"
+    },
+    {
+      "id": 135,
+      "vn": "Sở thích",
+      "en": "Hobby"
+    },
+    {
+      "id": 136,
+      "vn": "Trang chủ",
+      "en": "Home"
+    },
+    {
+      "id": 137,
+      "vn": "Bài tập về nhà",
+      "en": "Homework"
+    },
+    {
+      "id": 138,
+      "vn": "Mong",
+      "en": "Hope"
+    },
+    {
+      "id": 139,
+      "vn": "Ngựa",
+      "en": "Horse"
+    },
+    {
+      "id": 140,
+      "vn": "Bệnh viện",
+      "en": "Hospital"
+    },
+    {
+      "id": 141,
+      "vn": "Nóng",
+      "en": "Hot"
+    },
+    {
+      "id": 142,
+      "vn": "Khách sạn",
+      "en": "Hotel"
+    },
+    {
+      "id": 143,
+      "vn": "Giờ",
+      "en": "Hour"
+    },
+    {
+      "id": 144,
+      "vn": "Căn nhà",
+      "en": "House"
+    },
+    {
+      "id": 145,
+      "vn": "Làm sao",
+      "en": "How"
+    },
+    {
+      "id": 146,
+      "vn": "Tuy nhiên",
+      "en": "However"
+    },
+    {
+      "id": 147,
+      "vn": "Trăm",
+      "en": "Hundred"
+    },
+    {
+      "id": 148,
+      "vn": "Đói bụng",
+      "en": "Hungry"
+    },
+    {
+      "id": 149,
+      "vn": "Chồng",
+      "en": "Husband"
+    },
+    {
+      "id": 150,
+      "vn": "TÔI",
+      "en": "I"
+    },
+    {
+      "id": 151,
+      "vn": "Đá",
+      "en": "Ice"
+    },
+    {
+      "id": 152,
+      "vn": "Đá",
+      "en": "Ice"
+    },
+    {
+      "id": 153,
+      "vn": "Ý tưởng",
+      "en": "Idea"
+    },
+    {
+      "id": 154,
+      "vn": "Nếu như",
+      "en": "If"
+    },
+    {
+      "id": 155,
+      "vn": "Tưởng tượng",
+      "en": "Imagine"
+    },
+    {
+      "id": 156,
+      "vn": "Quan trọng",
+      "en": "Important"
+    },
+    {
+      "id": 157,
+      "vn": "Cải thiện",
+      "en": "Improve"
+    },
+    {
+      "id": 158,
+      "vn": "TRONG",
+      "en": "In"
+    },
+    {
+      "id": 159,
+      "vn": "Bao gồm",
+      "en": "Include"
+    },
+    {
+      "id": 160,
+      "vn": "Thông tin",
+      "en": "Information"
+    },
+    {
+      "id": 161,
+      "vn": "Quan tâm",
+      "en": "Interest"
+    },
+    {
+      "id": 162,
+      "vn": "Thú vị",
+      "en": "Interested"
+    },
+    {
+      "id": 163,
+      "vn": "Hấp dẫn",
+      "en": "Interesting"
+    },
+    {
+      "id": 164,
+      "vn": "Internet",
+      "en": "Internet"
+    },
+    {
+      "id": 165,
+      "vn": "Phỏng vấn",
+      "en": "Interview"
+    },
+    {
+      "id": 166,
+      "vn": "Vào trong",
+      "en": "Into"
+    },
+    {
+      "id": 167,
+      "vn": "Giới thiệu",
+      "en": "Introduce"
+    },
+    {
+      "id": 168,
+      "vn": "Hòn đảo",
+      "en": "Island"
+    },
+    {
+      "id": 169,
+      "vn": "Nó",
+      "en": "It"
+    },
+    {
+      "id": 170,
+      "vn": "Của nó",
+      "en": "Its"
+    },
+    {
+      "id": 171,
+      "vn": "Áo khoác",
+      "en": "Jacket"
+    },
+    {
+      "id": 172,
+      "vn": "Tháng Một",
+      "en": "January"
+    },
+    {
+      "id": 173,
+      "vn": "Quần jean",
+      "en": "Jeans"
+    },
+    {
+      "id": 174,
+      "vn": "Công việc",
+      "en": "Job"
+    },
+    {
+      "id": 175,
+      "vn": "Tham gia",
+      "en": "Join"
+    },
+    {
+      "id": 176,
+      "vn": "Nước ép",
+      "en": "Juice"
+    },
+    {
+      "id": 177,
+      "vn": "Tháng bảy",
+      "en": "July"
+    },
+    {
+      "id": 178,
+      "vn": "Tháng sáu",
+      "en": "June"
+    },
+    {
+      "id": 179,
+      "vn": "Chỉ",
+      "en": "Just"
+    },
+    {
+      "id": 180,
+      "vn": "Giữ",
+      "en": "Keep"
+    },
+    {
+      "id": 181,
+      "vn": "Chìa khóa",
+      "en": "Key"
+    },
+    {
+      "id": 182,
+      "vn": "Loại",
+      "en": "Kind"
+    },
+    {
+      "id": 183,
+      "vn": "Phòng bếp",
+      "en": "Kitchen"
+    },
+    {
+      "id": 184,
+      "vn": "Biết",
+      "en": "Know"
+    },
+    {
+      "id": 185,
+      "vn": "Đất",
+      "en": "Land"
+    },
+    {
+      "id": 186,
+      "vn": "Ngôn ngữ",
+      "en": "Language"
+    },
+    {
+      "id": 187,
+      "vn": "Lớn",
+      "en": "Large"
+    },
+    {
+      "id": 188,
+      "vn": "Cuối cùng1",
+      "en": "Last1"
+    },
+    {
+      "id": 189,
+      "vn": "Muộn",
+      "en": "Late"
+    },
+    {
+      "id": 190,
+      "vn": "Sau đó",
+      "en": "Later"
+    },
+    {
+      "id": 191,
+      "vn": "Cười",
+      "en": "Laugh"
+    },
+    {
+      "id": 192,
+      "vn": "Học hỏi",
+      "en": "Learn"
+    },
+    {
+      "id": 193,
+      "vn": "Rời khỏi",
+      "en": "Leave"
+    },
+    {
+      "id": 194,
+      "vn": "Bên trái",
+      "en": "Left"
+    },
+    {
+      "id": 195,
+      "vn": "Chân",
+      "en": "Leg"
+    },
+    {
+      "id": 196,
+      "vn": "Bài học",
+      "en": "Lesson"
+    },
+    {
+      "id": 197,
+      "vn": "Cho phép",
+      "en": "Let"
+    },
+    {
+      "id": 198,
+      "vn": "Thư",
+      "en": "Letter"
+    },
+    {
+      "id": 199,
+      "vn": "Thư viện",
+      "en": "Library"
+    },
+    {
+      "id": 200,
+      "vn": "Nói dối1",
+      "en": "Lie1"
+    },
+    {
+      "id": 201,
+      "vn": "Mạng sống",
+      "en": "Life"
+    },
+    {
+      "id": 202,
+      "vn": "Ánh sáng",
+      "en": "Light"
+    },
+    {
+      "id": 203,
+      "vn": "Giống",
+      "en": "Like"
+    },
+    {
+      "id": 204,
+      "vn": "Giống",
+      "en": "Like"
+    },
+    {
+      "id": 205,
+      "vn": "Đường kẻ",
+      "en": "Line"
+    },
+    {
+      "id": 206,
+      "vn": "Con sư tử",
+      "en": "Lion"
+    },
+    {
+      "id": 207,
+      "vn": "Danh sách",
+      "en": "List"
+    },
+    {
+      "id": 208,
+      "vn": "Nghe",
+      "en": "Listen"
+    },
+    {
+      "id": 209,
+      "vn": "Nhỏ bé",
+      "en": "Little"
+    },
+    {
+      "id": 210,
+      "vn": "Trực tiếp1",
+      "en": "Live1"
+    },
+    {
+      "id": 211,
+      "vn": "Địa phương",
+      "en": "Local"
+    },
+    {
+      "id": 212,
+      "vn": "Dài1",
+      "en": "Long1"
+    },
+    {
+      "id": 213,
+      "vn": "Nhìn",
+      "en": "Look"
+    },
+    {
+      "id": 214,
+      "vn": "Thua",
+      "en": "Lose"
+    },
+    {
+      "id": 215,
+      "vn": "Nhiều",
+      "en": "Lot"
+    },
+    {
+      "id": 216,
+      "vn": "Yêu",
+      "en": "Love"
+    },
+    {
+      "id": 217,
+      "vn": "Bữa trưa",
+      "en": "Lunch"
+    },
+    {
+      "id": 218,
+      "vn": "Máy móc",
+      "en": "Machine"
+    },
+    {
+      "id": 219,
+      "vn": "Tạp chí",
+      "en": "Magazine"
+    },
+    {
+      "id": 220,
+      "vn": "Chủ yếu",
+      "en": "Main"
+    },
+    {
+      "id": 221,
+      "vn": "Làm",
+      "en": "Make"
+    },
+    {
+      "id": 222,
+      "vn": "Trung tâm mua sắm",
+      "en": "Mall"
+    },
+    {
+      "id": 223,
+      "vn": "Người đàn ông",
+      "en": "Man"
+    },
+    {
+      "id": 224,
+      "vn": "Nhiều",
+      "en": "Many"
+    },
+    {
+      "id": 225,
+      "vn": "Bản đồ",
+      "en": "Map"
+    },
+    {
+      "id": 226,
+      "vn": "Bước đều",
+      "en": "March"
+    },
+    {
+      "id": 227,
+      "vn": "Chợ",
+      "en": "Market"
+    },
+    {
+      "id": 228,
+      "vn": "Đã cưới",
+      "en": "Married"
+    },
+    {
+      "id": 229,
+      "vn": "Cuộc thi đấu",
+      "en": "Match"
+    },
+    {
+      "id": 230,
+      "vn": "Có thể",
+      "en": "May"
+    },
+    {
+      "id": 231,
+      "vn": "Có lẽ",
+      "en": "Maybe"
+    },
+    {
+      "id": 232,
+      "vn": "Tôi",
+      "en": "Me"
+    },
+    {
+      "id": 233,
+      "vn": "Bữa ăn",
+      "en": "Meal"
+    },
+    {
+      "id": 234,
+      "vn": "Nghĩa là",
+      "en": "Mean"
+    },
+    {
+      "id": 235,
+      "vn": "Nghĩa",
+      "en": "Meaning"
+    },
+    {
+      "id": 236,
+      "vn": "Thịt",
+      "en": "Meat"
+    },
+    {
+      "id": 237,
+      "vn": "Gặp",
+      "en": "Meet"
+    },
+    {
+      "id": 238,
+      "vn": "Cuộc họp",
+      "en": "Meeting"
+    },
+    {
+      "id": 239,
+      "vn": "Thành viên",
+      "en": "Member"
+    },
+    {
+      "id": 240,
+      "vn": "Thực đơn",
+      "en": "Menu"
+    },
+    {
+      "id": 241,
+      "vn": "Tin nhắn",
+      "en": "Message"
+    },
+    {
+      "id": 242,
+      "vn": "Mét",
+      "en": "Meter"
+    },
+    {
+      "id": 243,
+      "vn": "Nửa đêm",
+      "en": "Midnight"
+    },
+    {
+      "id": 244,
+      "vn": "Dặm",
+      "en": "Mile"
+    },
+    {
+      "id": 245,
+      "vn": "Sữa",
+      "en": "Milk"
+    },
+    {
+      "id": 246,
+      "vn": "Triệu",
+      "en": "Million"
+    },
+    {
+      "id": 247,
+      "vn": "Phút",
+      "en": "Minute"
+    },
+    {
+      "id": 248,
+      "vn": "Cô",
+      "en": "Miss"
+    },
+    {
+      "id": 249,
+      "vn": "Sai lầm",
+      "en": "Mistake"
+    },
+    {
+      "id": 250,
+      "vn": "Người mẫu",
+      "en": "Model"
+    },
+    {
+      "id": 251,
+      "vn": "Hiện đại",
+      "en": "Modern"
+    },
+    {
+      "id": 252,
+      "vn": "Mẹ",
+      "en": "Mom"
+    },
+    {
+      "id": 253,
+      "vn": "Chốc lát",
+      "en": "Moment"
+    },
+    {
+      "id": 254,
+      "vn": "Thứ hai",
+      "en": "Monday"
+    },
+    {
+      "id": 255,
+      "vn": "Tiền bạc",
+      "en": "Money"
+    },
+    {
+      "id": 256,
+      "vn": "Tháng",
+      "en": "Month"
+    },
+    {
+      "id": 257,
+      "vn": "Hơn",
+      "en": "More"
+    },
+    {
+      "id": 258,
+      "vn": "Buổi sáng",
+      "en": "Morning"
+    },
+    {
+      "id": 259,
+      "vn": "Hầu hết",
+      "en": "Most"
+    },
+    {
+      "id": 260,
+      "vn": "Mẹ",
+      "en": "Mother"
+    },
+    {
+      "id": 261,
+      "vn": "Núi",
+      "en": "Mountain"
+    },
+    {
+      "id": 262,
+      "vn": "Chuột",
+      "en": "Mouse"
+    },
+    {
+      "id": 263,
+      "vn": "Miệng",
+      "en": "Mouth"
+    },
+    {
+      "id": 264,
+      "vn": "Di chuyển",
+      "en": "Move"
+    },
+    {
+      "id": 265,
+      "vn": "Bộ phim",
+      "en": "Movie"
+    },
+    {
+      "id": 266,
+      "vn": "Nhiều",
+      "en": "Much"
+    },
+    {
+      "id": 267,
+      "vn": "Bảo tàng",
+      "en": "Museum"
+    },
+    {
+      "id": 268,
+      "vn": "Âm nhạc",
+      "en": "Music"
+    },
+    {
+      "id": 269,
+      "vn": "Phải",
+      "en": "Must"
+    },
+    {
+      "id": 270,
+      "vn": "Của tôi",
+      "en": "My"
+    },
+    {
+      "id": 271,
+      "vn": "Tên",
+      "en": "Name"
+    },
+    {
+      "id": 272,
+      "vn": "Tự nhiên",
+      "en": "Natural"
+    },
+    {
+      "id": 273,
+      "vn": "Gần",
+      "en": "Near"
+    },
+    {
+      "id": 274,
+      "vn": "Nhu cầu",
+      "en": "Need"
+    },
+    {
+      "id": 275,
+      "vn": "Tiêu cực",
+      "en": "Negative"
+    },
+    {
+      "id": 276,
+      "vn": "Hàng xóm",
+      "en": "Neighbor"
+    },
+    {
+      "id": 277,
+      "vn": "Hàng xóm",
+      "en": "Neighborhood"
+    },
+    {
+      "id": 278,
+      "vn": "Không bao giờ",
+      "en": "Never"
+    },
+    {
+      "id": 279,
+      "vn": "Mới",
+      "en": "New"
+    }
+  ],
+  "day3": [
+    {
+      "id": 1,
+      "vn": "Tin tức",
+      "en": "News"
+    },
+    {
+      "id": 2,
+      "vn": "Báo",
+      "en": "Newspaper"
+    },
+    {
+      "id": 3,
+      "vn": "Kế tiếp",
+      "en": "Next"
+    },
+    {
+      "id": 4,
+      "vn": "Kế tiếp",
+      "en": "Next"
+    },
+    {
+      "id": 5,
+      "vn": "Đẹp",
+      "en": "Nice"
+    },
+    {
+      "id": 6,
+      "vn": "Đêm",
+      "en": "Night"
+    },
+    {
+      "id": 7,
+      "vn": "Chín",
+      "en": "Nine"
+    },
+    {
+      "id": 8,
+      "vn": "Mười chín",
+      "en": "Nineteen"
+    },
+    {
+      "id": 9,
+      "vn": "Chín mươi",
+      "en": "Ninety"
+    },
+    {
+      "id": 10,
+      "vn": "KHÔNG",
+      "en": "No"
+    },
+    {
+      "id": 11,
+      "vn": "KHÔNG",
+      "en": "No"
+    },
+    {
+      "id": 12,
+      "vn": "Không ai",
+      "en": "Nobody"
+    },
+    {
+      "id": 13,
+      "vn": "Phía bắc",
+      "en": "North"
+    },
+    {
+      "id": 14,
+      "vn": "Mũi",
+      "en": "Nose"
+    },
+    {
+      "id": 15,
+      "vn": "Không",
+      "en": "Not"
+    },
+    {
+      "id": 16,
+      "vn": "Ghi chú",
+      "en": "Note"
+    },
+    {
+      "id": 17,
+      "vn": "Không có gì",
+      "en": "Nothing"
+    },
+    {
+      "id": 18,
+      "vn": "Tháng mười một",
+      "en": "November"
+    },
+    {
+      "id": 19,
+      "vn": "Hiện nay",
+      "en": "Now"
+    },
+    {
+      "id": 20,
+      "vn": "Con số",
+      "en": "Number"
+    },
+    {
+      "id": 21,
+      "vn": "Y tá",
+      "en": "Nurse"
+    },
+    {
+      "id": 22,
+      "vn": "Sự vật",
+      "en": "Object"
+    },
+    {
+      "id": 23,
+      "vn": "Đại dương",
+      "en": "Ocean"
+    },
+    {
+      "id": 24,
+      "vn": "Giờ",
+      "en": "O’Clock"
+    },
+    {
+      "id": 25,
+      "vn": "Tháng Mười",
+      "en": "October"
+    },
+    {
+      "id": 26,
+      "vn": "Của",
+      "en": "Of"
+    },
+    {
+      "id": 27,
+      "vn": "Tắt",
+      "en": "Off"
+    },
+    {
+      "id": 28,
+      "vn": "Văn phòng",
+      "en": "Office"
+    },
+    {
+      "id": 29,
+      "vn": "Thường",
+      "en": "Often"
+    },
+    {
+      "id": 30,
+      "vn": "Ồ",
+      "en": "Oh"
+    },
+    {
+      "id": 31,
+      "vn": "Được rồi",
+      "en": "Ok"
+    },
+    {
+      "id": 32,
+      "vn": "Cũ",
+      "en": "Old"
+    },
+    {
+      "id": 33,
+      "vn": "TRÊN",
+      "en": "On"
+    },
+    {
+      "id": 34,
+      "vn": "Một lần",
+      "en": "Once"
+    },
+    {
+      "id": 35,
+      "vn": "Một",
+      "en": "One"
+    },
+    {
+      "id": 36,
+      "vn": "Củ hành",
+      "en": "Onion"
+    },
+    {
+      "id": 37,
+      "vn": "Trực tuyến",
+      "en": "Online"
+    },
+    {
+      "id": 38,
+      "vn": "Chỉ một",
+      "en": "Only"
+    },
+    {
+      "id": 39,
+      "vn": "Mở",
+      "en": "Open"
+    },
+    {
+      "id": 40,
+      "vn": "Ý kiến",
+      "en": "Opinion"
+    },
+    {
+      "id": 41,
+      "vn": "Đối diện",
+      "en": "Opposite"
+    },
+    {
+      "id": 42,
+      "vn": "Hoặc",
+      "en": "Or"
+    },
+    {
+      "id": 43,
+      "vn": "Quả cam",
+      "en": "Orange"
+    },
+    {
+      "id": 44,
+      "vn": "Đặt hàng",
+      "en": "Order"
+    },
+    {
+      "id": 45,
+      "vn": "Khác",
+      "en": "Other"
+    },
+    {
+      "id": 46,
+      "vn": "Của chúng tôi",
+      "en": "Our"
+    },
+    {
+      "id": 47,
+      "vn": "Ngoài",
+      "en": "Out"
+    },
+    {
+      "id": 48,
+      "vn": "Ngoài",
+      "en": "Outside"
+    },
+    {
+      "id": 49,
+      "vn": "Qua",
+      "en": "Over"
+    },
+    {
+      "id": 50,
+      "vn": "Sở hữu",
+      "en": "Own"
+    },
+    {
+      "id": 51,
+      "vn": "Trang",
+      "en": "Page"
+    },
+    {
+      "id": 52,
+      "vn": "Sơn",
+      "en": "Paint"
+    },
+    {
+      "id": 53,
+      "vn": "Bức vẽ",
+      "en": "Painting"
+    },
+    {
+      "id": 54,
+      "vn": "Đôi",
+      "en": "Pair"
+    },
+    {
+      "id": 55,
+      "vn": "Quần dài",
+      "en": "Pants"
+    },
+    {
+      "id": 56,
+      "vn": "Giấy",
+      "en": "Paper"
+    },
+    {
+      "id": 57,
+      "vn": "Đoạn văn",
+      "en": "Paragraph"
+    },
+    {
+      "id": 58,
+      "vn": "Cha mẹ",
+      "en": "Parent"
+    },
+    {
+      "id": 59,
+      "vn": "Công viên",
+      "en": "Park"
+    },
+    {
+      "id": 60,
+      "vn": "Phần",
+      "en": "Part"
+    },
+    {
+      "id": 61,
+      "vn": "Cộng sự",
+      "en": "Partner"
+    },
+    {
+      "id": 62,
+      "vn": "Buổi tiệc",
+      "en": "Party"
+    },
+    {
+      "id": 63,
+      "vn": "Hộ chiếu",
+      "en": "Passport"
+    },
+    {
+      "id": 64,
+      "vn": "Quá khứ",
+      "en": "Past"
+    },
+    {
+      "id": 65,
+      "vn": "Chi trả",
+      "en": "Pay"
+    },
+    {
+      "id": 66,
+      "vn": "Cái bút",
+      "en": "Pen"
+    },
+    {
+      "id": 67,
+      "vn": "Bút chì",
+      "en": "Pencil"
+    },
+    {
+      "id": 68,
+      "vn": "Mọi người",
+      "en": "People"
+    },
+    {
+      "id": 69,
+      "vn": "Hạt tiêu",
+      "en": "Pepper"
+    },
+    {
+      "id": 70,
+      "vn": "Hoàn hảo",
+      "en": "Perfect"
+    },
+    {
+      "id": 71,
+      "vn": "Giai đoạn",
+      "en": "Period"
+    },
+    {
+      "id": 72,
+      "vn": "Người",
+      "en": "Person"
+    },
+    {
+      "id": 73,
+      "vn": "Riêng tư",
+      "en": "Personal"
+    },
+    {
+      "id": 74,
+      "vn": "Điện thoại",
+      "en": "Phone"
+    },
+    {
+      "id": 75,
+      "vn": "hình chụp",
+      "en": "Photo"
+    },
+    {
+      "id": 76,
+      "vn": "ảnh chụp",
+      "en": "Photograph"
+    },
+    {
+      "id": 77,
+      "vn": "cụm từ",
+      "en": "Phrase"
+    },
+    {
+      "id": 78,
+      "vn": "Đàn piano",
+      "en": "Piano"
+    },
+    {
+      "id": 79,
+      "vn": "Hình ảnh",
+      "en": "Picture"
+    },
+    {
+      "id": 80,
+      "vn": "Cái",
+      "en": "Piece"
+    },
+    {
+      "id": 81,
+      "vn": "Con lợn",
+      "en": "Pig"
+    },
+    {
+      "id": 82,
+      "vn": "Hồng",
+      "en": "Pink"
+    },
+    {
+      "id": 83,
+      "vn": "Địa điểm",
+      "en": "Place"
+    },
+    {
+      "id": 84,
+      "vn": "Kế hoạch",
+      "en": "Plan"
+    },
+    {
+      "id": 85,
+      "vn": "Máy bay",
+      "en": "Plane"
+    },
+    {
+      "id": 86,
+      "vn": "Thực vật",
+      "en": "Plant"
+    },
+    {
+      "id": 87,
+      "vn": "Chơi",
+      "en": "Play"
+    },
+    {
+      "id": 88,
+      "vn": "Người chơi",
+      "en": "Player"
+    },
+    {
+      "id": 89,
+      "vn": "Vui lòng",
+      "en": "Please"
+    },
+    {
+      "id": 90,
+      "vn": "Điểm",
+      "en": "Point"
+    },
+    {
+      "id": 91,
+      "vn": "Cảnh sát",
+      "en": "Police"
+    },
+    {
+      "id": 92,
+      "vn": "cảnh sát",
+      "en": "Policeman"
+    },
+    {
+      "id": 93,
+      "vn": "Hồ bơi",
+      "en": "Pool"
+    },
+    {
+      "id": 94,
+      "vn": "Nghèo",
+      "en": "Poor"
+    },
+    {
+      "id": 95,
+      "vn": "Phổ biến",
+      "en": "Popular"
+    },
+    {
+      "id": 96,
+      "vn": "Tích cực",
+      "en": "Positive"
+    },
+    {
+      "id": 97,
+      "vn": "Khả thi",
+      "en": "Possible"
+    },
+    {
+      "id": 98,
+      "vn": "Bưu kiện",
+      "en": "Post"
+    },
+    {
+      "id": 99,
+      "vn": "Khoai tây",
+      "en": "Potato"
+    },
+    {
+      "id": 100,
+      "vn": "Pao",
+      "en": "Pound"
+    },
+    {
+      "id": 101,
+      "vn": "Luyện tập",
+      "en": "Practice"
+    },
+    {
+      "id": 102,
+      "vn": "Thích hơn",
+      "en": "Prefer"
+    },
+    {
+      "id": 103,
+      "vn": "Chuẩn bị",
+      "en": "Prepare"
+    },
+    {
+      "id": 104,
+      "vn": "Hiện tại",
+      "en": "Present"
+    },
+    {
+      "id": 105,
+      "vn": "Đẹp",
+      "en": "Pretty"
+    },
+    {
+      "id": 106,
+      "vn": "Giá",
+      "en": "Price"
+    },
+    {
+      "id": 107,
+      "vn": "Có lẽ",
+      "en": "Probably"
+    },
+    {
+      "id": 108,
+      "vn": "Vấn đề",
+      "en": "Problem"
+    },
+    {
+      "id": 109,
+      "vn": "Sản phẩm",
+      "en": "Product"
+    },
+    {
+      "id": 110,
+      "vn": "Chương trình",
+      "en": "Program"
+    },
+    {
+      "id": 111,
+      "vn": "Dự án",
+      "en": "Project"
+    },
+    {
+      "id": 112,
+      "vn": "Màu tím",
+      "en": "Purple"
+    },
+    {
+      "id": 113,
+      "vn": "Đặt",
+      "en": "Put"
+    },
+    {
+      "id": 114,
+      "vn": "Một phần tư",
+      "en": "Quarter"
+    },
+    {
+      "id": 115,
+      "vn": "Câu hỏi",
+      "en": "Question"
+    },
+    {
+      "id": 116,
+      "vn": "Nhanh",
+      "en": "Quick"
+    },
+    {
+      "id": 117,
+      "vn": "Nhanh",
+      "en": "Quickly"
+    },
+    {
+      "id": 118,
+      "vn": "Im lặng",
+      "en": "Quiet"
+    },
+    {
+      "id": 119,
+      "vn": "Khá",
+      "en": "Quite"
+    },
+    {
+      "id": 120,
+      "vn": "Đài",
+      "en": "Radio"
+    },
+    {
+      "id": 121,
+      "vn": "Cơn mưa",
+      "en": "Rain"
+    },
+    {
+      "id": 122,
+      "vn": "Đọc",
+      "en": "Read"
+    },
+    {
+      "id": 123,
+      "vn": "Người đọc",
+      "en": "Reader"
+    },
+    {
+      "id": 124,
+      "vn": "Đọc",
+      "en": "Reading"
+    },
+    {
+      "id": 125,
+      "vn": "Sẵn sàng",
+      "en": "Ready"
+    },
+    {
+      "id": 126,
+      "vn": "Thực tế",
+      "en": "Real"
+    },
+    {
+      "id": 127,
+      "vn": "Thật sự",
+      "en": "Really"
+    },
+    {
+      "id": 128,
+      "vn": "Lý do",
+      "en": "Reason"
+    },
+    {
+      "id": 129,
+      "vn": "Màu đỏ",
+      "en": "Red"
+    },
+    {
+      "id": 130,
+      "vn": "Thư giãn",
+      "en": "Relax"
+    },
+    {
+      "id": 131,
+      "vn": "Nhớ",
+      "en": "Remember"
+    },
+    {
+      "id": 132,
+      "vn": "Lặp lại",
+      "en": "Repeat"
+    },
+    {
+      "id": 133,
+      "vn": "Báo cáo",
+      "en": "Report"
+    },
+    {
+      "id": 134,
+      "vn": "Nhà hàng",
+      "en": "Restaurant"
+    },
+    {
+      "id": 135,
+      "vn": "Kết quả",
+      "en": "Result"
+    },
+    {
+      "id": 136,
+      "vn": "Trở lại",
+      "en": "Return"
+    },
+    {
+      "id": 137,
+      "vn": "Cơm",
+      "en": "Rice"
+    },
+    {
+      "id": 138,
+      "vn": "Giàu có",
+      "en": "Rich"
+    },
+    {
+      "id": 139,
+      "vn": "Lái",
+      "en": "Ride"
+    },
+    {
+      "id": 140,
+      "vn": "Phải",
+      "en": "Right"
+    },
+    {
+      "id": 141,
+      "vn": "Dòng sông",
+      "en": "River"
+    },
+    {
+      "id": 142,
+      "vn": "Đường",
+      "en": "Road"
+    },
+    {
+      "id": 143,
+      "vn": "Phòng",
+      "en": "Room"
+    },
+    {
+      "id": 144,
+      "vn": "Lịch trình",
+      "en": "Routine"
+    },
+    {
+      "id": 145,
+      "vn": "Luật lệ",
+      "en": "Rule"
+    },
+    {
+      "id": 146,
+      "vn": "Chạy",
+      "en": "Run"
+    },
+    {
+      "id": 147,
+      "vn": "Buồn",
+      "en": "Sad"
+    },
+    {
+      "id": 148,
+      "vn": "Xa lát",
+      "en": "Salad"
+    },
+    {
+      "id": 149,
+      "vn": "Muối",
+      "en": "Salt"
+    },
+    {
+      "id": 150,
+      "vn": "Như nhau",
+      "en": "Same"
+    },
+    {
+      "id": 151,
+      "vn": "Bánh mì sandwich",
+      "en": "Sandwich"
+    },
+    {
+      "id": 152,
+      "vn": "Thứ bảy",
+      "en": "Saturday"
+    },
+    {
+      "id": 153,
+      "vn": "Nói",
+      "en": "Say"
+    },
+    {
+      "id": 154,
+      "vn": "Trường học",
+      "en": "School"
+    },
+    {
+      "id": 155,
+      "vn": "Khoa học",
+      "en": "Science"
+    },
+    {
+      "id": 156,
+      "vn": "nhà khoa học",
+      "en": "Scientist"
+    },
+    {
+      "id": 157,
+      "vn": "Thứ hai 1",
+      "en": "Second 1"
+    },
+    {
+      "id": 158,
+      "vn": "Thứ hai 1",
+      "en": "Second 1"
+    },
+    {
+      "id": 159,
+      "vn": "Phần",
+      "en": "Section"
+    },
+    {
+      "id": 160,
+      "vn": "Nhìn thấy",
+      "en": "See"
+    },
+    {
+      "id": 161,
+      "vn": "Bán",
+      "en": "Sell"
+    },
+    {
+      "id": 162,
+      "vn": "Gửi",
+      "en": "Send"
+    },
+    {
+      "id": 163,
+      "vn": "Câu",
+      "en": "Sentence"
+    },
+    {
+      "id": 164,
+      "vn": "Tháng 9",
+      "en": "September"
+    },
+    {
+      "id": 165,
+      "vn": "bảy",
+      "en": "Seven"
+    },
+    {
+      "id": 166,
+      "vn": "mười bảy",
+      "en": "Seventeen"
+    },
+    {
+      "id": 167,
+      "vn": "Bảy mươi",
+      "en": "Seventy"
+    },
+    {
+      "id": 168,
+      "vn": "Chia sẻ",
+      "en": "Share"
+    },
+    {
+      "id": 169,
+      "vn": "Cô ấy",
+      "en": "She"
+    },
+    {
+      "id": 170,
+      "vn": "Con cừu",
+      "en": "Sheep"
+    },
+    {
+      "id": 171,
+      "vn": "Áo sơ mi",
+      "en": "Shirt"
+    },
+    {
+      "id": 172,
+      "vn": "Giày",
+      "en": "Shoe"
+    },
+    {
+      "id": 173,
+      "vn": "Cửa hàng",
+      "en": "Shop"
+    },
+    {
+      "id": 174,
+      "vn": "Mua sắm",
+      "en": "Shopping"
+    },
+    {
+      "id": 175,
+      "vn": "Ngắn",
+      "en": "Short"
+    },
+    {
+      "id": 176,
+      "vn": "Nên",
+      "en": "Should"
+    },
+    {
+      "id": 177,
+      "vn": "Trình diễn",
+      "en": "Show"
+    },
+    {
+      "id": 178,
+      "vn": "Vòi sen",
+      "en": "Shower"
+    },
+    {
+      "id": 179,
+      "vn": "Đau ốm",
+      "en": "Sick"
+    },
+    {
+      "id": 180,
+      "vn": "Tương tự",
+      "en": "Similar"
+    },
+    {
+      "id": 181,
+      "vn": "Hát",
+      "en": "Sing"
+    },
+    {
+      "id": 182,
+      "vn": "Ca sĩ",
+      "en": "Singer"
+    },
+    {
+      "id": 183,
+      "vn": "Em gái",
+      "en": "Sister"
+    },
+    {
+      "id": 184,
+      "vn": "Ngồi",
+      "en": "Sit"
+    },
+    {
+      "id": 185,
+      "vn": "Tình huống",
+      "en": "Situation"
+    },
+    {
+      "id": 186,
+      "vn": "Sáu",
+      "en": "Six"
+    },
+    {
+      "id": 187,
+      "vn": "mười sáu",
+      "en": "Sixteen"
+    },
+    {
+      "id": 188,
+      "vn": "Sáu mươi",
+      "en": "Sixty"
+    },
+    {
+      "id": 189,
+      "vn": "Kỹ năng",
+      "en": "Skill"
+    },
+    {
+      "id": 190,
+      "vn": "Váy ngắn",
+      "en": "Skirt"
+    },
+    {
+      "id": 191,
+      "vn": "Ngủ",
+      "en": "Sleep"
+    },
+    {
+      "id": 192,
+      "vn": "Chậm",
+      "en": "Slow"
+    },
+    {
+      "id": 193,
+      "vn": "Bé nhỏ",
+      "en": "Small"
+    },
+    {
+      "id": 194,
+      "vn": "Thông minh",
+      "en": "Smart"
+    },
+    {
+      "id": 195,
+      "vn": "Rắn",
+      "en": "Snake"
+    },
+    {
+      "id": 196,
+      "vn": "Tuyết",
+      "en": "Snow"
+    },
+    {
+      "id": 197,
+      "vn": "Vì thế",
+      "en": "So"
+    },
+    {
+      "id": 198,
+      "vn": "Một số",
+      "en": "Some"
+    },
+    {
+      "id": 199,
+      "vn": "Có ai",
+      "en": "Somebody"
+    },
+    {
+      "id": 200,
+      "vn": "Người nào đó",
+      "en": "Someone"
+    },
+    {
+      "id": 201,
+      "vn": "Thứ gì đó",
+      "en": "Something"
+    },
+    {
+      "id": 202,
+      "vn": "Thỉnh thoảng",
+      "en": "Sometimes"
+    },
+    {
+      "id": 203,
+      "vn": "Con trai",
+      "en": "Son"
+    },
+    {
+      "id": 204,
+      "vn": "Bài hát",
+      "en": "Song"
+    },
+    {
+      "id": 205,
+      "vn": "Sớm",
+      "en": "Soon"
+    },
+    {
+      "id": 206,
+      "vn": "Lấy làm tiếc",
+      "en": "Sorry"
+    },
+    {
+      "id": 207,
+      "vn": "Âm thanh",
+      "en": "Sound"
+    },
+    {
+      "id": 208,
+      "vn": "Canh",
+      "en": "Soup"
+    },
+    {
+      "id": 209,
+      "vn": "Phía nam",
+      "en": "South"
+    },
+    {
+      "id": 210,
+      "vn": "Không gian",
+      "en": "Space"
+    },
+    {
+      "id": 211,
+      "vn": "Nói chuyện",
+      "en": "Speak"
+    },
+    {
+      "id": 212,
+      "vn": "Đặc biệt",
+      "en": "Special"
+    },
+    {
+      "id": 213,
+      "vn": "Đánh vần",
+      "en": "Spell"
+    },
+    {
+      "id": 214,
+      "vn": "chính tả",
+      "en": "Spelling"
+    },
+    {
+      "id": 215,
+      "vn": "Tiêu",
+      "en": "Spend"
+    },
+    {
+      "id": 216,
+      "vn": "Thể thao",
+      "en": "Sport"
+    },
+    {
+      "id": 217,
+      "vn": "Mùa xuân",
+      "en": "Spring"
+    },
+    {
+      "id": 218,
+      "vn": "Đứng",
+      "en": "Stand"
+    },
+    {
+      "id": 219,
+      "vn": "Ngôi sao",
+      "en": "Star"
+    },
+    {
+      "id": 220,
+      "vn": "Bắt đầu",
+      "en": "Start"
+    },
+    {
+      "id": 221,
+      "vn": "Tuyên bố",
+      "en": "Statement"
+    },
+    {
+      "id": 222,
+      "vn": "Ga tàu",
+      "en": "Station"
+    },
+    {
+      "id": 223,
+      "vn": "Ở lại",
+      "en": "Stay"
+    },
+    {
+      "id": 224,
+      "vn": "Vẫn",
+      "en": "Still"
+    },
+    {
+      "id": 225,
+      "vn": "Dừng lại",
+      "en": "Stop"
+    },
+    {
+      "id": 226,
+      "vn": "Cửa hàng",
+      "en": "Store"
+    },
+    {
+      "id": 227,
+      "vn": "Câu chuyện",
+      "en": "Story"
+    },
+    {
+      "id": 228,
+      "vn": "Đường phố",
+      "en": "Street"
+    },
+    {
+      "id": 229,
+      "vn": "Mạnh",
+      "en": "Strong"
+    },
+    {
+      "id": 230,
+      "vn": "Học sinh",
+      "en": "Student"
+    },
+    {
+      "id": 231,
+      "vn": "Học",
+      "en": "Study"
+    },
+    {
+      "id": 232,
+      "vn": "Phong cách",
+      "en": "Style"
+    },
+    {
+      "id": 233,
+      "vn": "Chủ thể",
+      "en": "Subject"
+    },
+    {
+      "id": 234,
+      "vn": "Thành công",
+      "en": "Success"
+    },
+    {
+      "id": 235,
+      "vn": "Đường",
+      "en": "Sugar"
+    },
+    {
+      "id": 236,
+      "vn": "Mùa hè",
+      "en": "Summer"
+    },
+    {
+      "id": 237,
+      "vn": "Mặt trời",
+      "en": "Sun"
+    },
+    {
+      "id": 238,
+      "vn": "Chủ nhật",
+      "en": "Sunday"
+    },
+    {
+      "id": 239,
+      "vn": "Siêu thị",
+      "en": "Supermarket"
+    },
+    {
+      "id": 240,
+      "vn": "Chắc chắn",
+      "en": "Sure"
+    },
+    {
+      "id": 241,
+      "vn": "Áo len",
+      "en": "Sweater"
+    },
+    {
+      "id": 242,
+      "vn": "Bơi",
+      "en": "Swim"
+    },
+    {
+      "id": 243,
+      "vn": "Bơi lội",
+      "en": "Swimming"
+    },
+    {
+      "id": 244,
+      "vn": "Bàn",
+      "en": "Table"
+    },
+    {
+      "id": 245,
+      "vn": "Lấy",
+      "en": "Take"
+    },
+    {
+      "id": 246,
+      "vn": "Nói chuyện",
+      "en": "Talk"
+    },
+    {
+      "id": 247,
+      "vn": "Cao",
+      "en": "Tall"
+    },
+    {
+      "id": 248,
+      "vn": "xe tăć   xi",
+      "en": "Taxi"
+    },
+    {
+      "id": 249,
+      "vn": "Trà",
+      "en": "Tea"
+    },
+    {
+      "id": 250,
+      "vn": "Dạy bảo",
+      "en": "Teach"
+    },
+    {
+      "id": 251,
+      "vn": "Giáo viên",
+      "en": "Teacher"
+    },
+    {
+      "id": 252,
+      "vn": "Đội",
+      "en": "Team"
+    },
+    {
+      "id": 253,
+      "vn": "Thiếu niên",
+      "en": "Teenager"
+    },
+    {
+      "id": 254,
+      "vn": "Điện thoại",
+      "en": "Telephone"
+    },
+    {
+      "id": 255,
+      "vn": "Tivi",
+      "en": "Television"
+    },
+    {
+      "id": 256,
+      "vn": "Kể",
+      "en": "Tell"
+    },
+    {
+      "id": 257,
+      "vn": "Mười",
+      "en": "Ten"
+    },
+    {
+      "id": 258,
+      "vn": "quần vợt",
+      "en": "Tennis"
+    },
+    {
+      "id": 259,
+      "vn": "Kinh khủng",
+      "en": "Terrible"
+    },
+    {
+      "id": 260,
+      "vn": "Bài kiểm tra",
+      "en": "Test"
+    },
+    {
+      "id": 261,
+      "vn": "Chữ",
+      "en": "Text"
+    },
+    {
+      "id": 262,
+      "vn": "Hơn",
+      "en": "Than"
+    },
+    {
+      "id": 263,
+      "vn": "Cám ơn",
+      "en": "Thank"
+    },
+    {
+      "id": 264,
+      "vn": "Cảm ơn",
+      "en": "Thanks"
+    },
+    {
+      "id": 265,
+      "vn": "Cái đó",
+      "en": "That"
+    },
+    {
+      "id": 266,
+      "vn": "Các",
+      "en": "The"
+    },
+    {
+      "id": 267,
+      "vn": "Nhà hát",
+      "en": "Theater"
+    },
+    {
+      "id": 268,
+      "vn": "Của họ",
+      "en": "Their"
+    },
+    {
+      "id": 269,
+      "vn": "Họ",
+      "en": "Them"
+    },
+    {
+      "id": 270,
+      "vn": "Sau đó",
+      "en": "Then"
+    },
+    {
+      "id": 271,
+      "vn": "Ở đó",
+      "en": "There"
+    },
+    {
+      "id": 272,
+      "vn": "Họ",
+      "en": "They"
+    },
+    {
+      "id": 273,
+      "vn": "Điều",
+      "en": "Thing"
+    },
+    {
+      "id": 274,
+      "vn": "Nghĩ",
+      "en": "Think"
+    },
+    {
+      "id": 275,
+      "vn": "Ngày thứ ba",
+      "en": "Third"
+    },
+    {
+      "id": 276,
+      "vn": "Khát",
+      "en": "Thirsty"
+    },
+    {
+      "id": 277,
+      "vn": "Mười ba",
+      "en": "Thirteen"
+    },
+    {
+      "id": 278,
+      "vn": "Ba mươi",
+      "en": "Thirty"
+    },
+    {
+      "id": 279,
+      "vn": "Cái này",
+      "en": "This"
+    }
+  ]
+}
