@@ -1,23 +1,21 @@
 import React, { Dispatch, useEffect, useRef, useState } from "react";
 import { QUESTION_TYPE } from "../types";
 import { toast } from "react-toastify";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faVolumeHigh } from "@fortawesome/free-solid-svg-icons";
 type PROPS = {
   question: QUESTION_TYPE;
   setScore: Dispatch<React.SetStateAction<number>>;
-  handleNextquestion: () => void;
-  end: boolean;
+  handleNextquestion: (a?: boolean, b?: QUESTION_TYPE) => void;
   score: number;
   length: number;
+  index: number;
 };
 const Question = ({
   question,
   setScore,
   handleNextquestion,
-  end,
   score,
   length,
+  index,
 }: PROPS) => {
   const [value, setValue] = useState("");
   const [flag, setFlag] = useState(false);
@@ -26,9 +24,8 @@ const Question = ({
   const checkButton = useRef<HTMLInputElement | null>(null);
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [selectedVoice, setSelectedVoice] = useState("");
-
   const handleCheck = () => {
-    if (value.toLocaleLowerCase() == question.en.toLocaleLowerCase()) {
+    if (value.toLocaleLowerCase() == question?.en.toLocaleLowerCase()) {
       setScore((pre) => pre + 1);
       setFlag(true);
       setErrors(false);
@@ -54,7 +51,11 @@ const Question = ({
     const on = (window.onkeydown = (e) => {
       if (e.key == "Enter") {
         if (flag) {
-          handleNextquestion(), clearValue();
+          handleNextquestion(
+            value.toLocaleLowerCase() == question?.en.toLocaleLowerCase(),
+            question
+          ),
+            clearValue();
         } else {
           handleCheck();
         }
@@ -65,7 +66,7 @@ const Question = ({
   });
   const handleSpeak = () => {
     if (window.speechSynthesis) {
-      const utterance = new SpeechSynthesisUtterance(question.en);
+      const utterance = new SpeechSynthesisUtterance(question?.en);
       const voice = voices.find((v) => v.name === selectedVoice);
       if (voice) {
         utterance.voice = voice;
@@ -84,13 +85,7 @@ const Question = ({
     loadVoices();
     window.speechSynthesis.onvoiceschanged = loadVoices;
   }, []);
-  return end ? (
-    <>
-      <div>
-        <p>Your score is: {score}</p>
-      </div>
-    </>
-  ) : (
+  return (
     <div>
       <div className="">
         <p className="text-center">
@@ -108,10 +103,10 @@ const Question = ({
           </select>
         </div>
         <div>
-          <p className="text-center my-4">Question {question.id}</p>
+          <p className="text-center my-4">Question {index}</p>
         </div>
         <div className="flex gap-x-10 justify-center items-center relative mb-10">
-          <div className="">{question.vn}</div>
+          <div className="">{question?.vn}</div>
           <div className="">
             <input
               ref={checkButton}
@@ -132,9 +127,9 @@ const Question = ({
           </div>
           {showAnswer && (
             <p>
-              {question.en}{" "}
+              {question?.en}{" "}
               <span onClick={handleSpeak} className="cursor-pointer ms-3">
-                <FontAwesomeIcon icon={faVolumeHigh} />
+                click
               </span>
             </p>
           )}
@@ -160,7 +155,13 @@ const Question = ({
         <button
           // disabled={!flag}
           className="bg-green-600 rounded-md px-2 py-1 text-white disabled:opacity-[0.8]"
-          onClick={() => (handleNextquestion(), clearValue())}
+          onClick={() => (
+            handleNextquestion(
+              value.toLocaleLowerCase() == question?.en.toLocaleLowerCase(),
+              question
+            ),
+            clearValue()
+          )}
         >
           Next question
         </button>

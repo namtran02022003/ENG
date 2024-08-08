@@ -1,0 +1,6670 @@
+{
+  "a1": [
+    {
+      "en": "a, an",
+      "vn": "một (mạo từ bất định)",
+      "type": "indefinite article",
+      "ipa": "/ə, æn/",
+      "id": "7365"
+    },
+    {
+      "en": "about",
+      "vn": "về, khoảng",
+      "type": "prep., adv.",
+      "ipa": "/əˈbaʊt/",
+      "id": "7913"
+    },
+    {
+      "en": "above",
+      "vn": "trên",
+      "type": "prep., adv.",
+      "ipa": "/əˈbʌv/",
+      "id": "e901"
+    },
+    {
+      "en": "across",
+      "vn": "ngang qua",
+      "type": "prep., adv.",
+      "ipa": "/əˈkrɔːs/",
+      "id": "39b5"
+    },
+    {
+      "en": "action",
+      "vn": "hành động",
+      "type": "n.",
+      "ipa": "/ˈæk.ʃən/",
+      "id": "5b51"
+    },
+    {
+      "en": "activity",
+      "vn": "hoạt động",
+      "type": "n.",
+      "ipa": "/ækˈtɪv.ɪ.ti/",
+      "id": "9546"
+    },
+    {
+      "en": "actor",
+      "vn": "diễn viên nam",
+      "type": "n.",
+      "ipa": "/ˈæk.tər/",
+      "id": "8274"
+    },
+    {
+      "en": "actress",
+      "vn": "diễn viên nữ",
+      "type": "n.",
+      "ipa": "/ˈæk.trəs/",
+      "id": "484d"
+    },
+    {
+      "en": "add",
+      "vn": "thêm vào",
+      "type": "v.",
+      "ipa": "/æd/",
+      "id": "8efb"
+    },
+    {
+      "en": "address",
+      "vn": "địa chỉ",
+      "type": "n.",
+      "ipa": "/əˈdres/",
+      "id": "8a62"
+    },
+    {
+      "en": "adult",
+      "vn": "người lớn",
+      "type": "n.",
+      "ipa": "/əˈdʌlt/",
+      "id": "61c4"
+    },
+    {
+      "en": "advice",
+      "vn": "lời khuyên",
+      "type": "n.",
+      "ipa": "/ədˈvaɪs/",
+      "id": "d6f2"
+    },
+    {
+      "en": "afraid",
+      "vn": "sợ hãi",
+      "type": "adj.",
+      "ipa": "/əˈfreɪd/",
+      "id": "a280"
+    },
+    {
+      "en": "after",
+      "vn": "sau",
+      "type": "prep.",
+      "ipa": "/ˈɑːf.tər/",
+      "id": "5ea2"
+    },
+    {
+      "en": "afternoon",
+      "vn": "buổi chiều",
+      "type": "n.",
+      "ipa": "/ˌæf.təˈnuːn/",
+      "id": "7360"
+    },
+    {
+      "en": "again",
+      "vn": "lại",
+      "type": "adv.",
+      "ipa": "/əˈɡɛn/",
+      "id": "1d39"
+    },
+    {
+      "en": "age",
+      "vn": "tuổi",
+      "type": "n.",
+      "ipa": "/eɪdʒ/",
+      "id": "8525"
+    },
+    {
+      "en": "ago",
+      "vn": "trước đây",
+      "type": "adv.",
+      "ipa": "/əˈɡoʊ/",
+      "id": "54ca"
+    },
+    {
+      "en": "agree",
+      "vn": "đồng ý",
+      "type": "v.",
+      "ipa": "/əˈɡriː/",
+      "id": "5ae8"
+    },
+    {
+      "en": "air",
+      "vn": "không khí",
+      "type": "n.",
+      "ipa": "/er/",
+      "id": "34eb"
+    },
+    {
+      "en": "airport",
+      "vn": "sân bay",
+      "type": "n.",
+      "ipa": "/ˈer.pɔːrt/",
+      "id": "fa51"
+    },
+    {
+      "en": "all",
+      "vn": "tất cả",
+      "type": "det., pron.",
+      "ipa": "/ɔːl/",
+      "id": "1bb6"
+    },
+    {
+      "en": "also",
+      "vn": "cũng",
+      "type": "adv.",
+      "ipa": "/ˈɔːl.soʊ/",
+      "id": "322e"
+    },
+    {
+      "en": "always",
+      "vn": "luôn luôn",
+      "type": "adv.",
+      "ipa": "/ˈɔːl.weɪz/",
+      "id": "5abd"
+    },
+    {
+      "en": "amazing",
+      "vn": "tuyệt vời",
+      "type": "adj.",
+      "ipa": "/əˈmeɪ.zɪŋ/",
+      "id": "8893"
+    },
+    {
+      "en": "and",
+      "vn": "và",
+      "type": "conj.",
+      "ipa": "/ænd/",
+      "id": "42fc"
+    },
+    {
+      "en": "angry",
+      "vn": "giận dữ",
+      "type": "adj.",
+      "ipa": "/ˈæŋ.ɡri/",
+      "id": "20fb"
+    },
+    {
+      "en": "animal",
+      "vn": "động vật",
+      "type": "n.",
+      "ipa": "/ˈæn.ɪ.məl/",
+      "id": "6e4e"
+    },
+    {
+      "en": "another",
+      "vn": "khác",
+      "type": "det., pron.",
+      "ipa": "/əˈnʌð.ər/",
+      "id": "0c6f"
+    },
+    {
+      "en": "answer",
+      "vn": "câu trả lời",
+      "type": "n., v.",
+      "ipa": "/ˈæn.sər/",
+      "id": "48d8"
+    },
+    {
+      "en": "any",
+      "vn": "bất kỳ",
+      "type": "det., pron.",
+      "ipa": "/ˈeni/",
+      "id": "3acb"
+    },
+    {
+      "en": "anyone",
+      "vn": "bất kỳ ai",
+      "type": "pron.",
+      "ipa": "/ˈeniwʌn/",
+      "id": "717c"
+    },
+    {
+      "en": "anything",
+      "vn": "bất kỳ thứ gì",
+      "type": "pron.",
+      "ipa": "/ˈeniθɪŋ/",
+      "id": "b75e"
+    },
+    {
+      "en": "apartment",
+      "vn": "căn hộ",
+      "type": "n.",
+      "ipa": "/əˈpɑːrt.mənt/",
+      "id": "0c7a"
+    },
+    {
+      "en": "apple",
+      "vn": "quả táo",
+      "type": "n.",
+      "ipa": "/ˈæp.əl/",
+      "id": "40c3"
+    },
+    {
+      "en": "April",
+      "vn": "tháng Tư",
+      "type": "n.",
+      "ipa": "/ˈeɪ.prəl/",
+      "id": "f6f9"
+    },
+    {
+      "en": "area",
+      "vn": "khu vực",
+      "type": "n.",
+      "ipa": "/ˈer.i.ə/",
+      "id": "428b"
+    },
+    {
+      "en": "arm",
+      "vn": "cánh tay",
+      "type": "n.",
+      "ipa": "/ɑːrm/",
+      "id": "0623"
+    },
+    {
+      "en": "around",
+      "vn": "xung quanh",
+      "type": "prep., adv.",
+      "ipa": "/əˈraʊnd/",
+      "id": "3d5b"
+    },
+    {
+      "en": "arrive",
+      "vn": "đến",
+      "type": "v.",
+      "ipa": "/əˈraɪv/",
+      "id": "7fff"
+    },
+    {
+      "en": "art",
+      "vn": "nghệ thuật",
+      "type": "n.",
+      "ipa": "/ɑːrt/",
+      "id": "90f4"
+    },
+    {
+      "en": "article",
+      "vn": "bài báo, điều khoản",
+      "type": "n.",
+      "ipa": "/ˈɑːr.tɪ.kəl/",
+      "id": "910a"
+    },
+    {
+      "en": "artist",
+      "vn": "nghệ sĩ",
+      "type": "n.",
+      "ipa": "/ˈɑːr.tɪst/",
+      "id": "698e"
+    },
+    {
+      "en": "as",
+      "vn": "như",
+      "type": "prep.",
+      "ipa": "/æz/",
+      "id": "0f49"
+    },
+    {
+      "en": "ask",
+      "vn": "hỏi",
+      "type": "v.",
+      "ipa": "/æsk/",
+      "id": "ba14"
+    },
+    {
+      "en": "at",
+      "vn": "tại",
+      "type": "prep.",
+      "ipa": "/æt/",
+      "id": "865f"
+    },
+    {
+      "en": "August",
+      "vn": "tháng Tám",
+      "type": "n.",
+      "ipa": "/ˈɔː.ɡəst/",
+      "id": "4569"
+    },
+    {
+      "en": "aunt",
+      "vn": "dì, cô",
+      "type": "n.",
+      "ipa": "/ænt/",
+      "id": "0057"
+    },
+    {
+      "en": "away",
+      "vn": "xa, đi khỏi",
+      "type": "adv.",
+      "ipa": "/əˈweɪ/",
+      "id": "7578"
+    },
+    {
+      "en": "awesome",
+      "vn": "tuyệt vời",
+      "type": "adj.",
+      "ipa": "/ˈɔː.səm/",
+      "id": "4a70"
+    },
+    {
+      "en": "baby",
+      "vn": "em bé",
+      "type": "n.",
+      "ipa": "/ˈbeɪ.bi/",
+      "id": "1c00"
+    },
+    {
+      "en": "back",
+      "vn": "phía sau, trở lại",
+      "type": "n., adv.",
+      "ipa": "/bæk/",
+      "id": "948d"
+    },
+    {
+      "en": "bad",
+      "vn": "xấu, tồi tệ",
+      "type": "adj.",
+      "ipa": "/bæd/",
+      "id": "23b5"
+    },
+    {
+      "en": "bag",
+      "vn": "túi",
+      "type": "n.",
+      "ipa": "/bæɡ/",
+      "id": "5a52"
+    },
+    {
+      "en": "ball",
+      "vn": "quả bóng",
+      "type": "n.",
+      "ipa": "/bɔːl/",
+      "id": "5d74"
+    },
+    {
+      "en": "banana",
+      "vn": "quả chuối",
+      "type": "n.",
+      "ipa": "/bəˈnæn.ə/",
+      "id": "fb55"
+    },
+    {
+      "en": "band",
+      "vn": "ban nhạc",
+      "type": "n.",
+      "ipa": "/bænd/",
+      "id": "31f0"
+    },
+    {
+      "en": "bank (money)",
+      "vn": "ngân hàng",
+      "type": "n.",
+      "ipa": "/bæŋk/",
+      "id": "d495"
+    },
+    {
+      "en": "bar",
+      "vn": "quán bar",
+      "type": "n.",
+      "ipa": "/bɑːr/",
+      "id": "fb46"
+    },
+    {
+      "en": "baseball",
+      "vn": "bóng chày",
+      "type": "n.",
+      "ipa": "/ˈbeɪs.bɔːl/",
+      "id": "395d"
+    },
+    {
+      "en": "basketball",
+      "vn": "bóng rổ",
+      "type": "n.",
+      "ipa": "/ˈbæs.kɪt.bɔːl/",
+      "id": "44ae"
+    },
+    {
+      "en": "bath",
+      "vn": "bồn tắm",
+      "type": "n.",
+      "ipa": "/bæθ/",
+      "id": "3d9f"
+    },
+    {
+      "en": "bathroom",
+      "vn": "phòng tắm",
+      "type": "n.",
+      "ipa": "/ˈbæθ.ruːm/",
+      "id": "2c3d"
+    },
+    {
+      "en": "be",
+      "vn": "thì, là, ở",
+      "type": "v., auxiliary v.",
+      "ipa": "/biː/",
+      "id": "ecc6"
+    },
+    {
+      "en": "beach",
+      "vn": "bãi biển",
+      "type": "n.",
+      "ipa": "/biːtʃ/",
+      "id": "5273"
+    },
+    {
+      "en": "beautiful",
+      "vn": "đẹp",
+      "type": "adj.",
+      "ipa": "/ˈbjuː.tɪ.fəl/",
+      "id": "050a"
+    },
+    {
+      "en": "because",
+      "vn": "bởi vì",
+      "type": "conj.",
+      "ipa": "/bɪˈkɔːz/",
+      "id": "16c7"
+    },
+    {
+      "en": "become",
+      "vn": "trở thành",
+      "type": "v.",
+      "ipa": "/bɪˈkʌm/",
+      "id": "f701"
+    },
+    {
+      "en": "bed",
+      "vn": "giường",
+      "type": "n.",
+      "ipa": "/bed/",
+      "id": "e64d"
+    },
+    {
+      "en": "bedroom",
+      "vn": "phòng ngủ",
+      "type": "n.",
+      "ipa": "/ˈbed.ruːm/",
+      "id": "952c"
+    },
+    {
+      "en": "beer",
+      "vn": "bia",
+      "type": "n.",
+      "ipa": "/bɪər/",
+      "id": "b3df"
+    },
+    {
+      "en": "before",
+      "vn": "trước",
+      "type": "prep.",
+      "ipa": "/bɪˈfɔːr/",
+      "id": "8ac7"
+    },
+    {
+      "en": "begin",
+      "vn": "bắt đầu",
+      "type": "v.",
+      "ipa": "/bɪˈɡɪn/",
+      "id": "e170"
+    },
+    {
+      "en": "beginning",
+      "vn": "sự bắt đầu",
+      "type": "n.",
+      "ipa": "/bɪˈɡɪn.ɪŋ/",
+      "id": "c388"
+    },
+    {
+      "en": "behind",
+      "vn": "đằng sau",
+      "type": "prep., adv.",
+      "ipa": "/bɪˈhaɪnd/",
+      "id": "672c"
+    },
+    {
+      "en": "believe",
+      "vn": "tin tưởng",
+      "type": "v.",
+      "ipa": "/bɪˈliːv/",
+      "id": "e5f6"
+    },
+    {
+      "en": "below",
+      "vn": "bên dưới",
+      "type": "adv., prep.",
+      "ipa": "/bɪˈloʊ/",
+      "id": "c931"
+    },
+    {
+      "en": "best",
+      "vn": "tốt nhất",
+      "type": "adj.",
+      "ipa": "/best/",
+      "id": "97d8"
+    },
+    {
+      "en": "better",
+      "vn": "tốt hơn",
+      "type": "adj.",
+      "ipa": "/ˈbet.ər/",
+      "id": "f4f7"
+    },
+    {
+      "en": "between",
+      "vn": "giữa",
+      "type": "prep.",
+      "ipa": "/bɪˈtwiːn/",
+      "id": "56d5"
+    },
+    {
+      "en": "bicycle",
+      "vn": "xe đạp",
+      "type": "n.",
+      "ipa": "/ˈbaɪ.sɪ.kəl/",
+      "id": "de93"
+    },
+    {
+      "en": "big",
+      "vn": "to, lớn",
+      "type": "adj.",
+      "ipa": "/bɪɡ/",
+      "id": "68fc"
+    },
+    {
+      "en": "bike",
+      "vn": "xe đạp",
+      "type": "n.",
+      "ipa": "/baɪk/",
+      "id": "22d0"
+    },
+    {
+      "en": "bill",
+      "vn": "hóa đơn",
+      "type": "n.",
+      "ipa": "/bɪl/",
+      "id": "2a44"
+    },
+    {
+      "en": "bird",
+      "vn": "con chim",
+      "type": "n.",
+      "ipa": "/bɜːrd/",
+      "id": "3317"
+    },
+    {
+      "en": "birthday",
+      "vn": "sinh nhật",
+      "type": "n.",
+      "ipa": "/ˈbɜːrθ.deɪ/",
+      "id": "a1c1"
+    },
+    {
+      "en": "black",
+      "vn": "đen, màu đen",
+      "type": "adj., n.",
+      "ipa": "/blæk/",
+      "id": "3d07"
+    },
+    {
+      "en": "blog",
+      "vn": "blog, nhật ký trực tuyến",
+      "type": "n.",
+      "ipa": "/blɑːɡ/",
+      "id": "c36b"
+    },
+    {
+      "en": "blond",
+      "vn": "vàng (tóc)",
+      "type": "adj.",
+      "ipa": "/blɑːnd/",
+      "id": "d316"
+    },
+    {
+      "en": "blue",
+      "vn": "màu xanh da trời",
+      "type": "adj., n.",
+      "ipa": "/bluː/",
+      "id": "4dd5"
+    },
+    {
+      "en": "boat",
+      "vn": "thuyền",
+      "type": "n.",
+      "ipa": "/boʊt/",
+      "id": "057e"
+    },
+    {
+      "en": "body",
+      "vn": "cơ thể",
+      "type": "n.",
+      "ipa": "/ˈbɒd.i/",
+      "id": "7e39"
+    },
+    {
+      "en": "book",
+      "vn": "sách",
+      "type": "n.",
+      "ipa": "/bʊk/",
+      "id": "66a4"
+    },
+    {
+      "en": "boot",
+      "vn": "giày ủng",
+      "type": "n.",
+      "ipa": "/buːt/",
+      "id": "42d1"
+    },
+    {
+      "en": "bored",
+      "vn": "chán",
+      "type": "adj.",
+      "ipa": "/bɔːrd/",
+      "id": "43a6"
+    },
+    {
+      "en": "boring",
+      "vn": "buồn chán",
+      "type": "adj.",
+      "ipa": "/ˈbɔːr.ɪŋ/",
+      "id": "d244"
+    },
+    {
+      "en": "born",
+      "vn": "sinh ra",
+      "type": "v.",
+      "ipa": "/bɔːrn/",
+      "id": "b047"
+    },
+    {
+      "en": "both",
+      "vn": "cả hai",
+      "type": "det./pron.",
+      "ipa": "/boʊθ/",
+      "id": "aaa5"
+    },
+    {
+      "en": "bottle",
+      "vn": "chai",
+      "type": "n.",
+      "ipa": "/ˈbɑː.təl/",
+      "id": "7856"
+    },
+    {
+      "en": "box",
+      "vn": "hộp",
+      "type": "n.",
+      "ipa": "/bɑːks/",
+      "id": "1c3b"
+    },
+    {
+      "en": "boy",
+      "vn": "cậu bé",
+      "type": "n.",
+      "ipa": "/bɔɪ/",
+      "id": "5e1d"
+    },
+    {
+      "en": "boyfriend",
+      "vn": "bạn trai",
+      "type": "n.",
+      "ipa": "/ˈbɔɪ.frend/",
+      "id": "ada3"
+    },
+    {
+      "en": "bread",
+      "vn": "bánh mì",
+      "type": "n.",
+      "ipa": "/bred/",
+      "id": "adf4"
+    },
+    {
+      "en": "break",
+      "vn": "nghỉ, phá vỡ",
+      "type": "v., n.",
+      "ipa": "/breɪk/",
+      "id": "94d5"
+    },
+    {
+      "en": "breakfast",
+      "vn": "bữa sáng",
+      "type": "n.",
+      "ipa": "/ˈbrek.fəst/",
+      "id": "d281"
+    },
+    {
+      "en": "bring",
+      "vn": "mang theo",
+      "type": "v.",
+      "ipa": "/brɪŋ/",
+      "id": "a2ca"
+    },
+    {
+      "en": "brother",
+      "vn": "anh, em trai",
+      "type": "n.",
+      "ipa": "/ˈbrʌð.ər/",
+      "id": "7b58"
+    },
+    {
+      "en": "brown",
+      "vn": "màu nâu",
+      "type": "adj., n.",
+      "ipa": "/braʊn/",
+      "id": "96a2"
+    },
+    {
+      "en": "build",
+      "vn": "xây dựng",
+      "type": "v.",
+      "ipa": "/bɪld/",
+      "id": "5ac1"
+    },
+    {
+      "en": "building",
+      "vn": "tòa nhà",
+      "type": "n.",
+      "ipa": "/ˈbɪl.dɪŋ/",
+      "id": "c1af"
+    },
+    {
+      "en": "bus",
+      "vn": "xe buýt",
+      "type": "n.",
+      "ipa": "/bʌs/",
+      "id": "441d"
+    },
+    {
+      "en": "business",
+      "vn": "kinh doanh",
+      "type": "n.",
+      "ipa": "/ˈbɪz.nɪs/",
+      "id": "53f5"
+    },
+    {
+      "en": "busy",
+      "vn": "bận rộn",
+      "type": "adj.",
+      "ipa": "/ˈbɪz.i/",
+      "id": "3a7f"
+    },
+    {
+      "en": "but",
+      "vn": "nhưng",
+      "type": "conj.",
+      "ipa": "/bʌt/",
+      "id": "9b82"
+    },
+    {
+      "en": "butter",
+      "vn": "bơ",
+      "type": "n.",
+      "ipa": "/ˈbʌt.ər/",
+      "id": "3e8b"
+    },
+    {
+      "en": "buy",
+      "vn": "mua",
+      "type": "v.",
+      "ipa": "/baɪ/",
+      "id": "4d6b"
+    },
+    {
+      "en": "by",
+      "vn": "bởi, gần",
+      "type": "prep.",
+      "ipa": "/baɪ/",
+      "id": "ff33"
+    },
+    {
+      "en": "bye",
+      "vn": "tạm biệt",
+      "type": "exclam.",
+      "ipa": "/baɪ/",
+      "id": "4b81"
+    },
+    {
+      "en": "cafe",
+      "vn": "quán cà phê",
+      "type": "n.",
+      "ipa": "/kæfˈeɪ/",
+      "id": "9122"
+    },
+    {
+      "en": "cake",
+      "vn": "bánh ngọt",
+      "type": "n.",
+      "ipa": "/keɪk/",
+      "id": "757a"
+    },
+    {
+      "en": "call",
+      "vn": "gọi, cuộc gọi",
+      "type": "v., n.",
+      "ipa": "/kɔːl/",
+      "id": "9c8f"
+    },
+    {
+      "en": "camera",
+      "vn": "máy ảnh",
+      "type": "n.",
+      "ipa": "/ˈkæm.rə/",
+      "id": "cf01"
+    },
+    {
+      "en": "can1",
+      "vn": "có thể",
+      "type": "modal v.",
+      "ipa": "/kæn/",
+      "id": "8a63"
+    },
+    {
+      "en": "cannot",
+      "vn": "không thể",
+      "type": "modal v.",
+      "ipa": "/ˈkæn.ɒt/",
+      "id": "014a"
+    },
+    {
+      "en": "capital",
+      "vn": "thủ đô, viết hoa",
+      "type": "n., adj.",
+      "ipa": "/ˈkæp.ɪ.təl/",
+      "id": "bf12"
+    },
+    {
+      "en": "car",
+      "vn": "xe hơi",
+      "type": "n.",
+      "ipa": "/kɑːr/",
+      "id": "3a6e"
+    },
+    {
+      "en": "card",
+      "vn": "thẻ, thiệp",
+      "type": "n.",
+      "ipa": "/kɑːrd/",
+      "id": "8afd"
+    },
+    {
+      "en": "career",
+      "vn": "sự nghiệp",
+      "type": "n.",
+      "ipa": "/kəˈrɪər/",
+      "id": "70cc"
+    },
+    {
+      "en": "carrot",
+      "vn": "cà rốt",
+      "type": "n.",
+      "ipa": "/ˈkær.ət/",
+      "id": "9761"
+    },
+    {
+      "en": "carry",
+      "vn": "mang, vác",
+      "type": "v.",
+      "ipa": "/ˈkær.i/",
+      "id": "a5d2"
+    },
+    {
+      "en": "cat",
+      "vn": "con mèo",
+      "type": "n.",
+      "ipa": "/kæt/",
+      "id": "2714"
+    },
+    {
+      "en": "CD",
+      "vn": "đĩa CD",
+      "type": "n.",
+      "ipa": "/ˌsiːˈdiː/",
+      "id": "0444"
+    },
+    {
+      "en": "cent",
+      "vn": "xu (đơn vị tiền)",
+      "type": "n.",
+      "ipa": "/sent/",
+      "id": "770a"
+    },
+    {
+      "en": "center",
+      "vn": "trung tâm",
+      "type": "n.",
+      "ipa": "/ˈsen.tər/",
+      "id": "9fa8"
+    },
+    {
+      "en": "chair",
+      "vn": "ghế",
+      "type": "n.",
+      "ipa": "/tʃeər/",
+      "id": "1e45"
+    },
+    {
+      "en": "change",
+      "vn": "thay đổi, tiền thối",
+      "type": "v., n.",
+      "ipa": "/tʃeɪndʒ/",
+      "id": "5a7e"
+    },
+    {
+      "en": "chart",
+      "vn": "biểu đồ",
+      "type": "n.",
+      "ipa": "/tʃɑːrt/",
+      "id": "d446"
+    },
+    {
+      "en": "cheap",
+      "vn": "rẻ",
+      "type": "adj.",
+      "ipa": "/tʃiːp/",
+      "id": "394b"
+    },
+    {
+      "en": "check",
+      "vn": "kiểm tra",
+      "type": "v.",
+      "ipa": "/tʃek/",
+      "id": "64ae"
+    },
+    {
+      "en": "cheese",
+      "vn": "phô mai",
+      "type": "n.",
+      "ipa": "/tʃiːz/",
+      "id": "2dcf"
+    },
+    {
+      "en": "chicken",
+      "vn": "gà",
+      "type": "n.",
+      "ipa": "/ˈtʃɪk.ɪn/",
+      "id": "ae34"
+    },
+    {
+      "en": "child",
+      "vn": "đứa trẻ",
+      "type": "n.",
+      "ipa": "/tʃaɪld/",
+      "id": "3fc4"
+    },
+    {
+      "en": "chocolate",
+      "vn": "sô cô la",
+      "type": "n.",
+      "ipa": "/ˈtʃɒk.lət/",
+      "id": "4f52"
+    },
+    {
+      "en": "choose",
+      "vn": "chọn",
+      "type": "v.",
+      "ipa": "/tʃuːz/",
+      "id": "3e66"
+    },
+    {
+      "en": "city",
+      "vn": "thành phố",
+      "type": "n.",
+      "ipa": "/ˈsɪt.i/",
+      "id": "0ffd"
+    },
+    {
+      "en": "class",
+      "vn": "lớp học",
+      "type": "n.",
+      "ipa": "/klɑːs/",
+      "id": "4439"
+    },
+    {
+      "en": "classroom",
+      "vn": "phòng học",
+      "type": "n.",
+      "ipa": "/ˈklæs.ruːm/",
+      "id": "156b"
+    },
+    {
+      "en": "clean",
+      "vn": "sạch sẽ, làm sạch",
+      "type": "adj., v.",
+      "ipa": "/kliːn/",
+      "id": "f9cb"
+    },
+    {
+      "en": "climb",
+      "vn": "leo",
+      "type": "v.",
+      "ipa": "/klaɪm/",
+      "id": "b0ad"
+    },
+    {
+      "en": "clock",
+      "vn": "đồng hồ",
+      "type": "n.",
+      "ipa": "/klɒk/",
+      "id": "54f7"
+    },
+    {
+      "en": "close1",
+      "vn": "đóng",
+      "type": "v.",
+      "ipa": "/kloʊz/",
+      "id": "ac50"
+    },
+    {
+      "en": "clothes",
+      "vn": "quần áo",
+      "type": "n.",
+      "ipa": "/kloʊðz/",
+      "id": "736b"
+    },
+    {
+      "en": "club",
+      "vn": "câu lạc bộ",
+      "type": "n.",
+      "ipa": "/klʌb/",
+      "id": "0f00"
+    },
+    {
+      "en": "coat",
+      "vn": "áo khoác",
+      "type": "n.",
+      "ipa": "/koʊt/",
+      "id": "124f"
+    },
+    {
+      "en": "coffee",
+      "vn": "cà phê",
+      "type": "n.",
+      "ipa": "/ˈkɒf.i/",
+      "id": "c9e3"
+    },
+    {
+      "en": "cold",
+      "vn": "lạnh, cảm lạnh",
+      "type": "adj., n.",
+      "ipa": "/koʊld/",
+      "id": "ea12"
+    },
+    {
+      "en": "college",
+      "vn": "trường cao đẳng, đại học",
+      "type": "n.",
+      "ipa": "/ˈkɒl.ɪdʒ/",
+      "id": "2fca"
+    },
+    {
+      "en": "color",
+      "vn": "màu sắc",
+      "type": "n.",
+      "ipa": "/ˈkʌl.ər/",
+      "id": "478c"
+    },
+    {
+      "en": "come",
+      "vn": "đến",
+      "type": "v.",
+      "ipa": "/kʌm/",
+      "id": "8352"
+    },
+    {
+      "en": "common",
+      "vn": "phổ biến",
+      "type": "adj.",
+      "ipa": "/ˈkɒm.ən/",
+      "id": "36d5"
+    },
+    {
+      "en": "company",
+      "vn": "công ty",
+      "type": "n.",
+      "ipa": "/ˈkʌm.pə.ni/",
+      "id": "2404"
+    },
+    {
+      "en": "compare",
+      "vn": "so sánh",
+      "type": "v.",
+      "ipa": "/kəmˈpeər/",
+      "id": "b7be"
+    },
+    {
+      "en": "complete",
+      "vn": "hoàn thành, hoàn chỉnh",
+      "type": "adj., v.",
+      "ipa": "/kəmˈpliːt/",
+      "id": "9653"
+    },
+    {
+      "en": "computer",
+      "vn": "máy tính",
+      "type": "n.",
+      "ipa": "/kəmˈpjuː.tər/",
+      "id": "4522"
+    },
+    {
+      "en": "concert",
+      "vn": "buổi hòa nhạc",
+      "type": "n.",
+      "ipa": "/ˈkɒn.sət/",
+      "id": "a86f"
+    },
+    {
+      "en": "conversation",
+      "vn": "cuộc hội thoại",
+      "type": "n.",
+      "ipa": "/ˌkɒn.vəˈseɪ.ʃən/",
+      "id": "9176"
+    },
+    {
+      "en": "cook",
+      "vn": "nấu ăn",
+      "type": "v.",
+      "ipa": "/kʊk/",
+      "id": "cfdc"
+    },
+    {
+      "en": "cooking",
+      "vn": "việc nấu ăn",
+      "type": "n.",
+      "ipa": "/ˈkʊk.ɪŋ/",
+      "id": "0fd1"
+    },
+    {
+      "en": "cool",
+      "vn": "mát mẻ",
+      "type": "adj.",
+      "ipa": "/kuːl/",
+      "id": "82e7"
+    },
+    {
+      "en": "correct",
+      "vn": "đúng, sửa",
+      "type": "adj., v.",
+      "ipa": "/kəˈrekt/",
+      "id": "23cf"
+    },
+    {
+      "en": "cost",
+      "vn": "giá, tốn",
+      "type": "n., v.",
+      "ipa": "/kɒst/",
+      "id": "5dce"
+    },
+    {
+      "en": "could",
+      "vn": "có thể",
+      "type": "modal v.",
+      "ipa": "/kʊd/",
+      "id": "a6b1"
+    },
+    {
+      "en": "country",
+      "vn": "quốc gia",
+      "type": "n.",
+      "ipa": "/ˈkʌn.tri/",
+      "id": "c007"
+    },
+    {
+      "en": "course",
+      "vn": "khóa học",
+      "type": "n.",
+      "ipa": "/kɔːs/",
+      "id": "a741"
+    },
+    {
+      "en": "cousin",
+      "vn": "anh chị em họ",
+      "type": "n.",
+      "ipa": "/ˈkʌz.ən/",
+      "id": "fcb6"
+    },
+    {
+      "en": "cow",
+      "vn": "con bò",
+      "type": "n.",
+      "ipa": "/kaʊ/",
+      "id": "7ece"
+    },
+    {
+      "en": "cream",
+      "vn": "kem",
+      "type": "n.",
+      "ipa": "/kriːm/",
+      "id": "9300"
+    },
+    {
+      "en": "create",
+      "vn": "tạo ra",
+      "type": "v.",
+      "ipa": "/kriˈeɪt/",
+      "id": "fd43"
+    },
+    {
+      "en": "culture",
+      "vn": "văn hóa",
+      "type": "n.",
+      "ipa": "/ˈkʌl.tʃər/",
+      "id": "cc53"
+    },
+    {
+      "en": "cup",
+      "vn": "cái tách",
+      "type": "n.",
+      "ipa": "/kʌp/",
+      "id": "a160"
+    },
+    {
+      "en": "customer",
+      "vn": "khách hàng",
+      "type": "n.",
+      "ipa": "/ˈkʌs.tə.mər/",
+      "id": "a14b"
+    },
+    {
+      "en": "cut",
+      "vn": "cắt",
+      "type": "v.",
+      "ipa": "/kʌt/",
+      "id": "e3af"
+    },
+    {
+      "en": "dad",
+      "vn": "bố",
+      "type": "n.",
+      "ipa": "/dæd/",
+      "id": "2430"
+    },
+    {
+      "en": "dance",
+      "vn": "nhảy múa, điệu nhảy",
+      "type": "n., v.",
+      "ipa": "/dæns/",
+      "id": "7dd4"
+    },
+    {
+      "en": "dancer",
+      "vn": "vũ công",
+      "type": "n.",
+      "ipa": "/ˈdæn.sər/",
+      "id": "2f9c"
+    },
+    {
+      "en": "dancing",
+      "vn": "nhảy múa",
+      "type": "n.",
+      "ipa": "/ˈdæn.sɪŋ/",
+      "id": "2264"
+    },
+    {
+      "en": "dangerous",
+      "vn": "nguy hiểm",
+      "type": "adj.",
+      "ipa": "/ˈdeɪn.dʒər.əs/",
+      "id": "d940"
+    },
+    {
+      "en": "dark",
+      "vn": "tối",
+      "type": "adj.",
+      "ipa": "/dɑːrk/",
+      "id": "d773"
+    },
+    {
+      "en": "date",
+      "vn": "ngày tháng, hẹn hò",
+      "type": "n.",
+      "ipa": "/deɪt/",
+      "id": "a1e4"
+    },
+    {
+      "en": "daughter",
+      "vn": "con gái",
+      "type": "n.",
+      "ipa": "/ˈdɔː.tər/",
+      "id": "5598"
+    },
+    {
+      "en": "day",
+      "vn": "ngày",
+      "type": "n.",
+      "ipa": "/deɪ/",
+      "id": "d39e"
+    },
+    {
+      "en": "dear",
+      "vn": "thân yêu",
+      "type": "adj.",
+      "ipa": "/dɪər/",
+      "id": "a6b2"
+    },
+    {
+      "en": "December",
+      "vn": "tháng Mười Hai",
+      "type": "n.",
+      "ipa": "/dɪˈsem.bər/",
+      "id": "fc1a"
+    },
+    {
+      "en": "decide",
+      "vn": "quyết định",
+      "type": "v.",
+      "ipa": "/dɪˈsaɪd/",
+      "id": "13c2"
+    },
+    {
+      "en": "delicious",
+      "vn": "ngon",
+      "type": "adj.",
+      "ipa": "/dɪˈlɪʃ.əs/",
+      "id": "5820"
+    },
+    {
+      "en": "describe",
+      "vn": "mô tả",
+      "type": "v.",
+      "ipa": "/dɪˈskraɪb/",
+      "id": "335d"
+    },
+    {
+      "en": "description",
+      "vn": "sự mô tả",
+      "type": "n.",
+      "ipa": "/dɪˈskrɪp.ʃən/",
+      "id": "965b"
+    },
+    {
+      "en": "design",
+      "vn": "thiết kế, bản thiết kế",
+      "type": "n., v.",
+      "ipa": "/dɪˈzaɪn/",
+      "id": "8ad6"
+    },
+    {
+      "en": "desk",
+      "vn": "bàn làm việc",
+      "type": "n.",
+      "ipa": "/desk/",
+      "id": "c7bd"
+    },
+    {
+      "en": "detail",
+      "vn": "chi tiết",
+      "type": "n.",
+      "ipa": "/ˈdiː.teɪl/",
+      "id": "bff9"
+    },
+    {
+      "en": "dialogue",
+      "vn": "cuộc hội thoại",
+      "type": "n.",
+      "ipa": "/ˈdaɪ.ə.lɒɡ/",
+      "id": "b2a6"
+    },
+    {
+      "en": "dictionary",
+      "vn": "từ điển",
+      "type": "n.",
+      "ipa": "/ˈdɪk.ʃən.ər.i/",
+      "id": "29f0"
+    },
+    {
+      "en": "die",
+      "vn": "chết",
+      "type": "v.",
+      "ipa": "/daɪ/",
+      "id": "3823"
+    },
+    {
+      "en": "diet",
+      "vn": "chế độ ăn kiêng",
+      "type": "n.",
+      "ipa": "/ˈdaɪ.ət/",
+      "id": "ecf9"
+    },
+    {
+      "en": "difference",
+      "vn": "sự khác biệt",
+      "type": "n.",
+      "ipa": "/ˈdɪf.ər.əns/",
+      "id": "5e78"
+    },
+    {
+      "en": "different",
+      "vn": "khác nhau",
+      "type": "adj.",
+      "ipa": "/ˈdɪf.ər.ənt/",
+      "id": "8104"
+    },
+    {
+      "en": "difficult",
+      "vn": "khó khăn",
+      "type": "adj.",
+      "ipa": "/ˈdɪf.ɪ.kəlt/",
+      "id": "6091"
+    },
+    {
+      "en": "dinner",
+      "vn": "bữa tối",
+      "type": "n.",
+      "ipa": "/ˈdɪn.ər/",
+      "id": "f4b8"
+    },
+    {
+      "en": "dirty",
+      "vn": "bẩn",
+      "type": "adj.",
+      "ipa": "/ˈdɜː.ti/",
+      "id": "54ef"
+    },
+    {
+      "en": "discuss",
+      "vn": "thảo luận",
+      "type": "v.",
+      "ipa": "/dɪˈskʌs/",
+      "id": "af70"
+    },
+    {
+      "en": "dish",
+      "vn": "món ăn, đĩa",
+      "type": "n.",
+      "ipa": "/dɪʃ/",
+      "id": "e775"
+    },
+    {
+      "en": "do1",
+      "vn": "làm",
+      "type": "v., auxiliary v.",
+      "ipa": "/duː/",
+      "id": "f6b4"
+    },
+    {
+      "en": "doctor",
+      "vn": "bác sĩ",
+      "type": "n.",
+      "ipa": "/ˈdɒk.tər/",
+      "id": "c36b"
+    },
+    {
+      "en": "dog",
+      "vn": "con chó",
+      "type": "n.",
+      "ipa": "/dɒɡ/",
+      "id": "406e"
+    },
+    {
+      "en": "dollar",
+      "vn": "đô la",
+      "type": "n.",
+      "ipa": "/ˈdɒl.ər/",
+      "id": "0ac5"
+    },
+    {
+      "en": "door",
+      "vn": "cửa",
+      "type": "n.",
+      "ipa": "/dɔːr/",
+      "id": "afc5"
+    },
+    {
+      "en": "down",
+      "vn": "xuống",
+      "type": "adv., prep.",
+      "ipa": "/daʊn/",
+      "id": "29b7"
+    },
+    {
+      "en": "downstairs",
+      "vn": "tầng dưới",
+      "type": "adv.",
+      "ipa": "/ˌdaʊnˈsteəz/",
+      "id": "d504"
+    },
+    {
+      "en": "draw",
+      "vn": "vẽ",
+      "type": "v.",
+      "ipa": "/drɔː/",
+      "id": "a8d9"
+    },
+    {
+      "en": "dress",
+      "vn": "váy, mặc đồ",
+      "type": "n., v.",
+      "ipa": "/dres/",
+      "id": "26f8"
+    },
+    {
+      "en": "drink",
+      "vn": "uống, đồ uống",
+      "type": "n., v.",
+      "ipa": "/drɪŋk/",
+      "id": "c5e1"
+    },
+    {
+      "en": "drive",
+      "vn": "lái xe",
+      "type": "v.",
+      "ipa": "/draɪv/",
+      "id": "bf54"
+    },
+    {
+      "en": "driver",
+      "vn": "người lái xe",
+      "type": "n.",
+      "ipa": "/ˈdraɪ.vər/",
+      "id": "b548"
+    },
+    {
+      "en": "during",
+      "vn": "trong suốt",
+      "type": "prep.",
+      "ipa": "/ˈdjʊə.rɪŋ/",
+      "id": "be95"
+    },
+    {
+      "en": "DVD",
+      "vn": "đĩa DVD",
+      "type": "n.",
+      "ipa": "/ˌdiː.viːˈdiː/",
+      "id": "30a6"
+    },
+    {
+      "en": "each",
+      "vn": "mỗi",
+      "type": "det./pron./adv.",
+      "ipa": "/iːtʃ/",
+      "id": "5a0a"
+    },
+    {
+      "en": "ear",
+      "vn": "tai",
+      "type": "n.",
+      "ipa": "/ɪər/",
+      "id": "e35c"
+    },
+    {
+      "en": "early",
+      "vn": "sớm",
+      "type": "adj., adv.",
+      "ipa": "/ˈɜː.li/",
+      "id": "8b67"
+    },
+    {
+      "en": "east",
+      "vn": "hướng đông",
+      "type": "n., adj., adv.",
+      "ipa": "/iːst/",
+      "id": "7e58"
+    },
+    {
+      "en": "easy",
+      "vn": "dễ dàng",
+      "type": "adj.",
+      "ipa": "/ˈiː.zi/",
+      "id": "0312"
+    },
+    {
+      "en": "eat",
+      "vn": "ăn",
+      "type": "v.",
+      "ipa": "/iːt/",
+      "id": "d209"
+    },
+    {
+      "en": "egg",
+      "vn": "trứng",
+      "type": "n.",
+      "ipa": "/eɡ/",
+      "id": "496b"
+    },
+    {
+      "en": "eight",
+      "vn": "tám",
+      "type": "number",
+      "ipa": "/eɪt/",
+      "id": "3c6b"
+    },
+    {
+      "en": "eighteen",
+      "vn": "mười tám",
+      "type": "number",
+      "ipa": "/ˌeɪˈtiːn/",
+      "id": "34be"
+    },
+    {
+      "en": "eighty",
+      "vn": "tám mươi",
+      "type": "number",
+      "ipa": "/ˈeɪ.ti/",
+      "id": "8db3"
+    },
+    {
+      "en": "elephant",
+      "vn": "con voi",
+      "type": "n.",
+      "ipa": "/ˈel.ɪ.fənt/",
+      "id": "a905"
+    },
+    {
+      "en": "eleven",
+      "vn": "mười một",
+      "type": "number",
+      "ipa": "/ɪˈlev.ən/",
+      "id": "dff9"
+    },
+    {
+      "en": "else",
+      "vn": "khác",
+      "type": "adv.",
+      "ipa": "/els/",
+      "id": "19fd"
+    },
+    {
+      "en": "email",
+      "vn": "thư điện tử, gửi thư điện tử",
+      "type": "n., v.",
+      "ipa": "/ˈiː.meɪl/",
+      "id": "053d"
+    },
+    {
+      "en": "end",
+      "vn": "kết thúc, sự kết thúc",
+      "type": "n., v.",
+      "ipa": "/end/",
+      "id": "cf15"
+    },
+    {
+      "en": "enjoy",
+      "vn": "thưởng thức",
+      "type": "v.",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "id": "f45a"
+    },
+    {
+      "en": "enough",
+      "vn": "đủ",
+      "type": "det., pron., adv.",
+      "ipa": "/ɪˈnʌf/",
+      "id": "21a8"
+    },
+    {
+      "en": "euro",
+      "vn": "đồng euro",
+      "type": "n.",
+      "ipa": "/ˈjʊə.rəʊ/",
+      "id": "690f"
+    },
+    {
+      "en": "even",
+      "vn": "thậm chí",
+      "type": "adv.",
+      "ipa": "/ˈiː.vən/",
+      "id": "5510"
+    },
+    {
+      "en": "evening",
+      "vn": "buổi tối",
+      "type": "n.",
+      "ipa": "/ˈiːv.nɪŋ/",
+      "id": "3a31"
+    },
+    {
+      "en": "event",
+      "vn": "sự kiện",
+      "type": "n.",
+      "ipa": "/ɪˈvent/",
+      "id": "cfe1"
+    },
+    {
+      "en": "ever",
+      "vn": "từng",
+      "type": "adv.",
+      "ipa": "/ˈev.ər/",
+      "id": "da44"
+    },
+    {
+      "en": "every",
+      "vn": "mỗi",
+      "type": "det.",
+      "ipa": "/ˈev.ri/",
+      "id": "7ea2"
+    },
+    {
+      "en": "everybody",
+      "vn": "mọi người",
+      "type": "pron.",
+      "ipa": "/ˈev.riˌbɒd.i/",
+      "id": "1891"
+    },
+    {
+      "en": "everyone",
+      "vn": "mọi người",
+      "type": "pron.",
+      "ipa": "/ˈev.ri.wʌn/",
+      "id": "6e55"
+    },
+    {
+      "en": "everything",
+      "vn": "mọi thứ",
+      "type": "pron.",
+      "ipa": "/ˈev.ri.θɪŋ/",
+      "id": "7d7a"
+    },
+    {
+      "en": "exam",
+      "vn": "kỳ thi",
+      "type": "n.",
+      "ipa": "/ɪɡˈzæm/",
+      "id": "cfb3"
+    },
+    {
+      "en": "example",
+      "vn": "ví dụ",
+      "type": "n.",
+      "ipa": "/ɪɡˈzɑːm.pəl/",
+      "id": "a531"
+    },
+    {
+      "en": "excited",
+      "vn": "hào hứng",
+      "type": "adj.",
+      "ipa": "/ɪkˈsaɪ.tɪd/",
+      "id": "5705"
+    },
+    {
+      "en": "exciting",
+      "vn": "thú vị",
+      "type": "adj.",
+      "ipa": "/ɪkˈsaɪ.tɪŋ/",
+      "id": "16b4"
+    },
+    {
+      "en": "exercise",
+      "vn": "bài tập, tập thể dục",
+      "type": "n., v.",
+      "ipa": "/ˈek.sə.saɪz/",
+      "id": "09ec"
+    },
+    {
+      "en": "expensive",
+      "vn": "đắt đỏ",
+      "type": "adj.",
+      "ipa": "/ɪkˈspen.sɪv/",
+      "id": "519e"
+    },
+    {
+      "en": "explain",
+      "vn": "giải thích",
+      "type": "v.",
+      "ipa": "/ɪkˈspleɪn/",
+      "id": "d25e"
+    },
+    {
+      "en": "extra",
+      "vn": "thêm",
+      "type": "adj.",
+      "ipa": "/ˈek.strə/",
+      "id": "d0f9"
+    },
+    {
+      "en": "eye",
+      "vn": "mắt",
+      "type": "n.",
+      "ipa": "/aɪ/",
+      "id": "7636"
+    },
+    {
+      "en": "face",
+      "vn": "mặt",
+      "type": "n.",
+      "ipa": "/feɪs/",
+      "id": "d0d4"
+    },
+    {
+      "en": "fact",
+      "vn": "sự thật",
+      "type": "n.",
+      "ipa": "/fækt/",
+      "id": "9149"
+    },
+    {
+      "en": "fall",
+      "vn": "ngã, mùa thu",
+      "type": "v., n.",
+      "ipa": "/fɔːl/",
+      "id": "e223"
+    },
+    {
+      "en": "false",
+      "vn": "sai",
+      "type": "adj.",
+      "ipa": "/fɔːls/",
+      "id": "332e"
+    },
+    {
+      "en": "family",
+      "vn": "gia đình",
+      "type": "n., adj.",
+      "ipa": "/ˈfæm.əl.i/",
+      "id": "beae"
+    },
+    {
+      "en": "famous",
+      "vn": "nổi tiếng",
+      "type": "adj.",
+      "ipa": "/ˈfeɪ.məs/",
+      "id": "c605"
+    },
+    {
+      "en": "fantastic",
+      "vn": "tuyệt vời",
+      "type": "adj.",
+      "ipa": "/fænˈtæs.tɪk/",
+      "id": "8805"
+    },
+    {
+      "en": "far",
+      "vn": "xa",
+      "type": "adv.",
+      "ipa": "/fɑːr/",
+      "id": "b950"
+    },
+    {
+      "en": "farm",
+      "vn": "trang trại",
+      "type": "n.",
+      "ipa": "/fɑːm/",
+      "id": "318e"
+    },
+    {
+      "en": "farmer",
+      "vn": "nông dân",
+      "type": "n.",
+      "ipa": "/ˈfɑː.mər/",
+      "id": "3cab"
+    },
+    {
+      "en": "fast",
+      "vn": "nhanh",
+      "type": "adj., adv.",
+      "ipa": "/fɑːst/",
+      "id": "d60e"
+    },
+    {
+      "en": "fat",
+      "vn": "béo",
+      "type": "adj.",
+      "ipa": "/fæt/",
+      "id": "b384"
+    },
+    {
+      "en": "father",
+      "vn": "cha",
+      "type": "n.",
+      "ipa": "/ˈfɑː.ðər/",
+      "id": "abb7"
+    },
+    {
+      "en": "favorite",
+      "vn": "yêu thích",
+      "type": "adj., n.",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "id": "9bae"
+    },
+    {
+      "en": "February",
+      "vn": "tháng Hai",
+      "type": "n.",
+      "ipa": "/ˈfeb.ruː.ər.i/",
+      "id": "4574"
+    },
+    {
+      "en": "feel",
+      "vn": "cảm thấy",
+      "type": "v.",
+      "ipa": "/fiːl/",
+      "id": "0f2d"
+    },
+    {
+      "en": "feeling",
+      "vn": "cảm xúc",
+      "type": "n.",
+      "ipa": "/ˈfiː.lɪŋ/",
+      "id": "b613"
+    },
+    {
+      "en": "festival",
+      "vn": "lễ hội",
+      "type": "n.",
+      "ipa": "/ˈfes.tɪ.vəl/",
+      "id": "69c1"
+    },
+    {
+      "en": "few",
+      "vn": "ít",
+      "type": "det./adj., pron.",
+      "ipa": "/fjuː/",
+      "id": "d165"
+    },
+    {
+      "en": "fifteen",
+      "vn": "mười lăm",
+      "type": "number",
+      "ipa": "/ˌfɪfˈtiːn/",
+      "id": "ae99"
+    },
+    {
+      "en": "fifth",
+      "vn": "thứ năm",
+      "type": "number",
+      "ipa": "/fɪfθ/",
+      "id": "f1fc"
+    },
+    {
+      "en": "fifty",
+      "vn": "năm mươi",
+      "type": "number",
+      "ipa": "/ˈfɪf.ti/",
+      "id": "6ef5"
+    },
+    {
+      "en": "fill",
+      "vn": "làm đầy",
+      "type": "v.",
+      "ipa": "/fɪl/",
+      "id": "4460"
+    },
+    {
+      "en": "final",
+      "vn": "cuối cùng",
+      "type": "adj.",
+      "ipa": "/ˈfaɪ.nəl/",
+      "id": "db1e"
+    },
+    {
+      "en": "find",
+      "vn": "tìm thấy",
+      "type": "v.",
+      "ipa": "/faɪnd/",
+      "id": "6c4a"
+    },
+    {
+      "en": "fine",
+      "vn": "tốt",
+      "type": "adj.",
+      "ipa": "/faɪn/",
+      "id": "f206"
+    },
+    {
+      "en": "finish",
+      "vn": "hoàn thành",
+      "type": "v.",
+      "ipa": "/ˈfɪn.ɪʃ/",
+      "id": "4b73"
+    },
+    {
+      "en": "fire",
+      "vn": "lửa",
+      "type": "n.",
+      "ipa": "/faɪər/",
+      "id": "00ea"
+    },
+    {
+      "en": "first",
+      "vn": "thứ nhất, đầu tiên",
+      "type": "det./number, adv.",
+      "ipa": "/fɜːst/",
+      "id": "2857"
+    },
+    {
+      "en": "fish",
+      "vn": "cá",
+      "type": "n.",
+      "ipa": "/fɪʃ/",
+      "id": "50d7"
+    },
+    {
+      "en": "five",
+      "vn": "năm",
+      "type": "number",
+      "ipa": "/faɪv/",
+      "id": "b40b"
+    },
+    {
+      "en": "flight",
+      "vn": "chuyến bay",
+      "type": "n.",
+      "ipa": "/flaɪt/",
+      "id": "456f"
+    },
+    {
+      "en": "floor",
+      "vn": "sàn nhà",
+      "type": "n.",
+      "ipa": "/flɔːr/",
+      "id": "0912"
+    },
+    {
+      "en": "flower",
+      "vn": "hoa",
+      "type": "n.",
+      "ipa": "/ˈflaʊ.ər/",
+      "id": "8cb1"
+    },
+    {
+      "en": "fly",
+      "vn": "bay",
+      "type": "v.",
+      "ipa": "/flaɪ/",
+      "id": "68f9"
+    },
+    {
+      "en": "follow",
+      "vn": "theo dõi",
+      "type": "v.",
+      "ipa": "/ˈfɒl.əʊ/",
+      "id": "cbd5"
+    },
+    {
+      "en": "food",
+      "vn": "thức ăn",
+      "type": "n.",
+      "ipa": "/fuːd/",
+      "id": "c427"
+    },
+    {
+      "en": "foot",
+      "vn": "bàn chân",
+      "type": "n.",
+      "ipa": "/fʊt/",
+      "id": "4796"
+    },
+    {
+      "en": "football",
+      "vn": "bóng đá",
+      "type": "n.",
+      "ipa": "/ˈfʊt.bɔːl/",
+      "id": "61ef"
+    },
+    {
+      "en": "for",
+      "vn": "cho, dành cho",
+      "type": "prep.",
+      "ipa": "/fɔːr/",
+      "id": "1e25"
+    },
+    {
+      "en": "forget",
+      "vn": "quên",
+      "type": "v.",
+      "ipa": "/fəˈɡet/",
+      "id": "ea43"
+    },
+    {
+      "en": "form",
+      "vn": "hình thức, tạo thành",
+      "type": "n., v.",
+      "ipa": "/fɔːm/",
+      "id": "c2e0"
+    },
+    {
+      "en": "forty",
+      "vn": "bốn mươi",
+      "type": "number",
+      "ipa": "/ˈfɔː.ti/",
+      "id": "fff7"
+    },
+    {
+      "en": "four",
+      "vn": "bốn",
+      "type": "number",
+      "ipa": "/fɔːr/",
+      "id": "0802"
+    },
+    {
+      "en": "fourteen",
+      "vn": "mười bốn",
+      "type": "number",
+      "ipa": "/ˌfɔːˈtiːn/",
+      "id": "db31"
+    },
+    {
+      "en": "fourth",
+      "vn": "thứ tư",
+      "type": "number",
+      "ipa": "/fɔːrθ/",
+      "id": "83d5"
+    },
+    {
+      "en": "free",
+      "vn": "miễn phí, tự do",
+      "type": "adj.",
+      "ipa": "/friː/",
+      "id": "6f5d"
+    },
+    {
+      "en": "Friday",
+      "vn": "thứ Sáu",
+      "type": "n.",
+      "ipa": "/ˈfraɪ.deɪ/",
+      "id": "ee3d"
+    },
+    {
+      "en": "friend",
+      "vn": "bạn bè",
+      "type": "n.",
+      "ipa": "/frend/",
+      "id": "8dfd"
+    },
+    {
+      "en": "friendly",
+      "vn": "thân thiện",
+      "type": "adj.",
+      "ipa": "/ˈfrend.li/",
+      "id": "809a"
+    },
+    {
+      "en": "from",
+      "vn": "từ",
+      "type": "prep.",
+      "ipa": "/frɒm/",
+      "id": "7668"
+    },
+    {
+      "en": "front",
+      "vn": "mặt trước, phía trước",
+      "type": "n., adj.",
+      "ipa": "/frʌnt/",
+      "id": "c329"
+    },
+    {
+      "en": "fruit",
+      "vn": "trái cây",
+      "type": "n.",
+      "ipa": "/fruːt/",
+      "id": "f222"
+    },
+    {
+      "en": "full",
+      "vn": "đầy",
+      "type": "adj.",
+      "ipa": "/fʊl/",
+      "id": "9689"
+    },
+    {
+      "en": "fun",
+      "vn": "niềm vui",
+      "type": "n.",
+      "ipa": "/fʌn/",
+      "id": "037f"
+    },
+    {
+      "en": "funny",
+      "vn": "vui nhộn",
+      "type": "adj.",
+      "ipa": "/ˈfʌn.i/",
+      "id": "a64b"
+    },
+    {
+      "en": "future",
+      "vn": "tương lai",
+      "type": "n.",
+      "ipa": "/ˈfjuː.tʃər/",
+      "id": "bb93"
+    },
+    {
+      "en": "game",
+      "vn": "trò chơi",
+      "type": "n.",
+      "ipa": "/ɡeɪm/",
+      "id": "afee"
+    },
+    {
+      "en": "garden",
+      "vn": "vườn",
+      "type": "n.",
+      "ipa": "/ˈɡɑː.dən/",
+      "id": "18ed"
+    },
+    {
+      "en": "geography",
+      "vn": "địa lý",
+      "type": "n.",
+      "ipa": "/dʒiˈɒɡ.rə.fi/",
+      "id": "9fcd"
+    },
+    {
+      "en": "get",
+      "vn": "nhận được",
+      "type": "v.",
+      "ipa": "/ɡet/",
+      "id": "73bf"
+    },
+    {
+      "en": "girl",
+      "vn": "cô gái",
+      "type": "n.",
+      "ipa": "/ɡɜːl/",
+      "id": "5cc6"
+    },
+    {
+      "en": "girlfriend",
+      "vn": "bạn gái",
+      "type": "n.",
+      "ipa": "/ˈɡɜːl.frend/",
+      "id": "44ce"
+    },
+    {
+      "en": "give",
+      "vn": "cho, tặng",
+      "type": "v.",
+      "ipa": "/ɡɪv/",
+      "id": "d2d1"
+    },
+    {
+      "en": "glass",
+      "vn": "kính, ly",
+      "type": "n.",
+      "ipa": "/ɡlɑːs/",
+      "id": "9a30"
+    },
+    {
+      "en": "go",
+      "vn": "đi",
+      "type": "v.",
+      "ipa": "/ɡəʊ/",
+      "id": "441b"
+    },
+    {
+      "en": "good",
+      "vn": "tốt",
+      "type": "adj.",
+      "ipa": "/ɡʊd/",
+      "id": "73d5"
+    },
+    {
+      "en": "goodbye",
+      "vn": "tạm biệt",
+      "type": "exclam./n.",
+      "ipa": "/ˌɡʊdˈbaɪ/",
+      "id": "a755"
+    },
+    {
+      "en": "grandfather",
+      "vn": "ông",
+      "type": "n.",
+      "ipa": "/ˈɡræn.fɑː.ðər/",
+      "id": "6dfb"
+    },
+    {
+      "en": "grandmother",
+      "vn": "bà",
+      "type": "n.",
+      "ipa": "/ˈɡræn.mʌð.ər/",
+      "id": "9a5d"
+    },
+    {
+      "en": "grandparent",
+      "vn": "ông bà",
+      "type": "n.",
+      "ipa": "/ˈɡrænˌpeə.rənt/",
+      "id": "7882"
+    },
+    {
+      "en": "gray",
+      "vn": "màu xám",
+      "type": "adj., n.",
+      "ipa": "/ɡreɪ/",
+      "id": "3829"
+    },
+    {
+      "en": "great",
+      "vn": "tuyệt vời",
+      "type": "adj.",
+      "ipa": "/ɡreɪt/",
+      "id": "47a8"
+    },
+    {
+      "en": "green",
+      "vn": "màu xanh lá cây",
+      "type": "adj., n.",
+      "ipa": "/ɡriːn/",
+      "id": "529f"
+    },
+    {
+      "en": "group",
+      "vn": "nhóm",
+      "type": "n.",
+      "ipa": "/ɡruːp/",
+      "id": "d2ef"
+    },
+    {
+      "en": "grow",
+      "vn": "phát triển, trồng",
+      "type": "v.",
+      "ipa": "/ɡrəʊ/",
+      "id": "6e86"
+    },
+    {
+      "en": "guess",
+      "vn": "đoán, sự đoán",
+      "type": "v., n.",
+      "ipa": "/ɡes/",
+      "id": "6ab0"
+    },
+    {
+      "en": "guitar",
+      "vn": "đàn guitar",
+      "type": "n.",
+      "ipa": "/ɡɪˈtɑːr/",
+      "id": "3ff9"
+    },
+    {
+      "en": "gym",
+      "vn": "phòng tập thể dục",
+      "type": "n.",
+      "ipa": "/dʒɪm/",
+      "id": "8e8e"
+    },
+    {
+      "en": "hair",
+      "vn": "tóc",
+      "type": "n.",
+      "ipa": "/heər/",
+      "id": "6677"
+    },
+    {
+      "en": "half",
+      "vn": "một nửa",
+      "type": "n., det./pron.",
+      "ipa": "/hɑːf/",
+      "id": "c199"
+    },
+    {
+      "en": "hand",
+      "vn": "tay",
+      "type": "n.",
+      "ipa": "/hænd/",
+      "id": "f8d0"
+    },
+    {
+      "en": "happen",
+      "vn": "xảy ra",
+      "type": "v.",
+      "ipa": "/ˈhæp.ən/",
+      "id": "53f1"
+    },
+    {
+      "en": "happy",
+      "vn": "vui vẻ",
+      "type": "adj.",
+      "ipa": "/ˈhæp.i/",
+      "id": "adf3"
+    },
+    {
+      "en": "hard",
+      "vn": "khó khăn, cứng",
+      "type": "adj., adv.",
+      "ipa": "/hɑːd/",
+      "id": "5333"
+    },
+    {
+      "en": "hat",
+      "vn": "mũ",
+      "type": "n.",
+      "ipa": "/hæt/",
+      "id": "41d1"
+    },
+    {
+      "en": "hate",
+      "vn": "ghét",
+      "type": "v.",
+      "ipa": "/heɪt/",
+      "id": "74cb"
+    },
+    {
+      "en": "have",
+      "vn": "có",
+      "type": "v.",
+      "ipa": "/hæv/",
+      "id": "5647"
+    },
+    {
+      "en": "have to",
+      "vn": "phải",
+      "type": "modal v.",
+      "ipa": "/ˈhæv tə/",
+      "id": "5a69"
+    },
+    {
+      "en": "he",
+      "vn": "anh ấy",
+      "type": "pron.",
+      "ipa": "/hiː/",
+      "id": "d7a8"
+    },
+    {
+      "en": "head",
+      "vn": "đầu",
+      "type": "n.",
+      "ipa": "/hed/",
+      "id": "5c05"
+    },
+    {
+      "en": "health",
+      "vn": "sức khỏe",
+      "type": "n.",
+      "ipa": "/helθ/",
+      "id": "f543"
+    },
+    {
+      "en": "healthy",
+      "vn": "khỏe mạnh",
+      "type": "adj.",
+      "ipa": "/ˈhel.θi/",
+      "id": "d86a"
+    },
+    {
+      "en": "hear",
+      "vn": "nghe",
+      "type": "v.",
+      "ipa": "/hɪər/",
+      "id": "da93"
+    },
+    {
+      "en": "hello",
+      "vn": "xin chào",
+      "type": "exclam./n.",
+      "ipa": "/həˈləʊ/",
+      "id": "5f39"
+    },
+    {
+      "en": "help",
+      "vn": "giúp đỡ, sự giúp đỡ",
+      "type": "v., n.",
+      "ipa": "/help/",
+      "id": "a055"
+    },
+    {
+      "en": "her",
+      "vn": "cô ấy, của cô ấy",
+      "type": "pron., det.",
+      "ipa": "/hɜːr/",
+      "id": "187a"
+    },
+    {
+      "en": "here",
+      "vn": "ở đây",
+      "type": "adv.",
+      "ipa": "/hɪər/",
+      "id": "40d5"
+    },
+    {
+      "en": "hey",
+      "vn": "này",
+      "type": "exclam.",
+      "ipa": "/heɪ/",
+      "id": "0058"
+    },
+    {
+      "en": "hi",
+      "vn": "xin chào",
+      "type": "exclam.",
+      "ipa": "/haɪ/",
+      "id": "3486"
+    },
+    {
+      "en": "high",
+      "vn": "cao",
+      "type": "adj.",
+      "ipa": "/haɪ/",
+      "id": "43e9"
+    },
+    {
+      "en": "him",
+      "vn": "anh ấy",
+      "type": "pron.",
+      "ipa": "/hɪm/",
+      "id": "bc82"
+    },
+    {
+      "en": "his",
+      "vn": "của anh ấy",
+      "type": "det.",
+      "ipa": "/hɪz/",
+      "id": "8c70"
+    },
+    {
+      "en": "history",
+      "vn": "lịch sử",
+      "type": "n.",
+      "ipa": "/ˈhɪs.tər.i/",
+      "id": "9f52"
+    },
+    {
+      "en": "hobby",
+      "vn": "sở thích",
+      "type": "n.",
+      "ipa": "/ˈhɒb.i/",
+      "id": "94f0"
+    },
+    {
+      "en": "home",
+      "vn": "nhà",
+      "type": "n., adv.",
+      "ipa": "/həʊm/",
+      "id": "c996"
+    },
+    {
+      "en": "homework",
+      "vn": "bài tập về nhà",
+      "type": "n.",
+      "ipa": "/ˈhəʊm.wɜːk/",
+      "id": "9456"
+    },
+    {
+      "en": "hope",
+      "vn": "hy vọng",
+      "type": "v.",
+      "ipa": "/həʊp/",
+      "id": "aa11"
+    },
+    {
+      "en": "horse",
+      "vn": "con ngựa",
+      "type": "n.",
+      "ipa": "/hɔːs/",
+      "id": "9fad"
+    },
+    {
+      "en": "hospital",
+      "vn": "bệnh viện",
+      "type": "n.",
+      "ipa": "/ˈhɒs.pɪ.təl/",
+      "id": "51ec"
+    },
+    {
+      "en": "hot",
+      "vn": "nóng",
+      "type": "adj.",
+      "ipa": "/hɒt/",
+      "id": "2c51"
+    },
+    {
+      "en": "hotel",
+      "vn": "khách sạn",
+      "type": "n.",
+      "ipa": "/həʊˈtel/",
+      "id": "c76f"
+    },
+    {
+      "en": "hour",
+      "vn": "giờ",
+      "type": "n.",
+      "ipa": "/aʊər/",
+      "id": "aefc"
+    },
+    {
+      "en": "house",
+      "vn": "ngôi nhà",
+      "type": "n.",
+      "ipa": "/haʊs/",
+      "id": "a47c"
+    },
+    {
+      "en": "how",
+      "vn": "như thế nào",
+      "type": "adv.",
+      "ipa": "/haʊ/",
+      "id": "02f9"
+    },
+    {
+      "en": "however",
+      "vn": "tuy nhiên",
+      "type": "adv.",
+      "ipa": "/haʊˈev.ər/",
+      "id": "9805"
+    },
+    {
+      "en": "hundred",
+      "vn": "một trăm",
+      "type": "number",
+      "ipa": "/ˈhʌn.drəd/",
+      "id": "40c8"
+    },
+    {
+      "en": "hungry",
+      "vn": "đói",
+      "type": "adj.",
+      "ipa": "/ˈhʌŋ.ɡri/",
+      "id": "0e5f"
+    },
+    {
+      "en": "husband",
+      "vn": "chồng",
+      "type": "n.",
+      "ipa": "/ˈhʌz.bənd/",
+      "id": "b362"
+    },
+    {
+      "en": "I",
+      "vn": "tôi",
+      "type": "pron.",
+      "ipa": "/aɪ/",
+      "id": "353e"
+    },
+    {
+      "en": "ice",
+      "vn": "băng, đá",
+      "type": "n.",
+      "ipa": "/aɪs/",
+      "id": "e385"
+    },
+    {
+      "en": "ice cream",
+      "vn": "kem",
+      "type": "n.",
+      "ipa": "/ˈaɪs ˌkriːm/",
+      "id": "d3d6"
+    },
+    {
+      "en": "idea",
+      "vn": "ý tưởng",
+      "type": "n.",
+      "ipa": "/aɪˈdɪə/",
+      "id": "375f"
+    },
+    {
+      "en": "if",
+      "vn": "nếu",
+      "type": "conj.",
+      "ipa": "/ɪf/",
+      "id": "bf36"
+    },
+    {
+      "en": "imagine",
+      "vn": "tưởng tượng",
+      "type": "v.",
+      "ipa": "/ɪˈmædʒ.ɪn/",
+      "id": "dbbc"
+    },
+    {
+      "en": "important",
+      "vn": "quan trọng",
+      "type": "adj.",
+      "ipa": "/ɪmˈpɔː.tənt/",
+      "id": "9fba"
+    },
+    {
+      "en": "improve",
+      "vn": "cải thiện",
+      "type": "v.",
+      "ipa": "/ɪmˈpruːv/",
+      "id": "f109"
+    },
+    {
+      "en": "in",
+      "vn": "trong",
+      "type": "prep., adv.",
+      "ipa": "/ɪn/",
+      "id": "754d"
+    },
+    {
+      "en": "include",
+      "vn": "bao gồm",
+      "type": "v.",
+      "ipa": "/ɪnˈkluːd/",
+      "id": "bb30"
+    },
+    {
+      "en": "information",
+      "vn": "thông tin",
+      "type": "n.",
+      "ipa": "/ˌɪn.fəˈmeɪ.ʃən/",
+      "id": "c382"
+    },
+    {
+      "en": "interest",
+      "vn": "sở thích, quan tâm",
+      "type": "n., v.",
+      "ipa": "/ˈɪn.trəst/",
+      "id": "530f"
+    },
+    {
+      "en": "interested",
+      "vn": "quan tâm, thích thú",
+      "type": "adj.",
+      "ipa": "/ˈɪn.trə.stɪd/",
+      "id": "ff79"
+    },
+    {
+      "en": "interesting",
+      "vn": "thú vị",
+      "type": "adj.",
+      "ipa": "/ˈɪn.trə.stɪŋ/",
+      "id": "adb2"
+    },
+    {
+      "en": "internet",
+      "vn": "mạng internet",
+      "type": "n.",
+      "ipa": "/ˈɪn.tə.net/",
+      "id": "b26c"
+    },
+    {
+      "en": "interview",
+      "vn": "phỏng vấn",
+      "type": "n., v.",
+      "ipa": "/ˈɪn.tə.vjuː/",
+      "id": "5373"
+    },
+    {
+      "en": "into",
+      "vn": "vào trong",
+      "type": "prep.",
+      "ipa": "/ˈɪn.tuː/",
+      "id": "f646"
+    },
+    {
+      "en": "introduce",
+      "vn": "giới thiệu",
+      "type": "v.",
+      "ipa": "/ˌɪn.trəˈdjuːs/",
+      "id": "c73d"
+    },
+    {
+      "en": "island",
+      "vn": "hòn đảo",
+      "type": "n.",
+      "ipa": "/ˈaɪ.lənd/",
+      "id": "3bb5"
+    },
+    {
+      "en": "it",
+      "vn": "nó",
+      "type": "pron.",
+      "ipa": "/ɪt/",
+      "id": "54a4"
+    },
+    {
+      "en": "its",
+      "vn": "của nó",
+      "type": "det.",
+      "ipa": "/ɪts/",
+      "id": "4201"
+    },
+    {
+      "en": "jacket",
+      "vn": "áo khoác",
+      "type": "n.",
+      "ipa": "/ˈdʒæk.ɪt/",
+      "id": "b70a"
+    },
+    {
+      "en": "January",
+      "vn": "tháng Giêng",
+      "type": "n.",
+      "ipa": "/ˈdʒæn.ju.er.i/",
+      "id": "83a9"
+    },
+    {
+      "en": "jeans",
+      "vn": "quần jean",
+      "type": "n.",
+      "ipa": "/dʒiːnz/",
+      "id": "9066"
+    },
+    {
+      "en": "job",
+      "vn": "công việc",
+      "type": "n.",
+      "ipa": "/dʒɒb/",
+      "id": "0456"
+    },
+    {
+      "en": "join",
+      "vn": "tham gia",
+      "type": "v.",
+      "ipa": "/dʒɔɪn/",
+      "id": "24e8"
+    },
+    {
+      "en": "juice",
+      "vn": "nước ép",
+      "type": "n.",
+      "ipa": "/dʒuːs/",
+      "id": "58b2"
+    },
+    {
+      "en": "July",
+      "vn": "tháng Bảy",
+      "type": "n.",
+      "ipa": "/dʒʊˈlaɪ/",
+      "id": "9b40"
+    },
+    {
+      "en": "June",
+      "vn": "tháng Sáu",
+      "type": "n.",
+      "ipa": "/dʒuːn/",
+      "id": "3e66"
+    },
+    {
+      "en": "just",
+      "vn": "chỉ, vừa mới",
+      "type": "adv.",
+      "ipa": "/dʒʌst/",
+      "id": "672e"
+    },
+    {
+      "en": "keep",
+      "vn": "giữ",
+      "type": "v.",
+      "ipa": "/kiːp/",
+      "id": "613c"
+    },
+    {
+      "en": "key",
+      "vn": "chìa khóa, quan trọng",
+      "type": "n., adj.",
+      "ipa": "/kiː/",
+      "id": "0a81"
+    },
+    {
+      "en": "kind (type)",
+      "vn": "loại",
+      "type": "n.",
+      "ipa": "/kaɪnd/",
+      "id": "f3be"
+    },
+    {
+      "en": "kitchen",
+      "vn": "nhà bếp",
+      "type": "n.",
+      "ipa": "/ˈkɪtʃ.ən/",
+      "id": "9d71"
+    },
+    {
+      "en": "know",
+      "vn": "biết",
+      "type": "v.",
+      "ipa": "/nəʊ/",
+      "id": "9e9e"
+    },
+    {
+      "en": "land",
+      "vn": "đất, hạ cánh",
+      "type": "n.",
+      "ipa": "/lænd/",
+      "id": "ae03"
+    },
+    {
+      "en": "language",
+      "vn": "ngôn ngữ",
+      "type": "n.",
+      "ipa": "/ˈlæŋ.ɡwɪdʒ/",
+      "id": "c1a6"
+    },
+    {
+      "en": "large",
+      "vn": "lớn",
+      "type": "adj.",
+      "ipa": "/lɑːdʒ/",
+      "id": "92bf"
+    },
+    {
+      "en": "last (final)",
+      "vn": "cuối cùng",
+      "type": "det.",
+      "ipa": "/lɑːst/",
+      "id": "d402"
+    },
+    {
+      "en": "late",
+      "vn": "muộn",
+      "type": "adj., adv.",
+      "ipa": "/leɪt/",
+      "id": "18c2"
+    },
+    {
+      "en": "later",
+      "vn": "sau đó",
+      "type": "adv.",
+      "ipa": "/ˈleɪ.tər/",
+      "id": "13af"
+    },
+    {
+      "en": "laugh",
+      "vn": "cười, tiếng cười",
+      "type": "v., n.",
+      "ipa": "/lɑːf/",
+      "id": "a740"
+    },
+    {
+      "en": "learn",
+      "vn": "học",
+      "type": "v.",
+      "ipa": "/lɜːn/",
+      "id": "273a"
+    },
+    {
+      "en": "leave",
+      "vn": "rời đi",
+      "type": "v.",
+      "ipa": "/liːv/",
+      "id": "2618"
+    },
+    {
+      "en": "left",
+      "vn": "trái, rời đi",
+      "type": "adj., adv., n.",
+      "ipa": "/left/",
+      "id": "56a4"
+    },
+    {
+      "en": "leg",
+      "vn": "chân",
+      "type": "n.",
+      "ipa": "/leɡ/",
+      "id": "9560"
+    },
+    {
+      "en": "lesson",
+      "vn": "bài học",
+      "type": "n.",
+      "ipa": "/ˈles.ən/",
+      "id": "b8ca"
+    },
+    {
+      "en": "let",
+      "vn": "để, cho phép",
+      "type": "v.",
+      "ipa": "/let/",
+      "id": "ed1e"
+    },
+    {
+      "en": "letter",
+      "vn": "lá thư",
+      "type": "n.",
+      "ipa": "/ˈlet.ər/",
+      "id": "714c"
+    },
+    {
+      "en": "library",
+      "vn": "thư viện",
+      "type": "n.",
+      "ipa": "/ˈlaɪ.brər.i/",
+      "id": "7beb"
+    },
+    {
+      "en": "lie",
+      "vn": "nói dối, nằm",
+      "type": "v.",
+      "ipa": "/laɪ/",
+      "id": "491d"
+    },
+    {
+      "en": "life",
+      "vn": "cuộc sống",
+      "type": "n.",
+      "ipa": "/laɪf/",
+      "id": "d3ad"
+    },
+    {
+      "en": "light (from the sun/a lamp)",
+      "vn": "ánh sáng, nhẹ",
+      "type": "n., adj.",
+      "ipa": "/laɪt/",
+      "id": "776f"
+    },
+    {
+      "en": "like (similar)",
+      "vn": "giống",
+      "type": "prep.",
+      "ipa": "/laɪk/",
+      "id": "0f57"
+    },
+    {
+      "en": "like (find sb/sth pleasant)",
+      "vn": "thích",
+      "type": "v.",
+      "ipa": "/laɪk/",
+      "id": "0e2b"
+    },
+    {
+      "en": "line",
+      "vn": "dòng, đường kẻ",
+      "type": "n.",
+      "ipa": "/laɪn/",
+      "id": "11ce"
+    },
+    {
+      "en": "lion",
+      "vn": "sư tử",
+      "type": "n.",
+      "ipa": "/ˈlaɪ.ən/",
+      "id": "e4ed"
+    },
+    {
+      "en": "list",
+      "vn": "danh sách, liệt kê",
+      "type": "n., v.",
+      "ipa": "/lɪst/",
+      "id": "846d"
+    },
+    {
+      "en": "listen",
+      "vn": "nghe",
+      "type": "v.",
+      "ipa": "/ˈlɪs.ən/",
+      "id": "86fa"
+    },
+    {
+      "en": "little",
+      "vn": "ít, nhỏ",
+      "type": "adj., det./pron.",
+      "ipa": "/ˈlɪt.əl/",
+      "id": "ced4"
+    },
+    {
+      "en": "live",
+      "vn": "sống",
+      "type": "v.",
+      "ipa": "/lɪv/",
+      "id": "7694"
+    },
+    {
+      "en": "local",
+      "vn": "địa phương",
+      "type": "adj.",
+      "ipa": "/ˈləʊ.kəl/",
+      "id": "4a09"
+    },
+    {
+      "en": "long",
+      "vn": "dài, lâu",
+      "type": "adj., adv.",
+      "ipa": "/lɒŋ/",
+      "id": "ac8e"
+    },
+    {
+      "en": "look",
+      "vn": "nhìn",
+      "type": "v.",
+      "ipa": "/lʊk/",
+      "id": "8fff"
+    },
+    {
+      "en": "lose",
+      "vn": "mất, thua",
+      "type": "v.",
+      "ipa": "/luːz/",
+      "id": "3ab9"
+    },
+    {
+      "en": "lot",
+      "vn": "nhiều",
+      "type": "pron., det., adv.",
+      "ipa": "/lɒt/",
+      "id": "99ba"
+    },
+    {
+      "en": "love",
+      "vn": "yêu, tình yêu",
+      "type": "n., v.",
+      "ipa": "/lʌv/",
+      "id": "62be"
+    },
+    {
+      "en": "lunch",
+      "vn": "bữa trưa",
+      "type": "n.",
+      "ipa": "/lʌntʃ/",
+      "id": "362b"
+    },
+    {
+      "en": "machine",
+      "vn": "máy móc",
+      "type": "n.",
+      "ipa": "/məˈʃiːn/",
+      "id": "6675"
+    },
+    {
+      "en": "magazine",
+      "vn": "tạp chí",
+      "type": "n.",
+      "ipa": "/ˌmæɡ.əˈziːn/",
+      "id": "bed9"
+    },
+    {
+      "en": "main",
+      "vn": "chính, chủ yếu",
+      "type": "adj.",
+      "ipa": "/meɪn/",
+      "id": "0ae8"
+    },
+    {
+      "en": "make",
+      "vn": "làm, chế tạo",
+      "type": "v.",
+      "ipa": "/meɪk/",
+      "id": "41a7"
+    },
+    {
+      "en": "mall",
+      "vn": "trung tâm mua sắm",
+      "type": "n.",
+      "ipa": "/mɔːl/",
+      "id": "9983"
+    },
+    {
+      "en": "man",
+      "vn": "người đàn ông",
+      "type": "n.",
+      "ipa": "/mæn/",
+      "id": "4047"
+    },
+    {
+      "en": "many",
+      "vn": "nhiều",
+      "type": "det./pron.",
+      "ipa": "/ˈmen.i/",
+      "id": "6256"
+    },
+    {
+      "en": "map",
+      "vn": "bản đồ",
+      "type": "n.",
+      "ipa": "/mæp/",
+      "id": "5b8d"
+    },
+    {
+      "en": "March",
+      "vn": "tháng Ba",
+      "type": "n.",
+      "ipa": "/mɑːrtʃ/",
+      "id": "e73c"
+    },
+    {
+      "en": "market",
+      "vn": "chợ, thị trường",
+      "type": "n.",
+      "ipa": "/ˈmɑː.kɪt/",
+      "id": "23cc"
+    },
+    {
+      "en": "married",
+      "vn": "kết hôn",
+      "type": "adj.",
+      "ipa": "/ˈmær.id/",
+      "id": "8181"
+    },
+    {
+      "en": "match (contest/correspond)",
+      "vn": "trận đấu, phù hợp",
+      "type": "n., v.",
+      "ipa": "/mætʃ/",
+      "id": "af72"
+    },
+    {
+      "en": "May",
+      "vn": "tháng Năm",
+      "type": "n.",
+      "ipa": "/meɪ/",
+      "id": "49b4"
+    },
+    {
+      "en": "maybe",
+      "vn": "có lẽ",
+      "type": "adv.",
+      "ipa": "/ˈmeɪ.bi/",
+      "id": "11d6"
+    },
+    {
+      "en": "me",
+      "vn": "tôi",
+      "type": "pron.",
+      "ipa": "/miː/",
+      "id": "5b2e"
+    },
+    {
+      "en": "meal",
+      "vn": "bữa ăn",
+      "type": "n.",
+      "ipa": "/miːl/",
+      "id": "60f9"
+    },
+    {
+      "en": "mean",
+      "vn": "có nghĩa là",
+      "type": "v.",
+      "ipa": "/miːn/",
+      "id": "8922"
+    },
+    {
+      "en": "meaning",
+      "vn": "ý nghĩa",
+      "type": "n.",
+      "ipa": "/ˈmiː.nɪŋ/",
+      "id": "2ca6"
+    },
+    {
+      "en": "meat",
+      "vn": "thịt",
+      "type": "n.",
+      "ipa": "/miːt/",
+      "id": "b102"
+    },
+    {
+      "en": "meet",
+      "vn": "gặp gỡ",
+      "type": "v.",
+      "ipa": "/miːt/",
+      "id": "a3d4"
+    },
+    {
+      "en": "meeting",
+      "vn": "cuộc họp",
+      "type": "n.",
+      "ipa": "/ˈmiː.tɪŋ/",
+      "id": "180a"
+    },
+    {
+      "en": "member",
+      "vn": "thành viên",
+      "type": "n.",
+      "ipa": "/ˈmem.bər/",
+      "id": "4e1f"
+    },
+    {
+      "en": "menu",
+      "vn": "thực đơn",
+      "type": "n.",
+      "ipa": "/ˈmen.juː/",
+      "id": "f409"
+    },
+    {
+      "en": "message",
+      "vn": "tin nhắn",
+      "type": "n.",
+      "ipa": "/ˈmes.ɪdʒ/",
+      "id": "2f70"
+    },
+    {
+      "en": "meter",
+      "vn": "mét",
+      "type": "n.",
+      "ipa": "/ˈmiː.tər/",
+      "id": "4a99"
+    },
+    {
+      "en": "midnight",
+      "vn": "nửa đêm",
+      "type": "n.",
+      "ipa": "/ˈmɪd.naɪt/",
+      "id": "6109"
+    },
+    {
+      "en": "mile",
+      "vn": "dặm",
+      "type": "n.",
+      "ipa": "/maɪl/",
+      "id": "83ba"
+    },
+    {
+      "en": "milk",
+      "vn": "sữa",
+      "type": "n.",
+      "ipa": "/mɪlk/",
+      "id": "a826"
+    },
+    {
+      "en": "million",
+      "vn": "một triệu",
+      "type": "number",
+      "ipa": "/ˈmɪl.jən/",
+      "id": "891d"
+    },
+    {
+      "en": "minute",
+      "vn": "phút",
+      "type": "n.",
+      "ipa": "/ˈmɪn.ɪt/",
+      "id": "131f"
+    },
+    {
+      "en": "miss",
+      "vn": "nhớ, bỏ lỡ",
+      "type": "v.",
+      "ipa": "/mɪs/",
+      "id": "23c8"
+    },
+    {
+      "en": "mistake",
+      "vn": "lỗi, sai lầm",
+      "type": "n.",
+      "ipa": "/mɪˈsteɪk/",
+      "id": "f06e"
+    },
+    {
+      "en": "model",
+      "vn": "mô hình, người mẫu",
+      "type": "n.",
+      "ipa": "/ˈmɒd.əl/",
+      "id": "3746"
+    },
+    {
+      "en": "modern",
+      "vn": "hiện đại",
+      "type": "adj.",
+      "ipa": "/ˈmɒd.ən/",
+      "id": "58cc"
+    },
+    {
+      "en": "mom",
+      "vn": "mẹ",
+      "type": "n.",
+      "ipa": "/mɒm/",
+      "id": "eae9"
+    },
+    {
+      "en": "moment",
+      "vn": "khoảnh khắc",
+      "type": "n.",
+      "ipa": "/ˈməʊ.mənt/",
+      "id": "31c0"
+    },
+    {
+      "en": "Monday",
+      "vn": "thứ Hai",
+      "type": "n.",
+      "ipa": "/ˈmʌn.deɪ/",
+      "id": "6ad9"
+    },
+    {
+      "en": "money",
+      "vn": "tiền",
+      "type": "n.",
+      "ipa": "/ˈmʌn.i/",
+      "id": "1639"
+    },
+    {
+      "en": "month",
+      "vn": "tháng",
+      "type": "n.",
+      "ipa": "/mʌnθ/",
+      "id": "9938"
+    },
+    {
+      "en": "more",
+      "vn": "nhiều hơn",
+      "type": "det./pron., adv.",
+      "ipa": "/mɔːr/",
+      "id": "9fad"
+    },
+    {
+      "en": "morning",
+      "vn": "buổi sáng",
+      "type": "n.",
+      "ipa": "/ˈmɔː.nɪŋ/",
+      "id": "59b0"
+    },
+    {
+      "en": "most",
+      "vn": "hầu hết",
+      "type": "det./pron., adv.",
+      "ipa": "/məʊst/",
+      "id": "afb6"
+    },
+    {
+      "en": "mother",
+      "vn": "mẹ",
+      "type": "n.",
+      "ipa": "/ˈmʌð.ər/",
+      "id": "a193"
+    },
+    {
+      "en": "mountain",
+      "vn": "núi",
+      "type": "n.",
+      "ipa": "/ˈmaʊn.tɪn/",
+      "id": "6236"
+    },
+    {
+      "en": "mouse",
+      "vn": "chuột",
+      "type": "n.",
+      "ipa": "/maʊs/",
+      "id": "7c23"
+    },
+    {
+      "en": "mouth",
+      "vn": "miệng",
+      "type": "n.",
+      "ipa": "/maʊθ/",
+      "id": "f6b2"
+    },
+    {
+      "en": "move",
+      "vn": "di chuyển",
+      "type": "v.",
+      "ipa": "/muːv/",
+      "id": "d61e"
+    },
+    {
+      "en": "movie",
+      "vn": "phim",
+      "type": "n.",
+      "ipa": "/ˈmuː.vi/",
+      "id": "aa0b"
+    },
+    {
+      "en": "much",
+      "vn": "nhiều",
+      "type": "det./pron., adv.",
+      "ipa": "/mʌtʃ/",
+      "id": "094c"
+    },
+    {
+      "en": "museum",
+      "vn": "bảo tàng",
+      "type": "n.",
+      "ipa": "/mjuːˈziː.əm/",
+      "id": "61ba"
+    },
+    {
+      "en": "music",
+      "vn": "âm nhạc",
+      "type": "n.",
+      "ipa": "/ˈmjuː.zɪk/",
+      "id": "1c3f"
+    },
+    {
+      "en": "must",
+      "vn": "phải",
+      "type": "modal v.",
+      "ipa": "/mʌst/",
+      "id": "35b3"
+    },
+    {
+      "en": "my",
+      "vn": "của tôi",
+      "type": "det.",
+      "ipa": "/maɪ/",
+      "id": "57d8"
+    },
+    {
+      "en": "name",
+      "vn": "tên, đặt tên",
+      "type": "n., v.",
+      "ipa": "/neɪm/",
+      "id": "13cd"
+    },
+    {
+      "en": "natural",
+      "vn": "tự nhiên",
+      "type": "adj.",
+      "ipa": "/ˈnætʃ.ər.əl/",
+      "id": "a9a6"
+    },
+    {
+      "en": "near",
+      "vn": "gần",
+      "type": "prep., adj., adv.",
+      "ipa": "/nɪər/",
+      "id": "a37a"
+    },
+    {
+      "en": "need",
+      "vn": "cần",
+      "type": "v.",
+      "ipa": "/niːd/",
+      "id": "2c6a"
+    },
+    {
+      "en": "negative",
+      "vn": "tiêu cực",
+      "type": "adj.",
+      "ipa": "/ˈneɡ.ə.tɪv/",
+      "id": "e2ca"
+    },
+    {
+      "en": "neighbor",
+      "vn": "hàng xóm",
+      "type": "n.",
+      "ipa": "/ˈneɪ.bər/",
+      "id": "4af5"
+    },
+    {
+      "en": "neighborhood",
+      "vn": "khu vực lân cận",
+      "type": "n.",
+      "ipa": "/ˈneɪ.bə.hʊd/",
+      "id": "1546"
+    },
+    {
+      "en": "never",
+      "vn": "không bao giờ",
+      "type": "adv.",
+      "ipa": "/ˈnev.ər/",
+      "id": "287f"
+    },
+    {
+      "en": "new",
+      "vn": "mới",
+      "type": "adj.",
+      "ipa": "/njuː/",
+      "id": "6531"
+    },
+    {
+      "en": "news",
+      "vn": "tin tức",
+      "type": "n.",
+      "ipa": "/njuːz/",
+      "id": "641c"
+    },
+    {
+      "en": "newspaper",
+      "vn": "báo",
+      "type": "n.",
+      "ipa": "/ˈnjuːzˌpeɪ.pər/",
+      "id": "709a"
+    },
+    {
+      "en": "next",
+      "vn": "tiếp theo",
+      "type": "adj., adv.",
+      "ipa": "/nekst/",
+      "id": "a5cc"
+    },
+    {
+      "en": "next to",
+      "vn": "bên cạnh",
+      "type": "prep.",
+      "ipa": "/ˈnekst tuː/",
+      "id": "2426"
+    },
+    {
+      "en": "nice",
+      "vn": "đẹp, tốt",
+      "type": "adj.",
+      "ipa": "/naɪs/",
+      "id": "6f70"
+    },
+    {
+      "en": "night",
+      "vn": "đêm",
+      "type": "n.",
+      "ipa": "/naɪt/",
+      "id": "a75e"
+    },
+    {
+      "en": "nine",
+      "vn": "chín",
+      "type": "number",
+      "ipa": "/naɪn/",
+      "id": "3634"
+    },
+    {
+      "en": "nineteen",
+      "vn": "mười chín",
+      "type": "number",
+      "ipa": "/ˌnaɪnˈtiːn/",
+      "id": "fc40"
+    },
+    {
+      "en": "ninety",
+      "vn": "chín mươi",
+      "type": "number",
+      "ipa": "/ˈnaɪn.ti/",
+      "id": "4c86"
+    },
+    {
+      "en": "no",
+      "vn": "không",
+      "type": "exclam., det.",
+      "ipa": "/nəʊ/",
+      "id": "ac46"
+    },
+    {
+      "en": "no one",
+      "vn": "không ai",
+      "type": "pron.",
+      "ipa": "/ˈnəʊ ˌwʌn/",
+      "id": "2321"
+    },
+    {
+      "en": "nobody",
+      "vn": "không ai",
+      "type": "pron.",
+      "ipa": "/ˈnəʊ.bə.di/",
+      "id": "c473"
+    },
+    {
+      "en": "north",
+      "vn": "phía bắc",
+      "type": "n., adj., adv.",
+      "ipa": "/nɔːθ/",
+      "id": "9b71"
+    },
+    {
+      "en": "nose",
+      "vn": "mũi",
+      "type": "n.",
+      "ipa": "/nəʊz/",
+      "id": "f28c"
+    },
+    {
+      "en": "not",
+      "vn": "không",
+      "type": "adv.",
+      "ipa": "/nɒt/",
+      "id": "f922"
+    },
+    {
+      "en": "note",
+      "vn": "ghi chú",
+      "type": "n.",
+      "ipa": "/nəʊt/",
+      "id": "0be9"
+    },
+    {
+      "en": "nothing",
+      "vn": "không có gì",
+      "type": "pron.",
+      "ipa": "/ˈnʌθ.ɪŋ/",
+      "id": "03e9"
+    },
+    {
+      "en": "November",
+      "vn": "tháng Mười Một",
+      "type": "n.",
+      "ipa": "/nəʊˈvem.bər/",
+      "id": "0bd8"
+    },
+    {
+      "en": "now",
+      "vn": "bây giờ",
+      "type": "adv.",
+      "ipa": "/naʊ/",
+      "id": "1d90"
+    },
+    {
+      "en": "number",
+      "vn": "số",
+      "type": "n.",
+      "ipa": "/ˈnʌm.bər/",
+      "id": "8a19"
+    },
+    {
+      "en": "nurse",
+      "vn": "y tá",
+      "type": "n.",
+      "ipa": "/nɜːs/",
+      "id": "f2db"
+    },
+    {
+      "en": "object",
+      "vn": "đối tượng",
+      "type": "n.",
+      "ipa": "/ˈɒb.dʒɪkt/",
+      "id": "9f33"
+    },
+    {
+      "en": "ocean",
+      "vn": "đại dương",
+      "type": "n.",
+      "ipa": "/ˈəʊ.ʃən/",
+      "id": "69cb"
+    },
+    {
+      "en": "o’clock",
+      "vn": "giờ",
+      "type": "adv.",
+      "ipa": "/əˈklɒk/",
+      "id": "d707"
+    },
+    {
+      "en": "October",
+      "vn": "tháng Mười",
+      "type": "n.",
+      "ipa": "/ɒkˈtəʊ.bər/",
+      "id": "7659"
+    },
+    {
+      "en": "of",
+      "vn": "của",
+      "type": "prep.",
+      "ipa": "/ɒv/",
+      "id": "f796"
+    },
+    {
+      "en": "off",
+      "vn": "tắt, khỏi",
+      "type": "adv., prep.",
+      "ipa": "/ɒf/",
+      "id": "5f44"
+    },
+    {
+      "en": "office",
+      "vn": "văn phòng",
+      "type": "n.",
+      "ipa": "/ˈɒf.ɪs/",
+      "id": "39b0"
+    },
+    {
+      "en": "often",
+      "vn": "thường",
+      "type": "adv.",
+      "ipa": "/ˈɒf.ən/",
+      "id": "7ff7"
+    },
+    {
+      "en": "oh",
+      "vn": "ồ",
+      "type": "exclam.",
+      "ipa": "/əʊ/",
+      "id": "37fd"
+    },
+    {
+      "en": "OK",
+      "vn": "được, tốt",
+      "type": "exclam., adj./adv.",
+      "ipa": "/əʊˈkeɪ/",
+      "id": "403c"
+    },
+    {
+      "en": "old",
+      "vn": "già, cũ",
+      "type": "adj.",
+      "ipa": "/əʊld/",
+      "id": "966b"
+    },
+    {
+      "en": "on",
+      "vn": "trên",
+      "type": "prep., adv.",
+      "ipa": "/ɒn/",
+      "id": "5da3"
+    },
+    {
+      "en": "once",
+      "vn": "một lần",
+      "type": "adv.",
+      "ipa": "/wʌns/",
+      "id": "5a7d"
+    },
+    {
+      "en": "one",
+      "vn": "một",
+      "type": "number/det., pron.",
+      "ipa": "/wʌn/",
+      "id": "8c78"
+    },
+    {
+      "en": "onion",
+      "vn": "hành tây",
+      "type": "n.",
+      "ipa": "/ˈʌn.jən/",
+      "id": "149e"
+    },
+    {
+      "en": "online",
+      "vn": "trực tuyến",
+      "type": "adj., adv.",
+      "ipa": "/ˈɒn.laɪn/",
+      "id": "fff3"
+    },
+    {
+      "en": "only",
+      "vn": "chỉ",
+      "type": "adj., adv.",
+      "ipa": "/ˈəʊn.li/",
+      "id": "8416"
+    },
+    {
+      "en": "open",
+      "vn": "mở",
+      "type": "adj., v.",
+      "ipa": "/ˈəʊ.pən/",
+      "id": "e721"
+    },
+    {
+      "en": "opinion",
+      "vn": "ý kiến",
+      "type": "n.",
+      "ipa": "/əˈpɪn.jən/",
+      "id": "2127"
+    },
+    {
+      "en": "opposite",
+      "vn": "đối diện, đối lập",
+      "type": "adj., n., prep., adv.",
+      "ipa": "/ˈɒp.ə.zɪt/",
+      "id": "f7b4"
+    },
+    {
+      "en": "or",
+      "vn": "hoặc",
+      "type": "conj.",
+      "ipa": "/ɔːr/",
+      "id": "5d2a"
+    },
+    {
+      "en": "orange",
+      "vn": "quả cam, màu cam",
+      "type": "n., adj.",
+      "ipa": "/ˈɒr.ɪndʒ/",
+      "id": "bb0d"
+    },
+    {
+      "en": "order",
+      "vn": "đặt hàng, thứ tự",
+      "type": "n., v.",
+      "ipa": "/ˈɔː.dər/",
+      "id": "0e5d"
+    },
+    {
+      "en": "other",
+      "vn": "khác",
+      "type": "adj./pron.",
+      "ipa": "/ˈʌð.ər/",
+      "id": "bdba"
+    },
+    {
+      "en": "our",
+      "vn": "của chúng tôi",
+      "type": "det.",
+      "ipa": "/aʊər/",
+      "id": "8902"
+    },
+    {
+      "en": "out",
+      "vn": "ra ngoài",
+      "type": "adv./prep.",
+      "ipa": "/aʊt/",
+      "id": "69d9"
+    },
+    {
+      "en": "outside",
+      "vn": "bên ngoài",
+      "type": "adv.",
+      "ipa": "/ˌaʊtˈsaɪd/",
+      "id": "c4dd"
+    },
+    {
+      "en": "over",
+      "vn": "trên, vượt qua",
+      "type": "prep., adv.",
+      "ipa": "/ˈəʊ.vər/",
+      "id": "5c5f"
+    },
+    {
+      "en": "own",
+      "vn": "sở hữu",
+      "type": "adj./pron.",
+      "ipa": "/əʊn/",
+      "id": "05fa"
+    },
+    {
+      "en": "page",
+      "vn": "trang",
+      "type": "n.",
+      "ipa": "/peɪdʒ/",
+      "id": "6fc7"
+    },
+    {
+      "en": "paint",
+      "vn": "sơn, vẽ",
+      "type": "v., n.",
+      "ipa": "/peɪnt/",
+      "id": "96cf"
+    },
+    {
+      "en": "painting",
+      "vn": "bức tranh",
+      "type": "n.",
+      "ipa": "/ˈpeɪn.tɪŋ/",
+      "id": "811f"
+    },
+    {
+      "en": "pair",
+      "vn": "đôi, cặp",
+      "type": "n.",
+      "ipa": "/peər/",
+      "id": "8bd6"
+    },
+    {
+      "en": "pants",
+      "vn": "quần",
+      "type": "n.",
+      "ipa": "/pænts/",
+      "id": "1eae"
+    },
+    {
+      "en": "paper",
+      "vn": "giấy",
+      "type": "n.",
+      "ipa": "/ˈpeɪ.pər/",
+      "id": "0354"
+    },
+    {
+      "en": "paragraph",
+      "vn": "đoạn văn",
+      "type": "n.",
+      "ipa": "/ˈpær.ə.ɡrɑːf/",
+      "id": "aec6"
+    },
+    {
+      "en": "parent",
+      "vn": "phụ huynh",
+      "type": "n.",
+      "ipa": "/ˈpeə.rənt/",
+      "id": "e413"
+    },
+    {
+      "en": "park",
+      "vn": "công viên, đỗ xe",
+      "type": "n., v.",
+      "ipa": "/pɑːk/",
+      "id": "37f6"
+    },
+    {
+      "en": "part",
+      "vn": "phần",
+      "type": "n.",
+      "ipa": "/pɑːt/",
+      "id": "48a5"
+    },
+    {
+      "en": "partner",
+      "vn": "đối tác",
+      "type": "n.",
+      "ipa": "/ˈpɑːt.nər/",
+      "id": "e050"
+    },
+    {
+      "en": "party",
+      "vn": "buổi tiệc",
+      "type": "n.",
+      "ipa": "/ˈpɑː.ti/",
+      "id": "4797"
+    },
+    {
+      "en": "passport",
+      "vn": "hộ chiếu",
+      "type": "n.",
+      "ipa": "/ˈpɑːs.pɔːt/",
+      "id": "e087"
+    },
+    {
+      "en": "past",
+      "vn": "quá khứ, qua",
+      "type": "adj., n., prep.",
+      "ipa": "/pɑːst/",
+      "id": "6dcf"
+    },
+    {
+      "en": "pay",
+      "vn": "trả",
+      "type": "v.",
+      "ipa": "/peɪ/",
+      "id": "6900"
+    },
+    {
+      "en": "pen",
+      "vn": "bút",
+      "type": "n.",
+      "ipa": "/pen/",
+      "id": "0ce3"
+    },
+    {
+      "en": "pencil",
+      "vn": "bút chì",
+      "type": "n.",
+      "ipa": "/ˈpen.səl/",
+      "id": "51a8"
+    },
+    {
+      "en": "people",
+      "vn": "người",
+      "type": "n.",
+      "ipa": "/ˈpiː.pl/",
+      "id": "3a8b"
+    },
+    {
+      "en": "pepper",
+      "vn": "hạt tiêu",
+      "type": "n.",
+      "ipa": "/ˈpep.ər/",
+      "id": "f241"
+    },
+    {
+      "en": "perfect",
+      "vn": "hoàn hảo",
+      "type": "adj.",
+      "ipa": "/ˈpɜː.fekt/",
+      "id": "0b66"
+    },
+    {
+      "en": "period",
+      "vn": "khoảng thời gian",
+      "type": "n.",
+      "ipa": "/ˈpɪə.ri.əd/",
+      "id": "f7ec"
+    },
+    {
+      "en": "person",
+      "vn": "người",
+      "type": "n.",
+      "ipa": "/ˈpɜː.sən/",
+      "id": "d5bb"
+    },
+    {
+      "en": "personal",
+      "vn": "cá nhân",
+      "type": "adj.",
+      "ipa": "/ˈpɜː.sən.əl/",
+      "id": "77c3"
+    },
+    {
+      "en": "phone",
+      "vn": "điện thoại",
+      "type": "n., v.",
+      "ipa": "/fəʊn/",
+      "id": "3f58"
+    },
+    {
+      "en": "photo",
+      "vn": "ảnh",
+      "type": "n.",
+      "ipa": "/ˈfəʊ.təʊ/",
+      "id": "5d37"
+    },
+    {
+      "en": "photograph",
+      "vn": "ảnh",
+      "type": "n.",
+      "ipa": "/ˈfəʊ.tə.ɡrɑːf/",
+      "id": "99d3"
+    },
+    {
+      "en": "phrase",
+      "vn": "cụm từ",
+      "type": "n.",
+      "ipa": "/freɪz/",
+      "id": "583e"
+    },
+    {
+      "en": "piano",
+      "vn": "đàn piano",
+      "type": "n.",
+      "ipa": "/piˈæn.əʊ/",
+      "id": "8166"
+    },
+    {
+      "en": "picture",
+      "vn": "bức tranh",
+      "type": "n.",
+      "ipa": "/ˈpɪk.tʃər/",
+      "id": "0e04"
+    },
+    {
+      "en": "piece",
+      "vn": "mảnh, miếng",
+      "type": "n.",
+      "ipa": "/piːs/",
+      "id": "7fb4"
+    },
+    {
+      "en": "pig",
+      "vn": "con lợn",
+      "type": "n.",
+      "ipa": "/pɪɡ/",
+      "id": "f296"
+    },
+    {
+      "en": "pink",
+      "vn": "màu hồng",
+      "type": "adj., n.",
+      "ipa": "/pɪŋk/",
+      "id": "b040"
+    },
+    {
+      "en": "place",
+      "vn": "nơi, chỗ",
+      "type": "n.",
+      "ipa": "/pleɪs/",
+      "id": "e883"
+    },
+    {
+      "en": "plan",
+      "vn": "kế hoạch, lên kế hoạch",
+      "type": "n., v.",
+      "ipa": "/plæn/",
+      "id": "74e1"
+    },
+    {
+      "en": "plane",
+      "vn": "máy bay",
+      "type": "n.",
+      "ipa": "/pleɪn/",
+      "id": "b16a"
+    },
+    {
+      "en": "plant",
+      "vn": "cây trồng",
+      "type": "n.",
+      "ipa": "/plɑːnt/",
+      "id": "1054"
+    },
+    {
+      "en": "play",
+      "vn": "chơi, vở kịch",
+      "type": "v., n.",
+      "ipa": "/pleɪ/",
+      "id": "aad4"
+    },
+    {
+      "en": "player",
+      "vn": "người chơi",
+      "type": "n.",
+      "ipa": "/ˈpleɪ.ər/",
+      "id": "0c3d"
+    },
+    {
+      "en": "please",
+      "vn": "làm ơn",
+      "type": "exclam.",
+      "ipa": "/pliːz/",
+      "id": "c351"
+    },
+    {
+      "en": "point",
+      "vn": "điểm",
+      "type": "n.",
+      "ipa": "/pɔɪnt/",
+      "id": "d9e3"
+    },
+    {
+      "en": "police",
+      "vn": "cảnh sát",
+      "type": "n.",
+      "ipa": "/pəˈliːs/",
+      "id": "d7c4"
+    },
+    {
+      "en": "policeman",
+      "vn": "cảnh sát viên",
+      "type": "n.",
+      "ipa": "/pəˈliːs.mən/",
+      "id": "b94b"
+    },
+    {
+      "en": "pool",
+      "vn": "bể bơi",
+      "type": "n.",
+      "ipa": "/puːl/",
+      "id": "18e7"
+    },
+    {
+      "en": "poor",
+      "vn": "nghèo",
+      "type": "adj.",
+      "ipa": "/pɔːr/",
+      "id": "365a"
+    },
+    {
+      "en": "popular",
+      "vn": "phổ biến",
+      "type": "adj.",
+      "ipa": "/ˈpɒp.jə.lər/",
+      "id": "76aa"
+    },
+    {
+      "en": "positive",
+      "vn": "tích cực",
+      "type": "adj.",
+      "ipa": "/ˈpɒz.ə.tɪv/",
+      "id": "5de2"
+    },
+    {
+      "en": "possible",
+      "vn": "có thể",
+      "type": "adj.",
+      "ipa": "/ˈpɒs.ə.bəl/",
+      "id": "2db6"
+    },
+    {
+      "en": "post",
+      "vn": "bài đăng, đăng bài",
+      "type": "n., v.",
+      "ipa": "/pəʊst/",
+      "id": "e109"
+    },
+    {
+      "en": "potato",
+      "vn": "khoai tây",
+      "type": "n.",
+      "ipa": "/pəˈteɪ.təʊ/",
+      "id": "0d59"
+    },
+    {
+      "en": "pound",
+      "vn": "bảng Anh",
+      "type": "n.",
+      "ipa": "/paʊnd/",
+      "id": "9726"
+    },
+    {
+      "en": "practice",
+      "vn": "luyện tập",
+      "type": "n., v.",
+      "ipa": "/ˈpræk.tɪs/",
+      "id": "9abb"
+    },
+    {
+      "en": "prefer",
+      "vn": "thích hơn",
+      "type": "v.",
+      "ipa": "/prɪˈfɜːr/",
+      "id": "2637"
+    },
+    {
+      "en": "prepare",
+      "vn": "chuẩn bị",
+      "type": "v.",
+      "ipa": "/prɪˈpeər/",
+      "id": "51a2"
+    },
+    {
+      "en": "present",
+      "vn": "hiện tại, món quà",
+      "type": "adj., n.",
+      "ipa": "/ˈprez.ənt/",
+      "id": "3413"
+    },
+    {
+      "en": "pretty",
+      "vn": "đẹp, khá",
+      "type": "adj., adv.",
+      "ipa": "/ˈprɪt.i/",
+      "id": "b621"
+    },
+    {
+      "en": "price",
+      "vn": "giá",
+      "type": "n.",
+      "ipa": "/praɪs/",
+      "id": "a9a7"
+    },
+    {
+      "en": "probably",
+      "vn": "có lẽ",
+      "type": "adv.",
+      "ipa": "/ˈprɒb.ə.bli/",
+      "id": "1ebf"
+    },
+    {
+      "en": "problem",
+      "vn": "vấn đề",
+      "type": "n.",
+      "ipa": "/ˈprɒb.ləm/",
+      "id": "9af8"
+    },
+    {
+      "en": "product",
+      "vn": "sản phẩm",
+      "type": "n.",
+      "ipa": "/ˈprɒd.ʌkt/",
+      "id": "0a86"
+    },
+    {
+      "en": "program",
+      "vn": "chương trình",
+      "type": "n.",
+      "ipa": "/ˈprəʊ.ɡræm/",
+      "id": "c5e4"
+    },
+    {
+      "en": "project",
+      "vn": "dự án",
+      "type": "n.",
+      "ipa": "/ˈprɒdʒ.ekt/",
+      "id": "e7bc"
+    },
+    {
+      "en": "purple",
+      "vn": "màu tím",
+      "type": "adj., n.",
+      "ipa": "/ˈpɜː.pəl/",
+      "id": "6529"
+    },
+    {
+      "en": "put",
+      "vn": "đặt, để",
+      "type": "v.",
+      "ipa": "/pʊt/",
+      "id": "944e"
+    },
+    {
+      "en": "quarter",
+      "vn": "một phần tư",
+      "type": "n.",
+      "ipa": "/ˈkwɔː.tər/",
+      "id": "c08d"
+    },
+    {
+      "en": "question",
+      "vn": "câu hỏi",
+      "type": "n.",
+      "ipa": "/ˈkwes.tʃən/",
+      "id": "f577"
+    },
+    {
+      "en": "quick",
+      "vn": "nhanh",
+      "type": "adj.",
+      "ipa": "/kwɪk/",
+      "id": "c0ca"
+    },
+    {
+      "en": "quickly",
+      "vn": "nhanh chóng",
+      "type": "adv.",
+      "ipa": "/ˈkwɪk.li/",
+      "id": "faf3"
+    },
+    {
+      "en": "quiet",
+      "vn": "yên lặng",
+      "type": "adj.",
+      "ipa": "/ˈkwaɪ.ət/",
+      "id": "3d13"
+    },
+    {
+      "en": "quite",
+      "vn": "khá",
+      "type": "adv.",
+      "ipa": "/kwaɪt/",
+      "id": "c452"
+    },
+    {
+      "en": "radio",
+      "vn": "đài phát thanh",
+      "type": "n.",
+      "ipa": "/ˈreɪ.di.əʊ/",
+      "id": "b904"
+    },
+    {
+      "en": "rain",
+      "vn": "mưa",
+      "type": "n., v.",
+      "ipa": "/reɪn/",
+      "id": "6761"
+    },
+    {
+      "en": "read",
+      "vn": "đọc",
+      "type": "v.",
+      "ipa": "/riːd/",
+      "id": "c658"
+    },
+    {
+      "en": "reader",
+      "vn": "độc giả",
+      "type": "n.",
+      "ipa": "/ˈriː.dər/",
+      "id": "7072"
+    },
+    {
+      "en": "reading",
+      "vn": "việc đọc",
+      "type": "n.",
+      "ipa": "/ˈriː.dɪŋ/",
+      "id": "69c9"
+    },
+    {
+      "en": "ready",
+      "vn": "sẵn sàng",
+      "type": "adj.",
+      "ipa": "/ˈred.i/",
+      "id": "5753"
+    },
+    {
+      "en": "real",
+      "vn": "thật",
+      "type": "adj.",
+      "ipa": "/rɪəl/",
+      "id": "0731"
+    },
+    {
+      "en": "really",
+      "vn": "thực sự",
+      "type": "adv.",
+      "ipa": "/ˈrɪə.li/",
+      "id": "d2c9"
+    },
+    {
+      "en": "reason",
+      "vn": "lý do",
+      "type": "n.",
+      "ipa": "/ˈriː.zən/",
+      "id": "0660"
+    },
+    {
+      "en": "red",
+      "vn": "màu đỏ",
+      "type": "adj., n.",
+      "ipa": "/red/",
+      "id": "2223"
+    },
+    {
+      "en": "relax",
+      "vn": "thư giãn",
+      "type": "v.",
+      "ipa": "/rɪˈlæks/",
+      "id": "8b76"
+    },
+    {
+      "en": "remember",
+      "vn": "nhớ",
+      "type": "v.",
+      "ipa": "/rɪˈmem.bər/",
+      "id": "87c0"
+    },
+    {
+      "en": "repeat",
+      "vn": "lặp lại",
+      "type": "v.",
+      "ipa": "/rɪˈpiːt/",
+      "id": "33ce"
+    },
+    {
+      "en": "report",
+      "vn": "báo cáo",
+      "type": "n.",
+      "ipa": "/rɪˈpɔːt/",
+      "id": "5eb9"
+    },
+    {
+      "en": "restaurant",
+      "vn": "nhà hàng",
+      "type": "n.",
+      "ipa": "/ˈres.trɒnt/",
+      "id": "97e3"
+    },
+    {
+      "en": "result",
+      "vn": "kết quả",
+      "type": "n.",
+      "ipa": "/rɪˈzʌlt/",
+      "id": "e5d9"
+    },
+    {
+      "en": "return",
+      "vn": "trở lại, sự trở lại",
+      "type": "v., n.",
+      "ipa": "/rɪˈtɜːn/",
+      "id": "8d2c"
+    },
+    {
+      "en": "rice",
+      "vn": "gạo, cơm",
+      "type": "n.",
+      "ipa": "/raɪs/",
+      "id": "a40c"
+    },
+    {
+      "en": "rich",
+      "vn": "giàu",
+      "type": "adj.",
+      "ipa": "/rɪtʃ/",
+      "id": "7990"
+    },
+    {
+      "en": "ride",
+      "vn": "đi, cưỡi",
+      "type": "v.",
+      "ipa": "/raɪd/",
+      "id": "d884"
+    },
+    {
+      "en": "right",
+      "vn": "đúng, bên phải",
+      "type": "adj., adv., n.",
+      "ipa": "/raɪt/",
+      "id": "330e"
+    },
+    {
+      "en": "river",
+      "vn": "sông",
+      "type": "n.",
+      "ipa": "/ˈrɪv.ər/",
+      "id": "f044"
+    },
+    {
+      "en": "road",
+      "vn": "đường",
+      "type": "n.",
+      "ipa": "/rəʊd/",
+      "id": "4f45"
+    },
+    {
+      "en": "room",
+      "vn": "phòng",
+      "type": "n.",
+      "ipa": "/ruːm/",
+      "id": "f48b"
+    },
+    {
+      "en": "routine",
+      "vn": "thói quen",
+      "type": "n.",
+      "ipa": "/ruːˈtiːn/",
+      "id": "bf18"
+    },
+    {
+      "en": "rule",
+      "vn": "luật lệ",
+      "type": "n.",
+      "ipa": "/ruːl/",
+      "id": "9e0f"
+    },
+    {
+      "en": "run",
+      "vn": "chạy",
+      "type": "v.",
+      "ipa": "/rʌn/",
+      "id": "effb"
+    },
+    {
+      "en": "sad",
+      "vn": "buồn",
+      "type": "adj.",
+      "ipa": "/sæd/",
+      "id": "c966"
+    },
+    {
+      "en": "salad",
+      "vn": "món xà lách",
+      "type": "n.",
+      "ipa": "/ˈsæl.əd/",
+      "id": "bc92"
+    },
+    {
+      "en": "salt",
+      "vn": "muối",
+      "type": "n.",
+      "ipa": "/sɒlt/",
+      "id": "5f7c"
+    },
+    {
+      "en": "same",
+      "vn": "giống nhau",
+      "type": "adj., pron., adv.",
+      "ipa": "/seɪm/",
+      "id": "ebbc"
+    },
+    {
+      "en": "sandwich",
+      "vn": "bánh mì kẹp",
+      "type": "n.",
+      "ipa": "/ˈsæn.wɪdʒ/",
+      "id": "4f2e"
+    },
+    {
+      "en": "Saturday",
+      "vn": "thứ Bảy",
+      "type": "n.",
+      "ipa": "/ˈsæt.ə.deɪ/",
+      "id": "e1b5"
+    },
+    {
+      "en": "say",
+      "vn": "nói",
+      "type": "v.",
+      "ipa": "/seɪ/",
+      "id": "2fbc"
+    },
+    {
+      "en": "school",
+      "vn": "trường học",
+      "type": "n.",
+      "ipa": "/skuːl/",
+      "id": "2f08"
+    },
+    {
+      "en": "science",
+      "vn": "khoa học",
+      "type": "n.",
+      "ipa": "/ˈsaɪəns/",
+      "id": "ba4f"
+    },
+    {
+      "en": "scientist",
+      "vn": "nhà khoa học",
+      "type": "n.",
+      "ipa": "/ˈsaɪən.tɪst/",
+      "id": "a0c9"
+    },
+    {
+      "en": "second (next after the first)",
+      "vn": "thứ hai",
+      "type": "det./number",
+      "ipa": "/ˈsek.ənd/",
+      "id": "73cc"
+    },
+    {
+      "en": "second (unit of time)",
+      "vn": "giây",
+      "type": "n.",
+      "ipa": "/ˈsek.ənd/",
+      "id": "adbd"
+    },
+    {
+      "en": "section",
+      "vn": "phần, đoạn",
+      "type": "n.",
+      "ipa": "/ˈsek.ʃən/",
+      "id": "337e"
+    },
+    {
+      "en": "see",
+      "vn": "nhìn",
+      "type": "v.",
+      "ipa": "/siː/",
+      "id": "fc66"
+    },
+    {
+      "en": "sell",
+      "vn": "bán",
+      "type": "v.",
+      "ipa": "/sel/",
+      "id": "bdc6"
+    },
+    {
+      "en": "send",
+      "vn": "gửi",
+      "type": "v.",
+      "ipa": "/send/",
+      "id": "d3a1"
+    },
+    {
+      "en": "sentence",
+      "vn": "câu",
+      "type": "n.",
+      "ipa": "/ˈsen.təns/",
+      "id": "2647"
+    },
+    {
+      "en": "September",
+      "vn": "tháng Chín",
+      "type": "n.",
+      "ipa": "/səpˈtem.bər/",
+      "id": "214a"
+    },
+    {
+      "en": "seven",
+      "vn": "số bảy",
+      "type": "number",
+      "ipa": "/ˈsev.ən/",
+      "id": "22ec"
+    },
+    {
+      "en": "seventeen",
+      "vn": "số mười bảy",
+      "type": "number",
+      "ipa": "/ˌsev.ənˈtiːn/",
+      "id": "8a1e"
+    },
+    {
+      "en": "seventy",
+      "vn": "số bảy mươi",
+      "type": "number",
+      "ipa": "/ˈsev.ən.ti/",
+      "id": "46c0"
+    },
+    {
+      "en": "share",
+      "vn": "chia sẻ",
+      "type": "v.",
+      "ipa": "/ʃeər/",
+      "id": "31f3"
+    },
+    {
+      "en": "she",
+      "vn": "cô ấy",
+      "type": "pron.",
+      "ipa": "/ʃiː/",
+      "id": "da09"
+    },
+    {
+      "en": "sheep",
+      "vn": "con cừu",
+      "type": "n.",
+      "ipa": "/ʃiːp/",
+      "id": "e51d"
+    },
+    {
+      "en": "shirt",
+      "vn": "áo sơ mi",
+      "type": "n.",
+      "ipa": "/ʃɜːt/",
+      "id": "91ab"
+    },
+    {
+      "en": "shoe",
+      "vn": "giày",
+      "type": "n.",
+      "ipa": "/ʃuː/",
+      "id": "8324"
+    },
+    {
+      "en": "shop",
+      "vn": "cửa hàng, mua sắm",
+      "type": "n., v.",
+      "ipa": "/ʃɒp/",
+      "id": "1ca9"
+    },
+    {
+      "en": "shopping",
+      "vn": "việc mua sắm",
+      "type": "n.",
+      "ipa": "/ˈʃɒp.ɪŋ/",
+      "id": "edb3"
+    },
+    {
+      "en": "short",
+      "vn": "ngắn",
+      "type": "adj.",
+      "ipa": "/ʃɔːt/",
+      "id": "cc1c"
+    },
+    {
+      "en": "should",
+      "vn": "nên",
+      "type": "modal v.",
+      "ipa": "/ʃʊd/",
+      "id": "e6db"
+    },
+    {
+      "en": "show",
+      "vn": "trình diễn, buổi diễn",
+      "type": "v., n.",
+      "ipa": "/ʃəʊ/",
+      "id": "2cf7"
+    },
+    {
+      "en": "shower",
+      "vn": "vòi sen",
+      "type": "n.",
+      "ipa": "/ˈʃaʊ.ər/",
+      "id": "29e1"
+    },
+    {
+      "en": "sick",
+      "vn": "ốm",
+      "type": "adj.",
+      "ipa": "/sɪk/",
+      "id": "1135"
+    },
+    {
+      "en": "similar",
+      "vn": "tương tự",
+      "type": "adj.",
+      "ipa": "/ˈsɪm.ɪ.lər/",
+      "id": "065b"
+    },
+    {
+      "en": "sing",
+      "vn": "hát",
+      "type": "v.",
+      "ipa": "/sɪŋ/",
+      "id": "4d2c"
+    },
+    {
+      "en": "singer",
+      "vn": "ca sĩ",
+      "type": "n.",
+      "ipa": "/ˈsɪŋ.ər/",
+      "id": "7dd9"
+    },
+    {
+      "en": "sister",
+      "vn": "chị, em gái",
+      "type": "n.",
+      "ipa": "/ˈsɪs.tər/",
+      "id": "516b"
+    },
+    {
+      "en": "sit",
+      "vn": "ngồi",
+      "type": "v.",
+      "ipa": "/sɪt/",
+      "id": "1c51"
+    },
+    {
+      "en": "situation",
+      "vn": "tình huống",
+      "type": "n.",
+      "ipa": "/ˌsɪtʃ.uˈeɪ.ʃən/",
+      "id": "1317"
+    },
+    {
+      "en": "six",
+      "vn": "số sáu",
+      "type": "number",
+      "ipa": "/sɪks/",
+      "id": "af54"
+    },
+    {
+      "en": "sixteen",
+      "vn": "số mười sáu",
+      "type": "number",
+      "ipa": "/ˌsɪkˈstiːn/",
+      "id": "3430"
+    },
+    {
+      "en": "sixty",
+      "vn": "số sáu mươi",
+      "type": "number",
+      "ipa": "/ˈsɪk.sti/",
+      "id": "407a"
+    },
+    {
+      "en": "skill",
+      "vn": "kỹ năng",
+      "type": "n.",
+      "ipa": "/skɪl/",
+      "id": "c6cc"
+    },
+    {
+      "en": "skirt",
+      "vn": "váy",
+      "type": "n.",
+      "ipa": "/skɜːt/",
+      "id": "848c"
+    },
+    {
+      "en": "sleep",
+      "vn": "ngủ",
+      "type": "v.",
+      "ipa": "/sliːp/",
+      "id": "822d"
+    },
+    {
+      "en": "slow",
+      "vn": "chậm",
+      "type": "adj.",
+      "ipa": "/sləʊ/",
+      "id": "c7d9"
+    },
+    {
+      "en": "small",
+      "vn": "nhỏ",
+      "type": "adj.",
+      "ipa": "/smɔːl/",
+      "id": "0b6d"
+    },
+    {
+      "en": "smart",
+      "vn": "thông minh",
+      "type": "adj.",
+      "ipa": "/smɑːt/",
+      "id": "1f03"
+    },
+    {
+      "en": "snake",
+      "vn": "con rắn",
+      "type": "n.",
+      "ipa": "/sneɪk/",
+      "id": "30ec"
+    },
+    {
+      "en": "snow",
+      "vn": "tuyết, tuyết rơi",
+      "type": "n., v.",
+      "ipa": "/snəʊ/",
+      "id": "a8f9"
+    },
+    {
+      "en": "so",
+      "vn": "vì vậy",
+      "type": "adv., conj.",
+      "ipa": "/səʊ/",
+      "id": "78a7"
+    },
+    {
+      "en": "some",
+      "vn": "một số",
+      "type": "det., pron.",
+      "ipa": "/səm/",
+      "id": "b24c"
+    },
+    {
+      "en": "somebody",
+      "vn": "ai đó",
+      "type": "pron.",
+      "ipa": "/ˈsʌm.bə.di/",
+      "id": "7af5"
+    },
+    {
+      "en": "someone",
+      "vn": "ai đó",
+      "type": "pron.",
+      "ipa": "/ˈsʌm.wʌn/",
+      "id": "6a01"
+    },
+    {
+      "en": "something",
+      "vn": "điều gì đó",
+      "type": "pron.",
+      "ipa": "/ˈsʌm.θɪŋ/",
+      "id": "0dc3"
+    },
+    {
+      "en": "sometimes",
+      "vn": "đôi khi",
+      "type": "adv.",
+      "ipa": "/ˈsʌm.taɪmz/",
+      "id": "2c53"
+    },
+    {
+      "en": "son",
+      "vn": "con trai",
+      "type": "n.",
+      "ipa": "/sʌn/",
+      "id": "4d6c"
+    },
+    {
+      "en": "song",
+      "vn": "bài hát",
+      "type": "n.",
+      "ipa": "/sɒŋ/",
+      "id": "343b"
+    },
+    {
+      "en": "soon",
+      "vn": "sớm",
+      "type": "adv.",
+      "ipa": "/suːn/",
+      "id": "82a8"
+    },
+    {
+      "en": "sorry",
+      "vn": "xin lỗi",
+      "type": "adj., exclam.",
+      "ipa": "/ˈsɒr.i/",
+      "id": "9a0f"
+    },
+    {
+      "en": "sound",
+      "vn": "âm thanh, nghe",
+      "type": "n., v.",
+      "ipa": "/saʊnd/",
+      "id": "24b3"
+    },
+    {
+      "en": "soup",
+      "vn": "súp",
+      "type": "n.",
+      "ipa": "/suːp/",
+      "id": "1957"
+    },
+    {
+      "en": "south",
+      "vn": "hướng nam",
+      "type": "n., adj., adv.",
+      "ipa": "/saʊθ/",
+      "id": "2172"
+    },
+    {
+      "en": "space",
+      "vn": "không gian",
+      "type": "n.",
+      "ipa": "/speɪs/",
+      "id": "7a51"
+    },
+    {
+      "en": "speak",
+      "vn": "nói",
+      "type": "v.",
+      "ipa": "/spiːk/",
+      "id": "0ced"
+    },
+    {
+      "en": "special",
+      "vn": "đặc biệt",
+      "type": "adj.",
+      "ipa": "/speʃəl/",
+      "id": "5d7f"
+    },
+    {
+      "en": "spell",
+      "vn": "đánh vần",
+      "type": "v.",
+      "ipa": "/spel/",
+      "id": "bc4b"
+    },
+    {
+      "en": "spelling",
+      "vn": "chính tả",
+      "type": "n.",
+      "ipa": "/ˈspelɪŋ/",
+      "id": "7265"
+    },
+    {
+      "en": "spend",
+      "vn": "dùng, chi tiêu",
+      "type": "v.",
+      "ipa": "/spend/",
+      "id": "bc95"
+    },
+    {
+      "en": "sport",
+      "vn": "thể thao",
+      "type": "n.",
+      "ipa": "/spoːrt/",
+      "id": "4eeb"
+    },
+    {
+      "en": "spring",
+      "vn": "mùa xuân",
+      "type": "n.",
+      "ipa": "/sprɪŋ/",
+      "id": "db22"
+    },
+    {
+      "en": "stand",
+      "vn": "đứng",
+      "type": "v.",
+      "ipa": "/stænd/",
+      "id": "0635"
+    },
+    {
+      "en": "star",
+      "vn": "ngôi sao",
+      "type": "n.",
+      "ipa": "/staː(ɹ)/",
+      "id": "9514"
+    },
+    {
+      "en": "start",
+      "vn": "bắt đầu",
+      "type": "v.",
+      "ipa": "/staːt/",
+      "id": "e7b0"
+    },
+    {
+      "en": "statement",
+      "vn": "tuyên bố",
+      "type": "n.",
+      "ipa": "/ˈsteɪtmənt/",
+      "id": "399c"
+    },
+    {
+      "en": "station",
+      "vn": "trạm",
+      "type": "n.",
+      "ipa": "/ˈsteɪʃən/",
+      "id": "8ed0"
+    },
+    {
+      "en": "stay",
+      "vn": "ở lại",
+      "type": "v.",
+      "ipa": "/steɪ/",
+      "id": "d6c3"
+    },
+    {
+      "en": "still",
+      "vn": "vẫn còn",
+      "type": "adv.",
+      "ipa": "/stɪl/",
+      "id": "0750"
+    },
+    {
+      "en": "stop",
+      "vn": "dừng lại",
+      "type": "v., n.",
+      "ipa": "/stɑp/",
+      "id": "f5a2"
+    },
+    {
+      "en": "store",
+      "vn": "cửa hàng",
+      "type": "n.",
+      "ipa": "/stoː(ɹ)/",
+      "id": "9c16"
+    },
+    {
+      "en": "story",
+      "vn": "câu chuyện",
+      "type": "n.",
+      "ipa": "/ˈstoːri/",
+      "id": "7bb3"
+    },
+    {
+      "en": "street",
+      "vn": "đường phố",
+      "type": "n.",
+      "ipa": "/striːt/",
+      "id": "5b1e"
+    },
+    {
+      "en": "strong",
+      "vn": "mạnh mẽ",
+      "type": "adj.",
+      "ipa": "/strɒŋ/",
+      "id": "01c5"
+    },
+    {
+      "en": "student",
+      "vn": "sinh viên",
+      "type": "n.",
+      "ipa": "/ˈstjuː.dənt/",
+      "id": "e017"
+    },
+    {
+      "en": "study",
+      "vn": "nghiên cứu, học tập",
+      "type": "n., v.",
+      "ipa": "/ˈstʌd.i/",
+      "id": "20d8"
+    },
+    {
+      "en": "style",
+      "vn": "phong cách",
+      "type": "n.",
+      "ipa": "/staɪl/",
+      "id": "27ea"
+    },
+    {
+      "en": "subject",
+      "vn": "môn học",
+      "type": "n.",
+      "ipa": "/ˈsʌb.dʒɪkt/",
+      "id": "be39"
+    },
+    {
+      "en": "success",
+      "vn": "thành công",
+      "type": "n.",
+      "ipa": "/səkˈses/",
+      "id": "c31c"
+    },
+    {
+      "en": "sugar",
+      "vn": "đường",
+      "type": "n.",
+      "ipa": "/ˈʃʊɡ.ər/",
+      "id": "30e5"
+    },
+    {
+      "en": "summer",
+      "vn": "mùa hè",
+      "type": "n.",
+      "ipa": "/ˈsʌm.ər/",
+      "id": "dd3b"
+    },
+    {
+      "en": "sun",
+      "vn": "mặt trời",
+      "type": "n.",
+      "ipa": "/sʌn/",
+      "id": "dbe4"
+    },
+    {
+      "en": "Sunday",
+      "vn": "chủ nhật",
+      "type": "n.",
+      "ipa": "/ˈsʌn.deɪ/",
+      "id": "ce16"
+    },
+    {
+      "en": "supermarket",
+      "vn": "siêu thị",
+      "type": "n.",
+      "ipa": "/ˈsuː.pəˌmɑː.kɪt/",
+      "id": "6cb7"
+    },
+    {
+      "en": "sure",
+      "vn": "chắc chắn",
+      "type": "adj.",
+      "ipa": "/ʃɔːr/",
+      "id": "981a"
+    },
+    {
+      "en": "sweater",
+      "vn": "áo len",
+      "type": "n.",
+      "ipa": "/ˈswet.ər/",
+      "id": "c0b0"
+    },
+    {
+      "en": "swim",
+      "vn": "bơi",
+      "type": "v.",
+      "ipa": "/swɪm/",
+      "id": "1e74"
+    },
+    {
+      "en": "swimming",
+      "vn": "bơi lội",
+      "type": "n.",
+      "ipa": "/ˈswɪm.ɪŋ/",
+      "id": "d933"
+    },
+    {
+      "en": "table",
+      "vn": "bàn",
+      "type": "n.",
+      "ipa": "/ˈteɪ.bəl/",
+      "id": "5ad0"
+    },
+    {
+      "en": "take",
+      "vn": "lấy",
+      "type": "v.",
+      "ipa": "/teɪk/",
+      "id": "010d"
+    },
+    {
+      "en": "talk",
+      "vn": "nói chuyện",
+      "type": "v.",
+      "ipa": "/tɔːk/",
+      "id": "b621"
+    },
+    {
+      "en": "tall",
+      "vn": "cao",
+      "type": "adj.",
+      "ipa": "/tɔːl/",
+      "id": "23d2"
+    },
+    {
+      "en": "taxi",
+      "vn": "xe taxi",
+      "type": "n.",
+      "ipa": "/ˈtæk.si/",
+      "id": "6b27"
+    },
+    {
+      "en": "tea",
+      "vn": "trà",
+      "type": "n.",
+      "ipa": "/tiː/",
+      "id": "80b7"
+    },
+    {
+      "en": "teach",
+      "vn": "dạy",
+      "type": "v.",
+      "ipa": "/tiːtʃ/",
+      "id": "f1f0"
+    },
+    {
+      "en": "teacher",
+      "vn": "giáo viên",
+      "type": "n.",
+      "ipa": "/ˈtiː.tʃər/",
+      "id": "75b2"
+    },
+    {
+      "en": "team",
+      "vn": "đội",
+      "type": "n.",
+      "ipa": "/tiːm/",
+      "id": "2936"
+    },
+    {
+      "en": "teenager",
+      "vn": "thiếu niên",
+      "type": "n.",
+      "ipa": "/ˈtiːnˌeɪ.dʒər/",
+      "id": "3dbd"
+    },
+    {
+      "en": "telephone",
+      "vn": "điện thoại",
+      "type": "n., v.",
+      "ipa": "/ˈtel.ɪ.fəʊn/",
+      "id": "5c98"
+    },
+    {
+      "en": "television",
+      "vn": "tivi",
+      "type": "n.",
+      "ipa": "/ˈtel.ɪ.vɪʒ.ən/",
+      "id": "895b"
+    },
+    {
+      "en": "tell",
+      "vn": "kể, nói",
+      "type": "v.",
+      "ipa": "/tel/",
+      "id": "69e2"
+    },
+    {
+      "en": "ten",
+      "vn": "mười",
+      "type": "number",
+      "ipa": "/ten/",
+      "id": "4d90"
+    },
+    {
+      "en": "tennis",
+      "vn": "quần vợt",
+      "type": "n.",
+      "ipa": "/ˈten.ɪs/",
+      "id": "990d"
+    },
+    {
+      "en": "terrible",
+      "vn": "kinh khủng",
+      "type": "adj.",
+      "ipa": "/ˈter.ə.bəl/",
+      "id": "ecb4"
+    },
+    {
+      "en": "test",
+      "vn": "kiểm tra, bài kiểm tra",
+      "type": "n., v.",
+      "ipa": "/test/",
+      "id": "0361"
+    },
+    {
+      "en": "text",
+      "vn": "văn bản",
+      "type": "n.",
+      "ipa": "/tekst/",
+      "id": "0fbb"
+    },
+    {
+      "en": "than",
+      "vn": "hơn",
+      "type": "conj.",
+      "ipa": "/ðæn/",
+      "id": "16f0"
+    },
+    {
+      "en": "thank",
+      "vn": "cảm ơn",
+      "type": "v.",
+      "ipa": "/θæŋk/",
+      "id": "221c"
+    },
+    {
+      "en": "thanks",
+      "vn": "cảm ơn",
+      "type": "exclam., n.",
+      "ipa": "/θæŋks/",
+      "id": "36b5"
+    },
+    {
+      "en": "that",
+      "vn": "đó, cái đó",
+      "type": "det., pron., conj.",
+      "ipa": "/ðæt/",
+      "id": "9fa1"
+    },
+    {
+      "en": "the",
+      "vn": "mạo từ xác định",
+      "type": "definite article",
+      "ipa": "/ðiː/ /ðə/",
+      "id": "02ac"
+    },
+    {
+      "en": "theater",
+      "vn": "nhà hát",
+      "type": "n.",
+      "ipa": "/ˈθɪə.tər/",
+      "id": "71ea"
+    },
+    {
+      "en": "their",
+      "vn": "của họ",
+      "type": "det.",
+      "ipa": "/ðeər/",
+      "id": "7b49"
+    },
+    {
+      "en": "them",
+      "vn": "họ, chúng nó",
+      "type": "pron.",
+      "ipa": "/ðəm/",
+      "id": "6166"
+    },
+    {
+      "en": "then",
+      "vn": "sau đó",
+      "type": "adv.",
+      "ipa": "/ðen/",
+      "id": "f74d"
+    },
+    {
+      "en": "there",
+      "vn": "ở đó",
+      "type": "adv.",
+      "ipa": "/ðeər/",
+      "id": "6e34"
+    },
+    {
+      "en": "they",
+      "vn": "họ",
+      "type": "pron.",
+      "ipa": "/ðeɪ/",
+      "id": "1c55"
+    },
+    {
+      "en": "thing",
+      "vn": "điều, vật",
+      "type": "n.",
+      "ipa": "/θɪŋ/",
+      "id": "139f"
+    },
+    {
+      "en": "think",
+      "vn": "nghĩ",
+      "type": "v.",
+      "ipa": "/θɪŋk/",
+      "id": "59ad"
+    },
+    {
+      "en": "third",
+      "vn": "thứ ba",
+      "type": "number",
+      "ipa": "/θɜːd/",
+      "id": "6a00"
+    },
+    {
+      "en": "thirsty",
+      "vn": "khát",
+      "type": "adj.",
+      "ipa": "/ˈθɜː.sti/",
+      "id": "ccd2"
+    },
+    {
+      "en": "thirteen",
+      "vn": "mười ba",
+      "type": "number",
+      "ipa": "/ˌθɜːˈtiːn/",
+      "id": "9356"
+    },
+    {
+      "en": "thirty",
+      "vn": "ba mươi",
+      "type": "number",
+      "ipa": "/ˈθɜː.ti/",
+      "id": "6d45"
+    },
+    {
+      "en": "this",
+      "vn": "này, cái này",
+      "type": "det./pron.",
+      "ipa": "/ðɪs/",
+      "id": "b0b3"
+    }
+  ],
+  "a2": [
+    {
+      "en": "ability",
+      "vn": "khả năng",
+      "type": "n.",
+      "ipa": "/əˈbɪl.ɪ.ti/",
+      "id": "fe91"
+    },
+    {
+      "en": "able",
+      "vn": "có thể",
+      "type": "adj.",
+      "ipa": "/ˈeɪ.bəl/",
+      "id": "bdf7"
+    },
+    {
+      "en": "accept",
+      "vn": "chấp nhận",
+      "type": "v.",
+      "ipa": "/əkˈsept/",
+      "id": "1c95"
+    },
+    {
+      "en": "accident",
+      "vn": "tai nạn",
+      "type": "n.",
+      "ipa": "/ˈæk.sɪ.dənt/",
+      "id": "fd6a"
+    },
+    {
+      "en": "according to",
+      "vn": "theo như",
+      "type": "prep.",
+      "ipa": "/əˈkɔːr.dɪŋ tuː/",
+      "id": "5cbd"
+    },
+    {
+      "en": "achieve",
+      "vn": "đạt được",
+      "type": "v.",
+      "ipa": "/əˈtʃiːv/",
+      "id": "99ae"
+    },
+    {
+      "en": "act",
+      "vn": "hành động",
+      "type": "v.",
+      "ipa": "/ækt/",
+      "id": "8337"
+    },
+    {
+      "en": "active",
+      "vn": "năng động",
+      "type": "adj.",
+      "ipa": "/ˈæk.tɪv/",
+      "id": "5c07"
+    },
+    {
+      "en": "actually",
+      "vn": "thực ra",
+      "type": "adv.",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "id": "7cc1"
+    },
+    {
+      "en": "adult",
+      "vn": "người lớn",
+      "type": "adj., n.",
+      "ipa": "/ˈæd.ʌlt/",
+      "id": "9c8c"
+    },
+    {
+      "en": "advantage",
+      "vn": "lợi thế",
+      "type": "n.",
+      "ipa": "/ədˈvɑːn.tɪdʒ/",
+      "id": "c500"
+    },
+    {
+      "en": "adventure",
+      "vn": "cuộc phiêu lưu",
+      "type": "n.",
+      "ipa": "/ədˈven.tʃər/",
+      "id": "8d00"
+    },
+    {
+      "en": "advertise",
+      "vn": "quảng cáo",
+      "type": "v.",
+      "ipa": "/ˈæd.və.taɪz/",
+      "id": "d257"
+    },
+    {
+      "en": "advertisement",
+      "vn": "quảng cáo",
+      "type": "n.",
+      "ipa": "/ədˈvɜː.tɪs.mənt/",
+      "id": "2a7e"
+    },
+    {
+      "en": "advertising",
+      "vn": "ngành quảng cáo",
+      "type": "n.",
+      "ipa": "/ˈæd.və.taɪ.zɪŋ/",
+      "id": "5946"
+    },
+    {
+      "en": "affect",
+      "vn": "ảnh hưởng",
+      "type": "v.",
+      "ipa": "/əˈfekt/",
+      "id": "e775"
+    },
+    {
+      "en": "after",
+      "vn": "sau",
+      "type": "conj., adv.",
+      "ipa": "/ˈɑːf.tər/",
+      "id": "6c80"
+    },
+    {
+      "en": "against",
+      "vn": "chống lại",
+      "type": "prep.",
+      "ipa": "/əˈɡeɪnst/",
+      "id": "72cf"
+    },
+    {
+      "en": "ah",
+      "vn": "à",
+      "type": "exclam.",
+      "ipa": "/ɑː/",
+      "id": "2e95"
+    },
+    {
+      "en": "airline",
+      "vn": "hãng hàng không",
+      "type": "n.",
+      "ipa": "/ˈeər.laɪn/",
+      "id": "01cf"
+    },
+    {
+      "en": "alive",
+      "vn": "sống",
+      "type": "adj.",
+      "ipa": "/əˈlaɪv/",
+      "id": "9a95"
+    },
+    {
+      "en": "all",
+      "vn": "tất cả",
+      "type": "adv.",
+      "ipa": "/ɔːl/",
+      "id": "29f7"
+    },
+    {
+      "en": "all right",
+      "vn": "ổn",
+      "type": "adj./adv.",
+      "ipa": "/ɔːl ˈraɪt/",
+      "id": "98db"
+    },
+    {
+      "en": "allow",
+      "vn": "cho phép",
+      "type": "v.",
+      "ipa": "/əˈlaʊ/",
+      "id": "79c0"
+    },
+    {
+      "id": "72fc",
+      "en": "almost",
+      "vn": "hầu như",
+      "type": "adv.",
+      "ipa": "/ˈɔːl.məʊst/"
+    },
+    {
+      "id": "ab0e",
+      "en": "alone",
+      "vn": "một mình",
+      "type": "adj./adv.",
+      "ipa": "/əˈləʊn/"
+    },
+    {
+      "id": "ab7d",
+      "en": "along",
+      "vn": "dọc theo",
+      "type": "prep., adv.",
+      "ipa": "/əˈlɒŋ/"
+    },
+    {
+      "id": "68fa",
+      "en": "already",
+      "vn": "đã",
+      "type": "adv.",
+      "ipa": "/ɔːlˈrɛd.i/"
+    },
+    {
+      "id": "e352",
+      "en": "alternative",
+      "vn": "thay thế",
+      "type": "n.",
+      "ipa": "/ɔːlˈtɜː.nə.tɪv/"
+    },
+    {
+      "id": "faed",
+      "en": "although",
+      "vn": "mặc dù",
+      "type": "conj.",
+      "ipa": "/ɔːlˈðəʊ/"
+    },
+    {
+      "id": "8e3e",
+      "en": "among",
+      "vn": "giữa",
+      "type": "prep.",
+      "ipa": "/əˈmʌŋ/"
+    },
+    {
+      "id": "35f3",
+      "en": "amount",
+      "vn": "số lượng",
+      "type": "n.",
+      "ipa": "/əˈmaʊnt/"
+    },
+    {
+      "id": "d1de",
+      "en": "analyze",
+      "vn": "phân tích",
+      "type": "v.",
+      "ipa": "/ˈæn.əl.aɪz/"
+    },
+    {
+      "id": "36ad",
+      "en": "ancient",
+      "vn": "cổ đại",
+      "type": "adj.",
+      "ipa": "/ˈeɪn.ʃənt/"
+    },
+    {
+      "id": "d896",
+      "en": "ankle",
+      "vn": "mắt cá chân",
+      "type": "n.",
+      "ipa": "/ˈæŋ.kəl/"
+    },
+    {
+      "id": "8e7a",
+      "en": "any",
+      "vn": "bất kỳ",
+      "type": "adv.",
+      "ipa": "/ˈɛn.i/"
+    },
+    {
+      "id": "ee0b",
+      "en": "anybody",
+      "vn": "bất kỳ ai",
+      "type": "pron.",
+      "ipa": "/ˈɛn.iˌbɒd.i/"
+    },
+    {
+      "id": "0052",
+      "en": "anymore",
+      "vn": "nữa",
+      "type": "adv.",
+      "ipa": "/ˌɛn.iˈmɔːr/"
+    },
+    {
+      "id": "29ae",
+      "en": "anyway",
+      "vn": "dù sao",
+      "type": "adv.",
+      "ipa": "/ˈɛn.iˌweɪ/"
+    },
+    {
+      "id": "6d76",
+      "en": "anywhere",
+      "vn": "bất cứ nơi nào",
+      "type": "adv., pron.",
+      "ipa": "/ˈɛn.iˌweər/"
+    },
+    {
+      "id": "1faf",
+      "en": "app",
+      "vn": "ứng dụng",
+      "type": "n.",
+      "ipa": "/æp/"
+    },
+    {
+      "id": "8624",
+      "en": "appear",
+      "vn": "xuất hiện",
+      "type": "v.",
+      "ipa": "/əˈpɪər/"
+    },
+    {
+      "id": "a3e9",
+      "en": "appearance",
+      "vn": "diện mạo",
+      "type": "n.",
+      "ipa": "/əˈpɪə.rəns/"
+    },
+    {
+      "id": "aee4",
+      "en": "apply",
+      "vn": "áp dụng",
+      "type": "v.",
+      "ipa": "/əˈplaɪ/"
+    },
+    {
+      "id": "7d5b",
+      "en": "architect",
+      "vn": "kiến trúc sư",
+      "type": "n.",
+      "ipa": "/ˈɑː.kɪ.tekt/"
+    },
+    {
+      "id": "7f2e",
+      "en": "architecture",
+      "vn": "kiến trúc",
+      "type": "n.",
+      "ipa": "/ˈɑː.kɪ.tek.tʃər/"
+    },
+    {
+      "id": "5863",
+      "en": "argue",
+      "vn": "tranh luận",
+      "type": "v.",
+      "ipa": "/ˈɑːɡ.juː/"
+    },
+    {
+      "id": "d63f",
+      "en": "argument",
+      "vn": "cuộc tranh luận",
+      "type": "n.",
+      "ipa": "/ˈɑːɡ.jə.mənt/"
+    },
+    {
+      "id": "741e",
+      "en": "army",
+      "vn": "quân đội",
+      "type": "n.",
+      "ipa": "/ˈɑː.mi/"
+    },
+    {
+      "id": "2b8d",
+      "en": "arrange",
+      "vn": "sắp xếp",
+      "type": "v.",
+      "ipa": "/əˈreɪndʒ/"
+    },
+    {
+      "id": "52d5",
+      "en": "arrangement",
+      "vn": "sự sắp xếp",
+      "type": "n.",
+      "ipa": "/əˈreɪndʒ.mənt/"
+    },
+    {
+      "id": "1eeb",
+      "en": "as",
+      "vn": "như",
+      "type": "adv., conj.",
+      "ipa": "/æz/"
+    },
+    {
+      "id": "ca5e",
+      "en": "asleep",
+      "vn": "ngủ",
+      "type": "adj.",
+      "ipa": "/əˈsliːp/"
+    },
+    {
+      "id": "cbbc",
+      "en": "assistant",
+      "vn": "trợ lý",
+      "type": "n., adj.",
+      "ipa": "/əˈsɪs.tənt/"
+    },
+    {
+      "id": "f8da",
+      "en": "athlete",
+      "vn": "vận động viên",
+      "type": "n.",
+      "ipa": "/ˈæθ.liːt/"
+    },
+    {
+      "id": "092e",
+      "en": "attack",
+      "vn": "tấn công",
+      "type": "n., v.",
+      "ipa": "/əˈtæk/"
+    },
+    {
+      "id": "4ff5",
+      "en": "attend",
+      "vn": "tham dự",
+      "type": "v.",
+      "ipa": "/əˈtɛnd/"
+    },
+    {
+      "id": "387c",
+      "en": "attention",
+      "vn": "sự chú ý",
+      "type": "n., exclam.",
+      "ipa": "/əˈtɛn.ʃən/"
+    },
+    {
+      "id": "020a",
+      "en": "attractive",
+      "vn": "hấp dẫn",
+      "type": "adj.",
+      "ipa": "/əˈtræk.tɪv/"
+    },
+    {
+      "id": "c3ac",
+      "en": "audience",
+      "vn": "khán giả",
+      "type": "n.",
+      "ipa": "/ˈɔː.di.əns/"
+    },
+    {
+      "id": "0d37",
+      "en": "author",
+      "vn": "tác giả",
+      "type": "n.",
+      "ipa": "/ˈɔː.θər/"
+    },
+    {
+      "id": "a4e4",
+      "en": "available",
+      "vn": "có sẵn",
+      "type": "adj.",
+      "ipa": "/əˈveɪ.lə.bəl/"
+    },
+    {
+      "id": "95da",
+      "en": "average",
+      "vn": "trung bình",
+      "type": "adj., n.",
+      "ipa": "/ˈæv.ər.ɪdʒ/"
+    },
+    {
+      "id": "dd17",
+      "en": "avoid",
+      "vn": "tránh",
+      "type": "v.",
+      "ipa": "/əˈvɔɪd/"
+    },
+    {
+      "id": "95e3",
+      "en": "award",
+      "vn": "giải thưởng",
+      "type": "n.",
+      "ipa": "/əˈwɔːd/"
+    },
+    {
+      "id": "fac7",
+      "en": "awful",
+      "vn": "kinh khủng",
+      "type": "adj.",
+      "ipa": "/ˈɔː.fəl/"
+    },
+    {
+      "id": "f2d9",
+      "en": "back",
+      "vn": "phía sau",
+      "type": "adj.",
+      "ipa": "/bæk/"
+    },
+    {
+      "id": "fd62",
+      "en": "background",
+      "vn": "nền tảng",
+      "type": "n.",
+      "ipa": "/ˈbæk.ɡraʊnd/"
+    },
+    {
+      "id": "a6de",
+      "en": "badly",
+      "vn": "tệ",
+      "type": "adv.",
+      "ipa": "/ˈbæd.li/"
+    },
+    {
+      "id": "1b38",
+      "en": "based",
+      "vn": "dựa trên",
+      "type": "adj.",
+      "ipa": "/beɪst/"
+    },
+    {
+      "id": "d09b",
+      "en": "bean",
+      "vn": "hạt đậu",
+      "type": "n.",
+      "ipa": "/biːn/"
+    },
+    {
+      "id": "08cd",
+      "en": "bear (animal)",
+      "vn": "gấu",
+      "type": "n.",
+      "ipa": "/beər/"
+    },
+    {
+      "id": "1401",
+      "en": "beat",
+      "vn": "đánh bại",
+      "type": "v.",
+      "ipa": "/biːt/"
+    },
+    {
+      "id": "95c0",
+      "en": "beef",
+      "vn": "thịt bò",
+      "type": "n.",
+      "ipa": "/biːf/"
+    },
+    {
+      "id": "d044",
+      "en": "before",
+      "vn": "trước",
+      "type": "conj., adv.",
+      "ipa": "/bɪˈfɔːr/"
+    },
+    {
+      "id": "4293",
+      "en": "behave",
+      "vn": "cư xử",
+      "type": "v.",
+      "ipa": "/bɪˈheɪv/"
+    },
+    {
+      "id": "13dc",
+      "en": "behavior",
+      "vn": "hành vi",
+      "type": "n.",
+      "ipa": "/bɪˈheɪ.vjər/"
+    },
+    {
+      "id": "789f",
+      "en": "belong",
+      "vn": "thuộc về",
+      "type": "v.",
+      "ipa": "/bɪˈlɒŋ/"
+    },
+    {
+      "id": "ae3a",
+      "en": "belt",
+      "vn": "dây lưng",
+      "type": "n.",
+      "ipa": "/bɛlt/"
+    },
+    {
+      "id": "8f57",
+      "en": "benefit",
+      "vn": "lợi ích",
+      "type": "n.",
+      "ipa": "/ˈbɛn.ɪ.fɪt/"
+    },
+    {
+      "id": "2235",
+      "en": "best",
+      "vn": "tốt nhất",
+      "type": "adv., n.",
+      "ipa": "/bɛst/"
+    },
+    {
+      "id": "12c7",
+      "en": "better",
+      "vn": "tốt hơn",
+      "type": "adv.",
+      "ipa": "/ˈbɛt.ər/"
+    },
+    {
+      "id": "359a",
+      "en": "between",
+      "vn": "giữa",
+      "type": "adv.",
+      "ipa": "/bɪˈtwiːn/"
+    },
+    {
+      "id": "268e",
+      "en": "billion",
+      "vn": "tỷ",
+      "type": "number",
+      "ipa": "/ˈbɪl.jən/"
+    },
+    {
+      "id": "bd7a",
+      "en": "biology",
+      "vn": "sinh học",
+      "type": "n.",
+      "ipa": "/baɪˈɒl.ə.dʒi/"
+    },
+    {
+      "id": "d797",
+      "en": "birth",
+      "vn": "sinh",
+      "type": "n.",
+      "ipa": "/bɜːθ/"
+    },
+    {
+      "id": "f6f6",
+      "en": "bit",
+      "vn": "một chút",
+      "type": "n.",
+      "ipa": "/bɪt/"
+    },
+    {
+      "id": "5dce",
+      "en": "blank",
+      "vn": "trống",
+      "type": "adj., n.",
+      "ipa": "/blæŋk/"
+    },
+    {
+      "id": "a466",
+      "en": "block",
+      "vn": "khối",
+      "type": "n.",
+      "ipa": "/blɒk/"
+    },
+    {
+      "id": "4263",
+      "en": "blood",
+      "vn": "máu",
+      "type": "n.",
+      "ipa": "/blʌd/"
+    },
+    {
+      "id": "03c0",
+      "en": "blow",
+      "vn": "thổi",
+      "type": "v.",
+      "ipa": "/bləʊ/"
+    },
+    {
+      "id": "1487",
+      "en": "board",
+      "vn": "bảng",
+      "type": "n.",
+      "ipa": "/bɔːd/"
+    },
+    {
+      "id": "6555",
+      "en": "boil",
+      "vn": "đun sôi",
+      "type": "v.",
+      "ipa": "/bɔɪl/"
+    },
+    {
+      "id": "03f7",
+      "en": "bone",
+      "vn": "xương",
+      "type": "n.",
+      "ipa": "/bəʊn/"
+    },
+    {
+      "id": "0f63",
+      "en": "book",
+      "vn": "đặt chỗ",
+      "type": "v.",
+      "ipa": "/bʊk/"
+    },
+    {
+      "id": "17d2",
+      "en": "borrow",
+      "vn": "mượn",
+      "type": "v.",
+      "ipa": "/ˈbɒr.əʊ/"
+    },
+    {
+      "id": "4e15",
+      "en": "boss",
+      "vn": "sếp",
+      "type": "n.",
+      "ipa": "/bɒs/"
+    },
+    {
+      "id": "cfc8",
+      "en": "bottom",
+      "vn": "đáy",
+      "type": "n., adj.",
+      "ipa": "/ˈbɒt.əm/"
+    },
+    {
+      "id": "8a32",
+      "en": "bowl",
+      "vn": "bát",
+      "type": "n.",
+      "ipa": "/bəʊl/"
+    },
+    {
+      "id": "955b",
+      "en": "brain",
+      "vn": "não",
+      "type": "n.",
+      "ipa": "/breɪn/"
+    },
+    {
+      "id": "6855",
+      "en": "bridge",
+      "vn": "cầu",
+      "type": "n.",
+      "ipa": "/brɪdʒ/"
+    },
+    {
+      "id": "462e",
+      "en": "bright",
+      "vn": "sáng",
+      "type": "adj.",
+      "ipa": "/braɪt/"
+    },
+    {
+      "id": "563c",
+      "en": "brilliant",
+      "vn": "rực rỡ",
+      "type": "adj.",
+      "ipa": "/ˈbrɪl.jənt/"
+    },
+    {
+      "id": "1bc2",
+      "en": "broken",
+      "vn": "bị hỏng",
+      "type": "adj.",
+      "ipa": "/ˈbrəʊ.kən/"
+    },
+    {
+      "id": "cae9",
+      "en": "brush",
+      "vn": "chải",
+      "type": "v., n.",
+      "ipa": "/brʌʃ/"
+    },
+    {
+      "id": "b860",
+      "en": "burn",
+      "vn": "đốt cháy",
+      "type": "v.",
+      "ipa": "/bɜːn/"
+    },
+    {
+      "id": "049a",
+      "en": "businessman",
+      "vn": "doanh nhân",
+      "type": "n.",
+      "ipa": "/ˈbɪz.nɪs.mən/"
+    },
+    {
+      "id": "86c0",
+      "en": "button",
+      "vn": "nút",
+      "type": "n.",
+      "ipa": "/ˈbʌt.ən/"
+    },
+    {
+      "id": "78fb",
+      "en": "camp",
+      "vn": "cắm trại",
+      "type": "n., v.",
+      "ipa": "/kæmp/"
+    },
+    {
+      "id": "434f",
+      "en": "camping",
+      "vn": "cắm trại",
+      "type": "n.",
+      "ipa": "/ˈkæm.pɪŋ/"
+    },
+    {
+      "id": "dff1",
+      "en": "campus",
+      "vn": "khuôn viên",
+      "type": "n.",
+      "ipa": "/ˈkæm.pəs/"
+    },
+    {
+      "id": "5031",
+      "en": "can",
+      "vn": "có thể",
+      "type": "modal v.",
+      "ipa": "/kæn/"
+    },
+    {
+      "id": "4ecb",
+      "en": "candy",
+      "vn": "kẹo",
+      "type": "n.",
+      "ipa": "/ˈkæn.di/"
+    },
+    {
+      "id": "f7b0",
+      "en": "care",
+      "vn": "chăm sóc",
+      "type": "n., v.",
+      "ipa": "/keər/"
+    },
+    {
+      "id": "1529",
+      "en": "careful",
+      "vn": "cẩn thận",
+      "type": "adj.",
+      "ipa": "/ˈkeə.fəl/"
+    },
+    {
+      "id": "3b32",
+      "en": "carefully",
+      "vn": "một cách cẩn thận",
+      "type": "adv.",
+      "ipa": "/ˈkeə.fəl.i/"
+    },
+    {
+      "id": "fd13",
+      "en": "carpet",
+      "vn": "thảm",
+      "type": "n.",
+      "ipa": "/ˈkɑː.pɪt/"
+    },
+    {
+      "id": "d1cb",
+      "en": "cartoon",
+      "vn": "hoạt hình",
+      "type": "n.",
+      "ipa": "/kɑːˈtuːn/"
+    },
+    {
+      "id": "a6e4",
+      "en": "case",
+      "vn": "trường hợp",
+      "type": "n.",
+      "ipa": "/keɪs/"
+    },
+    {
+      "id": "bfd8",
+      "en": "cash",
+      "vn": "tiền mặt",
+      "type": "n.",
+      "ipa": "/kæʃ/"
+    },
+    {
+      "id": "186b",
+      "en": "catch",
+      "vn": "bắt",
+      "type": "v.",
+      "ipa": "/kætʃ/"
+    },
+    {
+      "id": "b63a",
+      "en": "cause",
+      "vn": "nguyên nhân",
+      "type": "n., v.",
+      "ipa": "/kɔːz/"
+    },
+    {
+      "id": "87a8",
+      "en": "celebrate",
+      "vn": "kỷ niệm",
+      "type": "v.",
+      "ipa": "/ˈsɛl.ɪ.breɪt/"
+    },
+    {
+      "id": "d852",
+      "en": "celebrity",
+      "vn": "người nổi tiếng",
+      "type": "n.",
+      "ipa": "/sɪˈlɛb.rɪ.ti/"
+    },
+    {
+      "id": "6a87",
+      "en": "cell",
+      "vn": "tế bào",
+      "type": "n.",
+      "ipa": "/sɛl/"
+    },
+    {
+      "id": "d7af",
+      "en": "century",
+      "vn": "thế kỷ",
+      "type": "n.",
+      "ipa": "/ˈsɛn.tʃər.i/"
+    },
+    {
+      "id": "a9ee",
+      "en": "certain",
+      "vn": "chắc chắn",
+      "type": "adj.",
+      "ipa": "/ˈsɜː.tən/"
+    },
+    {
+      "id": "a2cc",
+      "en": "certainly",
+      "vn": "chắc chắn rồi",
+      "type": "adv.",
+      "ipa": "/ˈsɜː.tən.li/"
+    },
+    {
+      "id": "758b",
+      "en": "chance",
+      "vn": "cơ hội",
+      "type": "n.",
+      "ipa": "/tʃæns/"
+    },
+    {
+      "id": "389a",
+      "en": "character",
+      "vn": "nhân vật",
+      "type": "n.",
+      "ipa": "/ˈkær.ɪk.tər/"
+    },
+    {
+      "id": "5a74",
+      "en": "charity",
+      "vn": "từ thiện",
+      "type": "n.",
+      "ipa": "/ˈtʃær.ɪ.ti/"
+    },
+    {
+      "id": "2b03",
+      "en": "chat",
+      "vn": "trò chuyện",
+      "type": "v., n.",
+      "ipa": "/tʃæt/"
+    },
+    {
+      "id": "6e20",
+      "en": "check",
+      "vn": "kiểm tra",
+      "type": "n.",
+      "ipa": "/tʃɛk/"
+    },
+    {
+      "id": "ae83",
+      "en": "chef",
+      "vn": "đầu bếp",
+      "type": "n.",
+      "ipa": "/ʃɛf/"
+    },
+    {
+      "id": "8156",
+      "en": "chemistry",
+      "vn": "hóa học",
+      "type": "n.",
+      "ipa": "/ˈkɛm.ɪ.stri/"
+    },
+    {
+      "id": "0dfa",
+      "en": "chip",
+      "vn": "miếng nhỏ",
+      "type": "n.",
+      "ipa": "/tʃɪp/"
+    },
+    {
+      "id": "0506",
+      "en": "choice",
+      "vn": "sự lựa chọn",
+      "type": "n.",
+      "ipa": "/tʃɔɪs/"
+    },
+    {
+      "id": "42a1",
+      "en": "church",
+      "vn": "nhà thờ",
+      "type": "n.",
+      "ipa": "/tʃɜːrtʃ/"
+    },
+    {
+      "id": "903a",
+      "en": "cigarette",
+      "vn": "điếu thuốc lá",
+      "type": "n.",
+      "ipa": "/ˌsɪɡ.ərˈɛt/"
+    },
+    {
+      "id": "d6ac",
+      "en": "circle",
+      "vn": "vòng tròn",
+      "type": "n., v.",
+      "ipa": "/ˈsɜː.kəl/"
+    },
+    {
+      "id": "af8d",
+      "en": "classical",
+      "vn": "cổ điển",
+      "type": "adj.",
+      "ipa": "/ˈklæs.ɪ.kəl/"
+    },
+    {
+      "id": "58ac",
+      "en": "clear",
+      "vn": "rõ ràng",
+      "type": "adj.",
+      "ipa": "/klɪər/"
+    },
+    {
+      "id": "8a83",
+      "en": "clearly",
+      "vn": "một cách rõ ràng",
+      "type": "adv.",
+      "ipa": "/ˈklɪər.li/"
+    },
+    {
+      "id": "59bb",
+      "en": "clerk",
+      "vn": "thư ký",
+      "type": "n.",
+      "ipa": "/klɜːk/"
+    },
+    {
+      "id": "c278",
+      "en": "climate",
+      "vn": "khí hậu",
+      "type": "n.",
+      "ipa": "/ˈklaɪ.mət/"
+    },
+    {
+      "id": "76a2",
+      "en": "close",
+      "vn": "gần",
+      "type": "adj.",
+      "ipa": "/kləʊz/"
+    },
+    {
+      "id": "a246",
+      "en": "closed",
+      "vn": "đóng",
+      "type": "adj.",
+      "ipa": "/kləʊzd/"
+    },
+    {
+      "id": "7a8b",
+      "en": "closet",
+      "vn": "tủ quần áo",
+      "type": "n.",
+      "ipa": "/ˈklɒz.ɪt/"
+    },
+    {
+      "id": "93ea",
+      "en": "clothing",
+      "vn": "quần áo",
+      "type": "n.",
+      "ipa": "/ˈkləʊ.ðɪŋ/"
+    },
+    {
+      "id": "bb15",
+      "en": "cloud",
+      "vn": "đám mây",
+      "type": "n.",
+      "ipa": "/klaʊd/"
+    },
+    {
+      "id": "c22b",
+      "en": "coach",
+      "vn": "huấn luyện viên",
+      "type": "n.",
+      "ipa": "/kəʊtʃ/"
+    },
+    {
+      "id": "57c3",
+      "en": "coast",
+      "vn": "bờ biển",
+      "type": "n.",
+      "ipa": "/kəʊst/"
+    },
+    {
+      "id": "0f01",
+      "en": "code",
+      "vn": "mã",
+      "type": "n.",
+      "ipa": "/kəʊd/"
+    },
+    {
+      "id": "90a3",
+      "en": "colleague",
+      "vn": "đồng nghiệp",
+      "type": "n.",
+      "ipa": "/ˈkɒl.iːɡ/"
+    },
+    {
+      "id": "f958",
+      "en": "collect",
+      "vn": "thu thập",
+      "type": "v.",
+      "ipa": "/kəˈlɛkt/"
+    },
+    {
+      "id": "7281",
+      "en": "column",
+      "vn": "cột",
+      "type": "n.",
+      "ipa": "/ˈkɒl.əm/"
+    },
+    {
+      "id": "b79f",
+      "en": "comedy",
+      "vn": "hài kịch",
+      "type": "n.",
+      "ipa": "/ˈkɒm.ə.di/"
+    },
+    {
+      "id": "13ad",
+      "en": "comfortable",
+      "vn": "thoải mái",
+      "type": "adj.",
+      "ipa": "/ˈkʌm.fə.tə.bəl/"
+    },
+    {
+      "id": "ce4c",
+      "en": "comment",
+      "vn": "bình luận",
+      "type": "n.",
+      "ipa": "/ˈkɒm.ɛnt/"
+    },
+    {
+      "id": "795b",
+      "en": "communicate",
+      "vn": "giao tiếp",
+      "type": "v.",
+      "ipa": "/kəˈmjuː.nɪ.keɪt/"
+    },
+    {
+      "id": "f0b4",
+      "en": "community",
+      "vn": "cộng đồng",
+      "type": "n.",
+      "ipa": "/kəˈmjuː.nə.ti/"
+    },
+    {
+      "id": "ebdb",
+      "en": "compete",
+      "vn": "cạnh tranh",
+      "type": "v.",
+      "ipa": "/kəmˈpiːt/"
+    },
+    {
+      "id": "edb4",
+      "en": "competition",
+      "vn": "cuộc thi",
+      "type": "n.",
+      "ipa": "/ˌkɒm.pəˈtɪʃ.ən/"
+    },
+    {
+      "id": "b6f9",
+      "en": "complain",
+      "vn": "phàn nàn",
+      "type": "v.",
+      "ipa": "/kəmˈpleɪn/"
+    }
+  ]
+}

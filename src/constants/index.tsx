@@ -1,23 +1,19 @@
 const CATEGORY_QUESTIONS = [
   {
-    key: "day1",
-    text: "Ngày 1",
+    key: "a1",
+    text: "A1",
   },
   {
-    key: "day2",
-    text: "Ngày 2",
+    key: "a2",
+    text: "A2",
   },
   {
-    key: "day3",
-    text: "Ngày 3",
+    key: "b1",
+    text: "B1",
   },
   {
-    key: "day4",
-    text: "Ngày 4",
-  },
-  {
-    key: "day5",
-    text: "Ngày 5",
+    key: "b2",
+    text: "B2",
   },
 ];
 export { CATEGORY_QUESTIONS };
