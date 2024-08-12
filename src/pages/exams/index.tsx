@@ -1,6 +1,4 @@
 import { useEffect, useState } from "react";
-import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 import { QUESTION_TYPE } from "../../types";
 import getQuestions from "../../api";
 import { shuffleDatas } from "../../helpers";
@@ -118,7 +116,6 @@ function StartExams() {
           />
         </div>
       )}
-      <ToastContainer autoClose={3000} />
     </div>
   );
 }
