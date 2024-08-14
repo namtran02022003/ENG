@@ -400,7 +400,7 @@
       "id": "31f0"
     },
     {
-      "en": "bank (money)",
+      "en": "bank",
       "vn": "ngân hàng",
       "type": "n.",
       "ipa": "/bæŋk/",
@@ -2878,7 +2878,7 @@
       "id": "0a81"
     },
     {
-      "en": "kind (type)",
+      "en": "kind",
       "vn": "loại",
       "type": "n.",
       "ipa": "/kaɪnd/",
@@ -2920,7 +2920,7 @@
       "id": "92bf"
     },
     {
-      "en": "last (final)",
+      "en": "last",
       "vn": "cuối cùng",
       "type": "det.",
       "ipa": "/lɑːst/",
@@ -3018,21 +3018,21 @@
       "id": "d3ad"
     },
     {
-      "en": "light (from the sun/a lamp)",
+      "en": "light",
       "vn": "ánh sáng, nhẹ",
       "type": "n., adj.",
       "ipa": "/laɪt/",
       "id": "776f"
     },
     {
-      "en": "like (similar)",
+      "en": "like",
       "vn": "giống",
       "type": "prep.",
       "ipa": "/laɪk/",
       "id": "0f57"
     },
     {
-      "en": "like (find sb/sth pleasant)",
+      "en": "like",
       "vn": "thích",
       "type": "v.",
       "ipa": "/laɪk/",
@@ -3207,7 +3207,7 @@
       "id": "8181"
     },
     {
-      "en": "match (contest/correspond)",
+      "en": "match",
       "vn": "trận đấu, phù hợp",
       "type": "n., v.",
       "ipa": "/mætʃ/",
@@ -4656,14 +4656,14 @@
       "id": "a0c9"
     },
     {
-      "en": "second (next after the first)",
+      "en": "second",
       "vn": "thứ hai",
       "type": "det./number",
       "ipa": "/ˈsek.ənd/",
       "id": "73cc"
     },
     {
-      "en": "second (unit of time)",
+      "en": "second",
       "vn": "giây",
       "type": "n.",
       "ipa": "/ˈsek.ənd/",
@@ -5515,6 +5515,678 @@
       "type": "det./pron.",
       "ipa": "/ðɪs/",
       "id": "b0b3"
+    },
+    {
+      "en": "thousand",
+      "vn": "nghìn",
+      "type": "number",
+      "ipa": "/ˈθaʊ.zənd/"
+    },
+    {
+      "en": "three",
+      "vn": "ba",
+      "type": "number",
+      "ipa": "/θriː/"
+    },
+    {
+      "en": "through",
+      "vn": "xuyên qua",
+      "type": "prep., adv.",
+      "ipa": "/θruː/"
+    },
+    {
+      "en": "Thursday",
+      "vn": "thứ năm",
+      "type": "n.",
+      "ipa": "/ˈθɜːz.deɪ/"
+    },
+    {
+      "en": "ticket",
+      "vn": "vé",
+      "type": "n.",
+      "ipa": "/ˈtɪk.ɪt/"
+    },
+    {
+      "en": "time",
+      "vn": "thời gian",
+      "type": "n.",
+      "ipa": "/taɪm/"
+    },
+    {
+      "en": "tired",
+      "vn": "mệt mỏi",
+      "type": "adj.",
+      "ipa": "/taɪəd/"
+    },
+    {
+      "en": "title",
+      "vn": "tiêu đề",
+      "type": "n.",
+      "ipa": "/ˈtaɪ.təl/"
+    },
+    {
+      "en": "to",
+      "vn": "đến, với",
+      "type": "prep., infinitive marker",
+      "ipa": "/tuː/"
+    },
+    {
+      "en": "today",
+      "vn": "hôm nay",
+      "type": "adv., n.",
+      "ipa": "/təˈdeɪ/"
+    },
+    {
+      "en": "together",
+      "vn": "cùng nhau",
+      "type": "adv.",
+      "ipa": "/təˈɡeð.ər/"
+    },
+    {
+      "en": "toilet",
+      "vn": "nhà vệ sinh",
+      "type": "n.",
+      "ipa": "/ˈtɔɪ.lət/"
+    },
+    {
+      "en": "tomato",
+      "vn": "cà chua",
+      "type": "n.",
+      "ipa": "/təˈmɑː.təʊ/"
+    },
+    {
+      "en": "tomorrow",
+      "vn": "ngày mai",
+      "type": "adv., n.",
+      "ipa": "/təˈmɒr.əʊ/"
+    },
+    {
+      "en": "tonight",
+      "vn": "tối nay",
+      "type": "adv., n.",
+      "ipa": "/təˈnaɪt/"
+    },
+    {
+      "en": "too",
+      "vn": "cũng",
+      "type": "adv.",
+      "ipa": "/tuː/"
+    },
+    {
+      "en": "tooth",
+      "vn": "răng",
+      "type": "n.",
+      "ipa": "/tuːθ/"
+    },
+    {
+      "en": "topic",
+      "vn": "chủ đề",
+      "type": "n.",
+      "ipa": "/ˈtɒp.ɪk/"
+    },
+    {
+      "en": "tourist",
+      "vn": "du khách",
+      "type": "n.",
+      "ipa": "/ˈtʊə.rɪst/"
+    },
+    {
+      "en": "town",
+      "vn": "thị trấn",
+      "type": "n.",
+      "ipa": "/taʊn/"
+    },
+    {
+      "en": "traffic",
+      "vn": "giao thông",
+      "type": "n.",
+      "ipa": "/ˈtræf.ɪk/"
+    },
+    {
+      "en": "train",
+      "vn": "tàu hỏa",
+      "type": "n.",
+      "ipa": "/treɪn/"
+    },
+    {
+      "en": "travel",
+      "vn": "du lịch",
+      "type": "v., n.",
+      "ipa": "/ˈtræv.əl/"
+    },
+    {
+      "en": "tree",
+      "vn": "cây",
+      "type": "n.",
+      "ipa": "/triː/"
+    },
+    {
+      "en": "trip",
+      "vn": "chuyến đi",
+      "type": "n.",
+      "ipa": "/trɪp/"
+    },
+    {
+      "en": "truck",
+      "vn": "xe tải",
+      "type": "n.",
+      "ipa": "/trʌk/"
+    },
+    {
+      "en": "true",
+      "vn": "đúng",
+      "type": "adj.",
+      "ipa": "/truː/"
+    },
+    {
+      "en": "try",
+      "vn": "thử",
+      "type": "v.",
+      "ipa": "/traɪ/"
+    },
+    {
+      "en": "T-shirt",
+      "vn": "áo phông",
+      "type": "n.",
+      "ipa": "/ˈtiː.ʃɜːt/"
+    },
+    {
+      "en": "Tuesday",
+      "vn": "thứ ba",
+      "type": "n.",
+      "ipa": "/ˈtjuːz.deɪ/"
+    },
+    {
+      "en": "turn",
+      "vn": "rẽ, lần lượt",
+      "type": "v., n.",
+      "ipa": "/tɜːn/"
+    },
+    {
+      "en": "TV",
+      "vn": "tivi",
+      "type": "n.",
+      "ipa": "/tiːˈviː/"
+    },
+    {
+      "en": "twelve",
+      "vn": "mười hai",
+      "type": "number",
+      "ipa": "/twelv/"
+    },
+    {
+      "en": "twenty",
+      "vn": "hai mươi",
+      "type": "number",
+      "ipa": "/ˈtwɛn.ti/"
+    },
+    {
+      "en": "twice",
+      "vn": "hai lần",
+      "type": "adv.",
+      "ipa": "/twaɪs/"
+    },
+    {
+      "en": "two",
+      "vn": "hai",
+      "type": "number",
+      "ipa": "/tuː/"
+    },
+    {
+      "en": "type",
+      "vn": "loại",
+      "type": "n.",
+      "ipa": "/taɪp/"
+    },
+    {
+      "en": "umbrella",
+      "vn": "ô, dù",
+      "type": "n.",
+      "ipa": "/ʌmˈbrel.ə/"
+    },
+    {
+      "en": "uncle",
+      "vn": "chú, bác",
+      "type": "n.",
+      "ipa": "/ˈʌŋ.kəl/"
+    },
+    {
+      "en": "under",
+      "vn": "dưới",
+      "type": "prep., adv.",
+      "ipa": "/ˈʌn.dər/"
+    },
+    {
+      "en": "understand",
+      "vn": "hiểu",
+      "type": "v.",
+      "ipa": "/ˌʌn.dəˈstænd/"
+    },
+    {
+      "en": "university",
+      "vn": "trường đại học",
+      "type": "n.",
+      "ipa": "/ˌjuː.nɪˈvɜː.sɪ.ti/"
+    },
+    {
+      "en": "until",
+      "vn": "cho đến khi",
+      "type": "conj./prep.",
+      "ipa": "/ənˈtɪl/"
+    },
+    {
+      "en": "up",
+      "vn": "lên",
+      "type": "adv., prep.",
+      "ipa": "/ʌp/"
+    },
+    {
+      "en": "upstairs",
+      "vn": "tầng trên",
+      "type": "adv.",
+      "ipa": "/ˈʌp.steəz/"
+    },
+    {
+      "en": "us",
+      "vn": "chúng tôi",
+      "type": "pron.",
+      "ipa": "/ʌs/"
+    },
+    {
+      "en": "use",
+      "vn": "sử dụng",
+      "type": "v.",
+      "ipa": "/juːz/"
+    },
+    {
+      "en": "useful",
+      "vn": "hữu ích",
+      "type": "adj.",
+      "ipa": "/ˈjuːs.fəl/"
+    },
+    {
+      "en": "usually",
+      "vn": "thường xuyên",
+      "type": "adv.",
+      "ipa": "/ˈjuː.ʒu.ə.li/"
+    },
+    {
+      "en": "vacation",
+      "vn": "kỳ nghỉ",
+      "type": "n.",
+      "ipa": "/vəˈkeɪ.ʃən/"
+    },
+    {
+      "en": "vegetable",
+      "vn": "rau",
+      "type": "n.",
+      "ipa": "/ˈvedʒ.tə.bəl/"
+    },
+    {
+      "en": "very",
+      "vn": "rất",
+      "type": "adv.",
+      "ipa": "/ˈver.i/"
+    },
+    {
+      "en": "video",
+      "vn": "video",
+      "type": "n.",
+      "ipa": "/ˈvɪd.i.əʊ/"
+    },
+    {
+      "en": "visit",
+      "vn": "thăm, chuyến thăm",
+      "type": "v., n.",
+      "ipa": "/ˈvɪz.ɪt/"
+    },
+    {
+      "en": "visitor",
+      "vn": "khách thăm",
+      "type": "n.",
+      "ipa": "/ˈvɪz.ɪ.tər/"
+    },
+    {
+      "en": "wait",
+      "vn": "chờ đợi",
+      "type": "v.",
+      "ipa": "/weɪt/"
+    },
+    {
+      "en": "waiter",
+      "vn": "bồi bàn nam",
+      "type": "n.",
+      "ipa": "/ˈweɪ.tər/"
+    },
+    {
+      "en": "wake",
+      "vn": "thức dậy",
+      "type": "v.",
+      "ipa": "/weɪk/"
+    },
+    {
+      "en": "walk",
+      "vn": "đi bộ, cuộc đi bộ",
+      "type": "v., n.",
+      "ipa": "/wɔːk/"
+    },
+    {
+      "en": "wall",
+      "vn": "tường",
+      "type": "n.",
+      "ipa": "/wɔːl/"
+    },
+    {
+      "en": "want",
+      "vn": "muốn",
+      "type": "v.",
+      "ipa": "/wɒnt/"
+    },
+    {
+      "en": "warm",
+      "vn": "ấm áp",
+      "type": "adj.",
+      "ipa": "/wɔːm/"
+    },
+    {
+      "en": "wash",
+      "vn": "rửa",
+      "type": "v.",
+      "ipa": "/wɒʃ/"
+    },
+    {
+      "en": "watch",
+      "vn": "xem, đồng hồ",
+      "type": "v., n.",
+      "ipa": "/wɒtʃ/"
+    },
+    {
+      "en": "water",
+      "vn": "nước",
+      "type": "n.",
+      "ipa": "/ˈwɔː.tər/"
+    },
+    {
+      "en": "way",
+      "vn": "đường",
+      "type": "n.",
+      "ipa": "/weɪ/"
+    },
+    {
+      "en": "we",
+      "vn": "chúng tôi",
+      "type": "pron.",
+      "ipa": "/wiː/"
+    },
+    {
+      "en": "wear",
+      "vn": "mặc",
+      "type": "v.",
+      "ipa": "/weər/"
+    },
+    {
+      "en": "weather",
+      "vn": "thời tiết",
+      "type": "n.",
+      "ipa": "/ˈweð.ər/"
+    },
+    {
+      "en": "website",
+      "vn": "trang web",
+      "type": "n.",
+      "ipa": "/ˈweb.saɪt/"
+    },
+    {
+      "en": "Wednesday",
+      "vn": "thứ tư",
+      "type": "n.",
+      "ipa": "/ˈwenz.deɪ/"
+    },
+    {
+      "en": "week",
+      "vn": "tuần",
+      "type": "n.",
+      "ipa": "/wiːk/"
+    },
+    {
+      "en": "weekend",
+      "vn": "cuối tuần",
+      "type": "n.",
+      "ipa": "/ˈwiːk.end/"
+    },
+    {
+      "en": "welcome",
+      "vn": "chào mừng",
+      "type": "exclam., v., adj.",
+      "ipa": "/ˈwel.kəm/"
+    },
+    {
+      "en": "well",
+      "vn": "tốt",
+      "type": "adv., adj., exclam.",
+      "ipa": "/wel/"
+    },
+    {
+      "en": "west",
+      "vn": "hướng tây",
+      "type": "n., adj., adv.",
+      "ipa": "/west/"
+    },
+    {
+      "en": "what",
+      "vn": "gì",
+      "type": "pron./det.",
+      "ipa": "/wɒt/"
+    },
+    {
+      "en": "when",
+      "vn": "khi nào",
+      "type": "adv., pron., conj.",
+      "ipa": "/wen/"
+    },
+    {
+      "en": "where",
+      "vn": "ở đâu",
+      "type": "adv., conj.",
+      "ipa": "/weər/"
+    },
+    {
+      "en": "which",
+      "vn": "nào",
+      "type": "pron./det.",
+      "ipa": "/wɪtʃ/"
+    },
+    {
+      "en": "white",
+      "vn": "trắng",
+      "type": "adj., n.",
+      "ipa": "/waɪt/"
+    },
+    {
+      "en": "who",
+      "vn": "ai",
+      "type": "pron.",
+      "ipa": "/huː/"
+    },
+    {
+      "en": "why",
+      "vn": "tại sao",
+      "type": "adv.",
+      "ipa": "/waɪ/"
+    },
+    {
+      "en": "wife",
+      "vn": "vợ",
+      "type": "n.",
+      "ipa": "/waɪf/"
+    },
+    {
+      "en": "will",
+      "vn": "sẽ",
+      "type": "modal v.",
+      "ipa": "/wɪl/"
+    },
+    {
+      "en": "win",
+      "vn": "chiến thắng",
+      "type": "v.",
+      "ipa": "/wɪn/"
+    },
+    {
+      "en": "window",
+      "vn": "cửa sổ",
+      "type": "n.",
+      "ipa": "/ˈwɪn.dəʊ/"
+    },
+    {
+      "en": "wine",
+      "vn": "rượu vang",
+      "type": "n.",
+      "ipa": "/waɪn/"
+    },
+    {
+      "en": "winter",
+      "vn": "mùa đông",
+      "type": "n.",
+      "ipa": "/ˈwɪn.tər/"
+    },
+    {
+      "en": "with",
+      "vn": "với",
+      "type": "prep.",
+      "ipa": "/wɪð/"
+    },
+    {
+      "en": "without",
+      "vn": "không có",
+      "type": "prep.",
+      "ipa": "/wɪˈðaʊt/"
+    },
+    {
+      "en": "woman",
+      "vn": "phụ nữ",
+      "type": "n.",
+      "ipa": "/ˈwʊm.ən/"
+    },
+    {
+      "en": "wonderful",
+      "vn": "tuyệt vời",
+      "type": "adj.",
+      "ipa": "/ˈwʌn.də.fəl/"
+    },
+    {
+      "en": "word",
+      "vn": "từ",
+      "type": "n.",
+      "ipa": "/wɜːd/"
+    },
+    {
+      "en": "work",
+      "vn": "làm việc, công việc",
+      "type": "v., n.",
+      "ipa": "/wɜːk/"
+    },
+    {
+      "en": "worker",
+      "vn": "người lao động",
+      "type": "n.",
+      "ipa": "/ˈwɜː.kər/"
+    },
+    {
+      "en": "world",
+      "vn": "thế giới",
+      "type": "n.",
+      "ipa": "/wɜːld/"
+    },
+    {
+      "en": "would",
+      "vn": "sẽ",
+      "type": "modal v.",
+      "ipa": "/wʊd/"
+    },
+    {
+      "en": "write",
+      "vn": "viết",
+      "type": "v.",
+      "ipa": "/raɪt/"
+    },
+    {
+      "en": "writer",
+      "vn": "nhà văn",
+      "type": "n.",
+      "ipa": "/ˈraɪ.tər/"
+    },
+    {
+      "en": "writing",
+      "vn": "viết lách",
+      "type": "n.",
+      "ipa": "/ˈraɪ.tɪŋ/"
+    },
+    {
+      "en": "wrong",
+      "vn": "sai",
+      "type": "adj.",
+      "ipa": "/rɒŋ/"
+    },
+    {
+      "en": "yard",
+      "vn": "sân",
+      "type": "n.",
+      "ipa": "/jɑːd/"
+    },
+    {
+      "en": "yeah",
+      "vn": "ừ",
+      "type": "exclam.",
+      "ipa": "/jeə/"
+    },
+    {
+      "en": "year",
+      "vn": "năm",
+      "type": "n.",
+      "ipa": "/jɪər/"
+    },
+    {
+      "en": "yellow",
+      "vn": "màu vàng",
+      "type": "adj., n.",
+      "ipa": "/ˈjel.əʊ/"
+    },
+    {
+      "en": "yes",
+      "vn": "vâng",
+      "type": "exclam.",
+      "ipa": "/jes/"
+    },
+    {
+      "en": "yesterday",
+      "vn": "hôm qua",
+      "type": "adv., n.",
+      "ipa": "/ˈjes.tə.deɪ/"
+    },
+    {
+      "en": "you",
+      "vn": "bạn",
+      "type": "pron.",
+      "ipa": "/juː/"
+    },
+    {
+      "en": "young",
+      "vn": "trẻ",
+      "type": "adj.",
+      "ipa": "/jʌŋ/"
+    },
+    {
+      "en": "your",
+      "vn": "của bạn",
+      "type": "det.",
+      "ipa": "/jɔːr/"
+    },
+    {
+      "en": "yourself",
+      "vn": "bản thân bạn",
+      "type": "pron.",
+      "ipa": "/jɔːˈself/"
     }
   ],
   "a2": [
@@ -6017,7 +6689,7 @@
     },
     {
       "id": "08cd",
-      "en": "bear (animal)",
+      "en": "bear",
       "vn": "gấu",
       "type": "n.",
       "ipa": "/beər/"
